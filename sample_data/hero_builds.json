@@ -1,0 +1,6932 @@
+{
+  "Abathur": [
+    {
+      "calculated_wins": 250,
+      "calculated_losses": 228,
+      "calculated_games_played": 478,
+      "win_rate": 52.3,
+      "build_talents": [
+        "Pressurized Glands",
+        "Adrenal Overload",
+        "Calldown: MULE",
+        "Ultimate Evolution",
+        "Soma Transference",
+        "Envenomed Spikes",
+        "Hivemind"
+      ]
+    },
+    {
+      "calculated_wins": 188,
+      "calculated_losses": 190,
+      "calculated_games_played": 378,
+      "win_rate": 49.74,
+      "build_talents": [
+        "Reinforced Carapace",
+        "Adrenal Overload",
+        "Networked Carapace",
+        "Evolve Monstrosity",
+        "Soma Transference",
+        "Adrenaline Boost",
+        "Hivemind"
+      ]
+    },
+    {
+      "calculated_wins": 149,
+      "calculated_losses": 170,
+      "calculated_games_played": 319,
+      "win_rate": 46.71,
+      "build_talents": [
+        "Pressurized Glands",
+        "Adrenal Overload",
+        "Networked Carapace",
+        "Evolve Monstrosity",
+        "Soma Transference",
+        "Adrenaline Boost",
+        "Hivemind"
+      ]
+    },
+    {
+      "calculated_wins": 220,
+      "calculated_losses": 282,
+      "calculated_games_played": 502,
+      "win_rate": 43.82,
+      "build_talents": [
+        "Pressurized Glands",
+        "Adrenal Overload",
+        "Calldown: MULE",
+        "Ultimate Evolution",
+        "Soma Transference",
+        "Adrenaline Boost",
+        "Hivemind"
+      ]
+    },
+    {
+      "calculated_wins": 138,
+      "calculated_losses": 178,
+      "calculated_games_played": 316,
+      "win_rate": 43.67,
+      "build_talents": [
+        "Pressurized Glands",
+        "Adrenal Overload",
+        "Networked Carapace",
+        "Ultimate Evolution",
+        "Soma Transference",
+        "Adrenaline Boost",
+        "Hivemind"
+      ]
+    }
+  ],
+  "Alarak": [
+    {
+      "calculated_wins": 149,
+      "calculated_losses": 110,
+      "calculated_games_played": 259,
+      "win_rate": 57.53,
+      "build_talents": [
+        "Overwhelming Power",
+        "Chaos Reigns",
+        "Hindered Motion",
+        "Counter-Strike",
+        "Blade of the Highlord",
+        "Mocking Strikes",
+        "Deadly Charge"
+      ]
+    },
+    {
+      "calculated_wins": 211,
+      "calculated_losses": 213,
+      "calculated_games_played": 424,
+      "win_rate": 49.76,
+      "build_talents": [
+        "Overwhelming Power",
+        "Show of Force",
+        "Hindered Motion",
+        "Counter-Strike",
+        "Blade of the Highlord",
+        "Lethal Onslaught",
+        "Deadly Charge"
+      ]
+    },
+    {
+      "calculated_wins": 136,
+      "calculated_losses": 147,
+      "calculated_games_played": 283,
+      "win_rate": 48.06,
+      "build_talents": [
+        "Overwhelming Power",
+        "Chaos Reigns",
+        "Hindered Motion",
+        "Counter-Strike",
+        "Blade of the Highlord",
+        "Lethal Onslaught",
+        "Deadly Charge"
+      ]
+    },
+    {
+      "calculated_wins": 117,
+      "calculated_losses": 128,
+      "calculated_games_played": 245,
+      "win_rate": 47.76,
+      "build_talents": [
+        "Overwhelming Power",
+        "Show of Force",
+        "Hindered Motion",
+        "Deadly Charge",
+        "Blade of the Highlord",
+        "Mocking Strikes",
+        "Counter-Strike"
+      ]
+    },
+    {
+      "calculated_wins": 119,
+      "calculated_losses": 183,
+      "calculated_games_played": 302,
+      "win_rate": 39.4,
+      "build_talents": [
+        "Overwhelming Power",
+        "Show of Force",
+        "Hindered Motion",
+        "Deadly Charge",
+        "Blade of the Highlord",
+        "Lethal Onslaught",
+        "Counter-Strike"
+      ]
+    }
+  ],
+  "Alexstrasza": [
+    {
+      "calculated_wins": 196,
+      "calculated_losses": 125,
+      "calculated_games_played": 321,
+      "win_rate": 61.06,
+      "build_talents": [
+        "Circle of Life",
+        "Surge of Vitality",
+        "Verdant Flourish",
+        "Life-Binder",
+        "Life Unbound",
+        "Overprotective",
+        "Ritual of Life"
+      ]
+    },
+    {
+      "calculated_wins": 99,
+      "calculated_losses": 66,
+      "calculated_games_played": 165,
+      "win_rate": 60,
+      "build_talents": [
+        "Circle of Life",
+        "Surge of Vitality",
+        "Verdant Flourish",
+        "Life-Binder",
+        "Dragon Scales",
+        "Overprotective",
+        "Ritual of Life"
+      ]
+    },
+    {
+      "calculated_wins": 229,
+      "calculated_losses": 210,
+      "calculated_games_played": 439,
+      "win_rate": 52.16,
+      "build_talents": [
+        "Flames of Fury",
+        "Heat Exhaustion",
+        "Fire Within",
+        "Cleansing Flame",
+        "Dragon Scales",
+        "Draconic Discipline",
+        "Ancient Flame"
+      ]
+    },
+    {
+      "calculated_wins": 250,
+      "calculated_losses": 263,
+      "calculated_games_played": 513,
+      "win_rate": 48.73,
+      "build_talents": [
+        "Live and Let Live",
+        "Exuberance",
+        "Lifeblossom",
+        "Life-Binder",
+        "Life Unbound",
+        "Tough Love",
+        "Ritual of Life"
+      ]
+    },
+    {
+      "calculated_wins": 96,
+      "calculated_losses": 107,
+      "calculated_games_played": 203,
+      "win_rate": 47.29,
+      "build_talents": [
+        "Flames of Fury",
+        "Heat Exhaustion",
+        "Fire Within",
+        "Cleansing Flame",
+        "Pacify",
+        "Draconic Discipline",
+        "Ancient Flame"
+      ]
+    }
+  ],
+  "Ana": [
+    {
+      "calculated_wins": 191,
+      "calculated_losses": 225,
+      "calculated_games_played": 416,
+      "win_rate": 45.91,
+      "build_talents": [
+        "Slumber Shells",
+        "Overdose",
+        "Night Terrors",
+        "Nano Boost",
+        "Purifying Darts",
+        "Active Reload",
+        "Nano Infusion"
+      ]
+    },
+    {
+      "calculated_wins": 268,
+      "calculated_losses": 338,
+      "calculated_games_played": 606,
+      "win_rate": 44.22,
+      "build_talents": [
+        "Slumber Shells",
+        "Overdose",
+        "Night Terrors",
+        "Nano Boost",
+        "Smelling Salts",
+        "Active Reload",
+        "Nano Infusion"
+      ]
+    },
+    {
+      "calculated_wins": 64,
+      "calculated_losses": 94,
+      "calculated_games_played": 158,
+      "win_rate": 40.51,
+      "build_talents": [
+        "Contact Healing",
+        "Biotic Enhancements",
+        "Anti-Healer",
+        "Nano Boost",
+        "Purifying Darts",
+        "Active Reload",
+        "Nano Infusion"
+      ]
+    },
+    {
+      "calculated_wins": 53,
+      "calculated_losses": 94,
+      "calculated_games_played": 147,
+      "win_rate": 36.05,
+      "build_talents": [
+        "Contact Healing",
+        "Biotic Enhancements",
+        "Anti-Healer",
+        "Nano Boost",
+        "Purifying Darts",
+        "Sharpshooter",
+        "Nano Infusion"
+      ]
+    },
+    {
+      "calculated_wins": 59,
+      "calculated_losses": 113,
+      "calculated_games_played": 172,
+      "win_rate": 34.3,
+      "build_talents": [
+        "Contact Healing",
+        "Biotic Enhancements",
+        "Anti-Healer",
+        "Nano Boost",
+        "Smelling Salts",
+        "Active Reload",
+        "Nano Infusion"
+      ]
+    }
+  ],
+  "Anduin": [
+    {
+      "calculated_wins": 308,
+      "calculated_losses": 339,
+      "calculated_games_played": 647,
+      "win_rate": 47.6,
+      "build_talents": [
+        "Power Word: Shield",
+        "Piercing Light",
+        "Desperate Prayer",
+        "Lightbomb",
+        "Enchant Boots - Lion's Speed",
+        "Glyph of Faith",
+        "Censure"
+      ]
+    },
+    {
+      "calculated_wins": 373,
+      "calculated_losses": 415,
+      "calculated_games_played": 788,
+      "win_rate": 47.34,
+      "build_talents": [
+        "Power Word: Shield",
+        "Moral Compass",
+        "Desperate Prayer",
+        "Lightbomb",
+        "Speed of the Pious",
+        "Glyph of Faith",
+        "Inner Fire"
+      ]
+    },
+    {
+      "calculated_wins": 510,
+      "calculated_losses": 628,
+      "calculated_games_played": 1138,
+      "win_rate": 44.82,
+      "build_talents": [
+        "Evenhanded Blessings",
+        "Piercing Light",
+        "Desperate Prayer",
+        "Lightbomb",
+        "Enchant Boots - Lion's Speed",
+        "Glyph of Faith",
+        "Censure"
+      ]
+    },
+    {
+      "calculated_wins": 479,
+      "calculated_losses": 623,
+      "calculated_games_played": 1102,
+      "win_rate": 43.47,
+      "build_talents": [
+        "Evenhanded Blessings",
+        "Piercing Light",
+        "Desperate Prayer",
+        "Lightbomb",
+        "Enchant Boots - Lion's Speed",
+        "Glyph of Faith",
+        "Inner Fire"
+      ]
+    },
+    {
+      "calculated_wins": 296,
+      "calculated_losses": 407,
+      "calculated_games_played": 703,
+      "win_rate": 42.11,
+      "build_talents": [
+        "Lightwell",
+        "Piercing Light",
+        "Desperate Prayer",
+        "Lightbomb",
+        "Enchant Boots - Lion's Speed",
+        "Glyph of Faith",
+        "Censure"
+      ]
+    }
+  ],
+  "Anub'arak": [
+    {
+      "calculated_wins": 621,
+      "calculated_losses": 441,
+      "calculated_games_played": 1062,
+      "win_rate": 58.47,
+      "build_talents": [
+        "Legion of Beetles",
+        "Bed of Barbs",
+        "Leeching Scarabs",
+        "Locust Swarm",
+        "Burning Beetles",
+        "Beetle, Juiced",
+        "Hive Master"
+      ]
+    },
+    {
+      "calculated_wins": 1124,
+      "calculated_losses": 912,
+      "calculated_games_played": 2036,
+      "win_rate": 55.21,
+      "build_talents": [
+        "Legion of Beetles",
+        "Bed of Barbs",
+        "Leeching Scarabs",
+        "Cocoon",
+        "Burning Beetles",
+        "Beetle, Juiced",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 264,
+      "calculated_losses": 252,
+      "calculated_games_played": 516,
+      "win_rate": 51.16,
+      "build_talents": [
+        "Legion of Beetles",
+        "Shed Exoskeleton",
+        "Leeching Scarabs",
+        "Cocoon",
+        "Burning Beetles",
+        "Beetle, Juiced",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 539,
+      "calculated_losses": 535,
+      "calculated_games_played": 1074,
+      "win_rate": 50.19,
+      "build_talents": [
+        "Legion of Beetles",
+        "Bed of Barbs",
+        "Leeching Scarabs",
+        "Cocoon",
+        "Burning Beetles",
+        "Epicenter",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 434,
+      "calculated_losses": 477,
+      "calculated_games_played": 911,
+      "win_rate": 47.64,
+      "build_talents": [
+        "Nerubian Armor",
+        "Shed Exoskeleton",
+        "Chitinous Plating",
+        "Cocoon",
+        "Urticating Spines",
+        "Epicenter",
+        "Rewind"
+      ]
+    }
+  ],
+  "Artanis": [
+    {
+      "calculated_wins": 194,
+      "calculated_losses": 176,
+      "calculated_games_played": 370,
+      "win_rate": 52.43,
+      "build_talents": [
+        "Amateur Opponent",
+        "Shield Battery",
+        "Solarite Reaper",
+        "Suppression Pulse",
+        "Phase Bulwark",
+        "Force of Will",
+        "Plasma Burn"
+      ]
+    },
+    {
+      "calculated_wins": 219,
+      "calculated_losses": 207,
+      "calculated_games_played": 426,
+      "win_rate": 51.41,
+      "build_talents": [
+        "Protector Of Aiur",
+        "Psionic Synergy",
+        "Chrono Surge",
+        "Purifier Beam",
+        "Graviton Vortex",
+        "Blades of a Templar",
+        "Target Purified"
+      ]
+    },
+    {
+      "calculated_wins": 176,
+      "calculated_losses": 190,
+      "calculated_games_played": 366,
+      "win_rate": 48.09,
+      "build_talents": [
+        "Protector Of Aiur",
+        "Shield Battery",
+        "Final Cut",
+        "Purifier Beam",
+        "Triple Strike",
+        "Titan Killer",
+        "Target Purified"
+      ]
+    },
+    {
+      "calculated_wins": 217,
+      "calculated_losses": 271,
+      "calculated_games_played": 488,
+      "win_rate": 44.47,
+      "build_talents": [
+        "Protector Of Aiur",
+        "Shield Surge",
+        "Final Cut",
+        "Suppression Pulse",
+        "Triple Strike",
+        "Titan Killer",
+        "Zealot Charge"
+      ]
+    },
+    {
+      "calculated_wins": 168,
+      "calculated_losses": 230,
+      "calculated_games_played": 398,
+      "win_rate": 42.21,
+      "build_talents": [
+        "Protector Of Aiur",
+        "Shield Surge",
+        "Final Cut",
+        "Purifier Beam",
+        "Triple Strike",
+        "Titan Killer",
+        "Target Purified"
+      ]
+    }
+  ],
+  "Arthas": [
+    {
+      "calculated_wins": 82,
+      "calculated_losses": 84,
+      "calculated_games_played": 166,
+      "win_rate": 49.4,
+      "build_talents": [
+        "Eternal Hunger",
+        "Icy Talons",
+        "Rune Tap",
+        "Summon Sindragosa",
+        "Frost Strike",
+        "Frostmourne Feeds",
+        "Death's Advance"
+      ]
+    },
+    {
+      "calculated_wins": 87,
+      "calculated_losses": 96,
+      "calculated_games_played": 183,
+      "win_rate": 47.54,
+      "build_talents": [
+        "Frost Presence",
+        "Deathlord",
+        "Immortal Coil",
+        "Summon Sindragosa",
+        "Shattered Armor",
+        "Embrace Death",
+        "Absolute Zero"
+      ]
+    },
+    {
+      "calculated_wins": 105,
+      "calculated_losses": 142,
+      "calculated_games_played": 247,
+      "win_rate": 42.51,
+      "build_talents": [
+        "Eternal Hunger",
+        "Icy Talons",
+        "Rune Tap",
+        "Army of the Dead",
+        "Frost Strike",
+        "Frostmourne Feeds",
+        "Death's Advance"
+      ]
+    },
+    {
+      "calculated_wins": 71,
+      "calculated_losses": 103,
+      "calculated_games_played": 174,
+      "win_rate": 40.8,
+      "build_talents": [
+        "Frost Presence",
+        "Frozen Wastes",
+        "Icebound Fortitude",
+        "Army of the Dead",
+        "Shattered Armor",
+        "Remorseless Winter",
+        "Legion of Northrend"
+      ]
+    },
+    {
+      "calculated_wins": 69,
+      "calculated_losses": 126,
+      "calculated_games_played": 195,
+      "win_rate": 35.38,
+      "build_talents": [
+        "Eternal Hunger",
+        "Icy Talons",
+        "Rune Tap",
+        "Army of the Dead",
+        "Frost Strike",
+        "Frostmourne Feeds",
+        "Legion of Northrend"
+      ]
+    }
+  ],
+  "Auriel": [
+    {
+      "calculated_wins": 102,
+      "calculated_losses": 87,
+      "calculated_games_played": 189,
+      "win_rate": 53.97,
+      "build_talents": [
+        "Searing Light",
+        "Repeated Offense",
+        "Empathic Link",
+        "Crystal Aegis",
+        "Piercing Lash",
+        "Reservoir of Hope",
+        "Shield of Hope"
+      ]
+    },
+    {
+      "calculated_wins": 188,
+      "calculated_losses": 161,
+      "calculated_games_played": 349,
+      "win_rate": 53.87,
+      "build_talents": [
+        "Searing Light",
+        "Repeated Offense",
+        "Energized Cord",
+        "Crystal Aegis",
+        "Piercing Lash",
+        "Reservoir of Hope",
+        "Shield of Hope"
+      ]
+    },
+    {
+      "calculated_wins": 197,
+      "calculated_losses": 184,
+      "calculated_games_played": 381,
+      "win_rate": 51.71,
+      "build_talents": [
+        "Searing Light",
+        "Repeated Offense",
+        "Glimmer of Hope",
+        "Crystal Aegis",
+        "Piercing Lash",
+        "Reservoir of Hope",
+        "Shield of Hope"
+      ]
+    },
+    {
+      "calculated_wins": 88,
+      "calculated_losses": 83,
+      "calculated_games_played": 171,
+      "win_rate": 51.46,
+      "build_talents": [
+        "Searing Light",
+        "Repeated Offense",
+        "Energized Cord",
+        "Crystal Aegis",
+        "Blinding Flash",
+        "Reservoir of Hope",
+        "Shield of Hope"
+      ]
+    },
+    {
+      "calculated_wins": 162,
+      "calculated_losses": 197,
+      "calculated_games_played": 359,
+      "win_rate": 45.13,
+      "build_talents": [
+        "Searing Light",
+        "Repeated Offense",
+        "Glimmer of Hope",
+        "Crystal Aegis",
+        "Blinding Flash",
+        "Reservoir of Hope",
+        "Shield of Hope"
+      ]
+    }
+  ],
+  "Azmodan": [
+    {
+      "calculated_wins": 566,
+      "calculated_losses": 453,
+      "calculated_games_played": 1019,
+      "win_rate": 55.54,
+      "build_talents": [
+        "Greed",
+        "Hellforged Armor",
+        "Master of Destruction",
+        "Demonic Invasion",
+        "Cydaea's Kiss",
+        "Hell Rift",
+        "Sin's Grasp"
+      ]
+    },
+    {
+      "calculated_wins": 625,
+      "calculated_losses": 605,
+      "calculated_games_played": 1230,
+      "win_rate": 50.81,
+      "build_talents": [
+        "Gluttony",
+        "Hellforged Armor",
+        "Art of Chaos",
+        "Tide of Sin",
+        "Brutish Vanguard",
+        "Total Annihilation",
+        "Pride"
+      ]
+    },
+    {
+      "calculated_wins": 492,
+      "calculated_losses": 513,
+      "calculated_games_played": 1005,
+      "win_rate": 48.96,
+      "build_talents": [
+        "Gluttony",
+        "Army of Hell",
+        "Art of Chaos",
+        "Tide of Sin",
+        "Brutish Vanguard",
+        "Total Annihilation",
+        "Pride"
+      ]
+    },
+    {
+      "calculated_wins": 201,
+      "calculated_losses": 210,
+      "calculated_games_played": 411,
+      "win_rate": 48.91,
+      "build_talents": [
+        "Greed",
+        "Army of Hell",
+        "Master of Destruction",
+        "Demonic Invasion",
+        "Cydaea's Kiss",
+        "Hell Rift",
+        "Sin's Grasp"
+      ]
+    },
+    {
+      "calculated_wins": 190,
+      "calculated_losses": 228,
+      "calculated_games_played": 418,
+      "win_rate": 45.45,
+      "build_talents": [
+        "Gluttony",
+        "Battleborn",
+        "Art of Chaos",
+        "Tide of Sin",
+        "Chain of Command",
+        "Total Annihilation",
+        "Pride"
+      ]
+    }
+  ],
+  "Blaze": [
+    {
+      "calculated_wins": 543,
+      "calculated_losses": 519,
+      "calculated_games_played": 1062,
+      "win_rate": 51.13,
+      "build_talents": [
+        "Adrenaline Stimpack",
+        "Incinerator Gauntlets",
+        "Nanomachine Coating",
+        "Bunker Drop",
+        "Collision Course",
+        "Thermal Protection",
+        "Fortified Bunker"
+      ]
+    },
+    {
+      "calculated_wins": 146,
+      "calculated_losses": 140,
+      "calculated_games_played": 286,
+      "win_rate": 51.05,
+      "build_talents": [
+        "Neural Stimpack",
+        "Oil Dispersal",
+        "Nanomachine Coating",
+        "Bunker Drop",
+        "Collision Course",
+        "Thermal Protection",
+        "Fortified Bunker"
+      ]
+    },
+    {
+      "calculated_wins": 406,
+      "calculated_losses": 414,
+      "calculated_games_played": 820,
+      "win_rate": 49.51,
+      "build_talents": [
+        "Adrenaline Stimpack",
+        "Incinerator Gauntlets",
+        "Nanomachine Coating",
+        "Bunker Drop",
+        "Collision Course",
+        "Thermal Protection",
+        "Burn Notice"
+      ]
+    },
+    {
+      "calculated_wins": 307,
+      "calculated_losses": 345,
+      "calculated_games_played": 652,
+      "win_rate": 47.09,
+      "build_talents": [
+        "Adrenaline Stimpack",
+        "Incinerator Gauntlets",
+        "Suppressive Fire",
+        "Bunker Drop",
+        "Collision Course",
+        "Thermal Protection",
+        "Fortified Bunker"
+      ]
+    },
+    {
+      "calculated_wins": 233,
+      "calculated_losses": 266,
+      "calculated_games_played": 499,
+      "win_rate": 46.69,
+      "build_talents": [
+        "Adrenaline Stimpack",
+        "Incinerator Gauntlets",
+        "Suppressive Fire",
+        "Bunker Drop",
+        "Collision Course",
+        "Thermal Protection",
+        "Burn Notice"
+      ]
+    }
+  ],
+  "Brightwing": [
+    {
+      "calculated_wins": 401,
+      "calculated_losses": 436,
+      "calculated_games_played": 837,
+      "win_rate": 47.91,
+      "build_talents": [
+        "Hyper Shift",
+        "Magic Spit",
+        "Critical Mist",
+        "Blink Heal",
+        "Pixie Power",
+        "Critterize",
+        "Invisible Friends"
+      ]
+    },
+    {
+      "calculated_wins": 800,
+      "calculated_losses": 892,
+      "calculated_games_played": 1692,
+      "win_rate": 47.28,
+      "build_talents": [
+        "Hyper Shift",
+        "Unstable Anomaly",
+        "Peekaboo!",
+        "Blink Heal",
+        "Safety Dust",
+        "Critterize",
+        "Invisible Friends"
+      ]
+    },
+    {
+      "calculated_wins": 709,
+      "calculated_losses": 817,
+      "calculated_games_played": 1526,
+      "win_rate": 46.46,
+      "build_talents": [
+        "Hyper Shift",
+        "Magic Spit",
+        "Critical Mist",
+        "Blink Heal",
+        "Safety Dust",
+        "Critterize",
+        "Invisible Friends"
+      ]
+    },
+    {
+      "calculated_wins": 444,
+      "calculated_losses": 518,
+      "calculated_games_played": 962,
+      "win_rate": 46.15,
+      "build_talents": [
+        "Hyper Shift",
+        "Unstable Anomaly",
+        "Peekaboo!",
+        "Blink Heal",
+        "Pixie Power",
+        "Critterize",
+        "Invisible Friends"
+      ]
+    },
+    {
+      "calculated_wins": 448,
+      "calculated_losses": 657,
+      "calculated_games_played": 1105,
+      "win_rate": 40.54,
+      "build_talents": [
+        "Hyper Shift",
+        "Magic Spit",
+        "Critical Mist",
+        "Blink Heal",
+        "Safety Dust",
+        "Critterize",
+        "Faerie Protector"
+      ]
+    }
+  ],
+  "Cassia": [
+    {
+      "calculated_wins": 437,
+      "calculated_losses": 392,
+      "calculated_games_played": 829,
+      "win_rate": 52.71,
+      "build_talents": [
+        "Thunderstroke",
+        "Inner Light",
+        "Surge of Light",
+        "Ball Lightning",
+        "War Traveler",
+        "Static Electricity",
+        "Infinite Lightning"
+      ]
+    },
+    {
+      "calculated_wins": 152,
+      "calculated_losses": 142,
+      "calculated_games_played": 294,
+      "win_rate": 51.7,
+      "build_talents": [
+        "Thunderstroke",
+        "Plate of the Whale",
+        "Surge of Light",
+        "Ball Lightning",
+        "War Traveler",
+        "Static Electricity",
+        "Infinite Lightning"
+      ]
+    },
+    {
+      "calculated_wins": 233,
+      "calculated_losses": 238,
+      "calculated_games_played": 471,
+      "win_rate": 49.47,
+      "build_talents": [
+        "Thunderstroke",
+        "Inner Light",
+        "Surge of Light",
+        "Ball Lightning",
+        "War Matron",
+        "Static Electricity",
+        "Infinite Lightning"
+      ]
+    },
+    {
+      "calculated_wins": 86,
+      "calculated_losses": 100,
+      "calculated_games_played": 186,
+      "win_rate": 46.24,
+      "build_talents": [
+        "Thunderstroke",
+        "Inner Light",
+        "Grounding Rod",
+        "Ball Lightning",
+        "War Matron",
+        "Static Electricity",
+        "Infinite Lightning"
+      ]
+    },
+    {
+      "calculated_wins": 77,
+      "calculated_losses": 102,
+      "calculated_games_played": 179,
+      "win_rate": 43.02,
+      "build_talents": [
+        "Charged Strikes",
+        "Ring of the Leech",
+        "Surge of Light",
+        "Ball Lightning",
+        "Gloves of Alacrity",
+        "Martial Law",
+        "Titan's Revenge"
+      ]
+    }
+  ],
+  "Chen": [
+    {
+      "calculated_wins": 47,
+      "calculated_losses": 47,
+      "calculated_games_played": 94,
+      "win_rate": 50,
+      "build_talents": [
+        "Eye of the Tiger",
+        "Accumulating Flame",
+        "Brewmaster's Balance",
+        "Storm, Earth, Fire",
+        "Ring of Fire",
+        "Combo Strikes",
+        "Elemental Conduit"
+      ]
+    },
+    {
+      "calculated_wins": 117,
+      "calculated_losses": 121,
+      "calculated_games_played": 238,
+      "win_rate": 49.16,
+      "build_talents": [
+        "Freshest Ingredients",
+        "Deadly Strike",
+        "Elusive Brawler",
+        "Wandering Keg",
+        "Enough to Share",
+        "Flying Leap",
+        "Purifying Brew"
+      ]
+    },
+    {
+      "calculated_wins": 50,
+      "calculated_losses": 55,
+      "calculated_games_played": 105,
+      "win_rate": 47.62,
+      "build_talents": [
+        "Freshest Ingredients",
+        "Deadly Strike",
+        "Elusive Brawler",
+        "Wandering Keg",
+        "Enough to Share",
+        "Combo Strikes",
+        "Purifying Brew"
+      ]
+    },
+    {
+      "calculated_wins": 40,
+      "calculated_losses": 44,
+      "calculated_games_played": 84,
+      "win_rate": 47.62,
+      "build_talents": [
+        "Freshest Ingredients",
+        "Deadly Strike",
+        "Elusive Brawler",
+        "Wandering Keg",
+        "Pressure Point",
+        "Flying Leap",
+        "Purifying Brew"
+      ]
+    },
+    {
+      "calculated_wins": 20,
+      "calculated_losses": 31,
+      "calculated_games_played": 51,
+      "win_rate": 39.22,
+      "build_talents": [
+        "Freshest Ingredients",
+        "Deadly Strike",
+        "Brewmaster's Balance",
+        "Wandering Keg",
+        "Enough to Share",
+        "Combo Strikes",
+        "Energizing Brew"
+      ]
+    }
+  ],
+  "Cho": [
+    {
+      "calculated_wins": 60,
+      "calculated_losses": 39,
+      "calculated_games_played": 99,
+      "win_rate": 60.61,
+      "build_talents": [
+        "Calloused Hide",
+        "Seared Flesh",
+        "Enraged Regeneration",
+        "Hammer of Twilight",
+        "Molten Block",
+        "Frenzied Fists",
+        "C'Thun's Gift"
+      ]
+    },
+    {
+      "calculated_wins": 19,
+      "calculated_losses": 14,
+      "calculated_games_played": 33,
+      "win_rate": 57.58,
+      "build_talents": [
+        "Calloused Hide",
+        "Seared Flesh",
+        "Enraged Regeneration",
+        "Upheaval",
+        "Molten Block",
+        "Runed Gauntlet",
+        "Favor of the Old Gods"
+      ]
+    },
+    {
+      "calculated_wins": 15,
+      "calculated_losses": 13,
+      "calculated_games_played": 28,
+      "win_rate": 53.57,
+      "build_talents": [
+        "Consuming Fire",
+        "Seared Flesh",
+        "Enraged Regeneration",
+        "Hammer of Twilight",
+        "Molten Block",
+        "Frenzied Fists",
+        "C'Thun's Gift"
+      ]
+    },
+    {
+      "calculated_wins": 14,
+      "calculated_losses": 17,
+      "calculated_games_played": 31,
+      "win_rate": 45.16,
+      "build_talents": [
+        "Calloused Hide",
+        "Rollback",
+        "Enraged Regeneration",
+        "Upheaval",
+        "Molten Block",
+        "Runic Feedback",
+        "Favor of the Old Gods"
+      ]
+    },
+    {
+      "calculated_wins": 26,
+      "calculated_losses": 50,
+      "calculated_games_played": 76,
+      "win_rate": 34.21,
+      "build_talents": [
+        "Calloused Hide",
+        "Seared Flesh",
+        "Enraged Regeneration",
+        "Hammer of Twilight",
+        "Twilight Veil",
+        "Frenzied Fists",
+        "C'Thun's Gift"
+      ]
+    }
+  ],
+  "Chromie": [
+    {
+      "calculated_wins": 118,
+      "calculated_losses": 92,
+      "calculated_games_played": 210,
+      "win_rate": 56.19,
+      "build_talents": [
+        "Deep Breathing",
+        "Time Troubles",
+        "Mobius Loop",
+        "Temporal Loop",
+        "Time Out",
+        "Shifting Sands",
+        "Piercing Sands"
+      ]
+    },
+    {
+      "calculated_wins": 145,
+      "calculated_losses": 134,
+      "calculated_games_played": 279,
+      "win_rate": 51.97,
+      "build_talents": [
+        "Deep Breathing",
+        "Andorhal Anomaly",
+        "Mobius Loop",
+        "Temporal Loop",
+        "Time Out",
+        "Quantum Overdrive",
+        "Stuck in a Loop"
+      ]
+    },
+    {
+      "calculated_wins": 178,
+      "calculated_losses": 172,
+      "calculated_games_played": 350,
+      "win_rate": 50.86,
+      "build_talents": [
+        "Deep Breathing",
+        "Time Troubles",
+        "Mobius Loop",
+        "Temporal Loop",
+        "Time Out",
+        "Quantum Overdrive",
+        "Stuck in a Loop"
+      ]
+    },
+    {
+      "calculated_wins": 98,
+      "calculated_losses": 111,
+      "calculated_games_played": 209,
+      "win_rate": 46.89,
+      "build_talents": [
+        "Deep Breathing",
+        "Andorhal Anomaly",
+        "Mobius Loop",
+        "Temporal Loop",
+        "Time Out",
+        "Quantum Overdrive",
+        "Piercing Sands"
+      ]
+    },
+    {
+      "calculated_wins": 74,
+      "calculated_losses": 100,
+      "calculated_games_played": 174,
+      "win_rate": 42.53,
+      "build_talents": [
+        "Deep Breathing",
+        "Andorhal Anomaly",
+        "Mobius Loop",
+        "Temporal Loop",
+        "Time Out",
+        "Shifting Sands",
+        "Piercing Sands"
+      ]
+    }
+  ],
+  "D.Va": [
+    {
+      "calculated_wins": 82,
+      "calculated_losses": 61,
+      "calculated_games_played": 143,
+      "win_rate": 57.34,
+      "build_talents": [
+        "Full Metal",
+        "Nuclear Option",
+        "Fusion Generator",
+        "Bunny Hop",
+        "Target Locked",
+        "Diverting Power",
+        "Ablative Armor"
+      ]
+    },
+    {
+      "calculated_wins": 69,
+      "calculated_losses": 64,
+      "calculated_games_played": 133,
+      "win_rate": 51.88,
+      "build_talents": [
+        "Full Metal",
+        "Aggression Matrix",
+        "Fusion Generator",
+        "Bunny Hop",
+        "Target Locked",
+        "Diverting Power",
+        "Ablative Armor"
+      ]
+    },
+    {
+      "calculated_wins": 119,
+      "calculated_losses": 150,
+      "calculated_games_played": 269,
+      "win_rate": 44.24,
+      "build_talents": [
+        "Full Metal",
+        "Rush-down",
+        "Hit The Nitrous",
+        "Bunny Hop",
+        "Good To Go",
+        "In For The Kill",
+        "Stop and Pop"
+      ]
+    },
+    {
+      "calculated_wins": 65,
+      "calculated_losses": 129,
+      "calculated_games_played": 194,
+      "win_rate": 33.51,
+      "build_talents": [
+        "Full Metal",
+        "Rush-down",
+        "Hit The Nitrous",
+        "Bunny Hop",
+        "Good To Go",
+        "In For The Kill",
+        "Ablative Armor"
+      ]
+    },
+    {
+      "calculated_wins": 44,
+      "calculated_losses": 88,
+      "calculated_games_played": 132,
+      "win_rate": 33.33,
+      "build_talents": [
+        "Full Metal",
+        "Rush-down",
+        "Hit The Nitrous",
+        "Bunny Hop",
+        "Good To Go",
+        "Emergency Shielding",
+        "Stop and Pop"
+      ]
+    }
+  ],
+  "Deathwing": [
+    {
+      "calculated_wins": 180,
+      "calculated_losses": 159,
+      "calculated_games_played": 339,
+      "win_rate": 53.1,
+      "build_talents": [
+        "Molten Blood",
+        "Infernus",
+        "Skyfall",
+        "Burn Beneath My Shadow",
+        "Wicked Inferno",
+        "Conflagration",
+        "Stood in the Fire"
+      ]
+    },
+    {
+      "calculated_wins": 190,
+      "calculated_losses": 174,
+      "calculated_games_played": 364,
+      "win_rate": 52.2,
+      "build_talents": [
+        "Draconic Might",
+        "Infernus",
+        "Skyfall",
+        "Burn Beneath My Shadow",
+        "Wicked Inferno",
+        "Conflagration",
+        "Stood in the Fire"
+      ]
+    },
+    {
+      "calculated_wins": 191,
+      "calculated_losses": 175,
+      "calculated_games_played": 366,
+      "win_rate": 52.19,
+      "build_talents": [
+        "Molten Blood",
+        "Infernus",
+        "Skyfall",
+        "Bellowing Roar",
+        "Wicked Inferno",
+        "Conflagration",
+        "Stood in the Fire"
+      ]
+    },
+    {
+      "calculated_wins": 181,
+      "calculated_losses": 194,
+      "calculated_games_played": 375,
+      "win_rate": 48.27,
+      "build_talents": [
+        "Draconic Might",
+        "Infernus",
+        "Skyfall",
+        "Bellowing Roar",
+        "Wicked Inferno",
+        "Conflagration",
+        "Arrival of a God"
+      ]
+    },
+    {
+      "calculated_wins": 181,
+      "calculated_losses": 199,
+      "calculated_games_played": 380,
+      "win_rate": 47.63,
+      "build_talents": [
+        "Draconic Might",
+        "Infernus",
+        "Skyfall",
+        "Bellowing Roar",
+        "Wicked Inferno",
+        "Conflagration",
+        "Stood in the Fire"
+      ]
+    }
+  ],
+  "Deckard": [
+    {
+      "calculated_wins": 71,
+      "calculated_losses": 91,
+      "calculated_games_played": 162,
+      "win_rate": 43.83,
+      "build_talents": [
+        "Scroll of Identify",
+        "Rejuvenation Potion",
+        "Cube Mastery",
+        "Stay Awhile and Listen",
+        "Super Healing Potion",
+        "Scroll of Stone Curse",
+        "Respect the Elderly"
+      ]
+    },
+    {
+      "calculated_wins": 76,
+      "calculated_losses": 115,
+      "calculated_games_played": 191,
+      "win_rate": 39.79,
+      "build_talents": [
+        "Scroll of Identify",
+        "Rejuvenation Potion",
+        "Cube Mastery",
+        "Stay Awhile and Listen",
+        "Super Healing Potion",
+        "Scroll of Stone Curse",
+        "Bottomless Flask"
+      ]
+    },
+    {
+      "calculated_wins": 49,
+      "calculated_losses": 76,
+      "calculated_games_played": 125,
+      "win_rate": 39.2,
+      "build_talents": [
+        "Scroll of Identify",
+        "Potion of Shielding",
+        "Cube Mastery",
+        "Stay Awhile and Listen",
+        "Super Healing Potion",
+        "Scroll of Stone Curse",
+        "Bottomless Flask"
+      ]
+    },
+    {
+      "calculated_wins": 98,
+      "calculated_losses": 167,
+      "calculated_games_played": 265,
+      "win_rate": 36.98,
+      "build_talents": [
+        "Scroll of Identify",
+        "Ruby",
+        "Cube Mastery",
+        "Stay Awhile and Listen",
+        "Super Healing Potion",
+        "Scroll of Stone Curse",
+        "Bottomless Flask"
+      ]
+    },
+    {
+      "calculated_wins": 77,
+      "calculated_losses": 158,
+      "calculated_games_played": 235,
+      "win_rate": 32.77,
+      "build_talents": [
+        "Scroll of Identify",
+        "Ruby",
+        "Cube Mastery",
+        "Stay Awhile and Listen",
+        "Super Healing Potion",
+        "Scroll of Stone Curse",
+        "Respect the Elderly"
+      ]
+    }
+  ],
+  "Dehaka": [
+    {
+      "calculated_wins": 291,
+      "calculated_losses": 284,
+      "calculated_games_played": 575,
+      "win_rate": 50.61,
+      "build_talents": [
+        "Tissue Regeneration",
+        "Lurker Strain",
+        "Feeding Frenzy",
+        "Isolation",
+        "Primal Rage",
+        "Tunneling Claws",
+        "Contagion"
+      ]
+    },
+    {
+      "calculated_wins": 636,
+      "calculated_losses": 648,
+      "calculated_games_played": 1284,
+      "win_rate": 49.53,
+      "build_talents": [
+        "Enhanced Agility",
+        "Lurker Strain",
+        "Feeding Frenzy",
+        "Isolation",
+        "Ferocious Stalker",
+        "Tunneling Claws",
+        "Contagion"
+      ]
+    },
+    {
+      "calculated_wins": 154,
+      "calculated_losses": 162,
+      "calculated_games_played": 316,
+      "win_rate": 48.73,
+      "build_talents": [
+        "Enhanced Agility",
+        "Lurker Strain",
+        "Feeding Frenzy",
+        "Isolation",
+        "Ferocious Stalker",
+        "Elongated Tongue",
+        "Contagion"
+      ]
+    },
+    {
+      "calculated_wins": 65,
+      "calculated_losses": 101,
+      "calculated_games_played": 166,
+      "win_rate": 39.16,
+      "build_talents": [
+        "Enhanced Agility",
+        "Hero Stalker",
+        "Feeding Frenzy",
+        "Isolation",
+        "Ferocious Stalker",
+        "Tunneling Claws",
+        "Contagion"
+      ]
+    },
+    {
+      "calculated_wins": 180,
+      "calculated_losses": 335,
+      "calculated_games_played": 515,
+      "win_rate": 34.95,
+      "build_talents": [
+        "Enhanced Agility",
+        "Lurker Strain",
+        "Feeding Frenzy",
+        "Isolation",
+        "Ferocious Stalker",
+        "Tunneling Claws",
+        "Apex Predator"
+      ]
+    }
+  ],
+  "Diablo": [
+    {
+      "calculated_wins": 957,
+      "calculated_losses": 905,
+      "calculated_games_played": 1862,
+      "win_rate": 51.4,
+      "build_talents": [
+        "Soul Shield",
+        "Souls to the Flame",
+        "Eternal Flames",
+        "Lightning Breath",
+        "Hellfire",
+        "Debilitating Flames",
+        "Hellgate"
+      ]
+    },
+    {
+      "calculated_wins": 423,
+      "calculated_losses": 462,
+      "calculated_games_played": 885,
+      "win_rate": 47.8,
+      "build_talents": [
+        "Feast on Fear",
+        "Sacrificial Soul",
+        "Malevolence",
+        "Apocalypse",
+        "Devastating Charge",
+        "Domination",
+        "Hellgate"
+      ]
+    },
+    {
+      "calculated_wins": 283,
+      "calculated_losses": 310,
+      "calculated_games_played": 593,
+      "win_rate": 47.72,
+      "build_talents": [
+        "Devil's Due",
+        "Sacrificial Soul",
+        "Malevolence",
+        "Apocalypse",
+        "Devastating Charge",
+        "Domination",
+        "Hellgate"
+      ]
+    },
+    {
+      "calculated_wins": 645,
+      "calculated_losses": 724,
+      "calculated_games_played": 1369,
+      "win_rate": 47.11,
+      "build_talents": [
+        "Feast on Fear",
+        "Life Leech",
+        "Diabolical Momentum",
+        "Apocalypse",
+        "Cruelty",
+        "Overpowering Nightmare",
+        "Hellgate"
+      ]
+    },
+    {
+      "calculated_wins": 874,
+      "calculated_losses": 1019,
+      "calculated_games_played": 1893,
+      "win_rate": 46.17,
+      "build_talents": [
+        "Feast on Fear",
+        "Life Leech",
+        "Diabolical Momentum",
+        "Apocalypse",
+        "Cruelty",
+        "Domination",
+        "Hellgate"
+      ]
+    }
+  ],
+  "E.T.C.": [
+    {
+      "calculated_wins": 230,
+      "calculated_losses": 287,
+      "calculated_games_played": 517,
+      "win_rate": 44.49,
+      "build_talents": [
+        "Block Party",
+        "Loud Speakers",
+        "Pinball Wizard",
+        "Mosh Pit",
+        "Encore",
+        "Show Stopper",
+        "Death Metal"
+      ]
+    },
+    {
+      "calculated_wins": 173,
+      "calculated_losses": 221,
+      "calculated_games_played": 394,
+      "win_rate": 43.91,
+      "build_talents": [
+        "Block Party",
+        "Loud Speakers",
+        "Pinball Wizard",
+        "Mosh Pit",
+        "Encore",
+        "Show Stopper",
+        "Tour Bus"
+      ]
+    },
+    {
+      "calculated_wins": 123,
+      "calculated_losses": 224,
+      "calculated_games_played": 347,
+      "win_rate": 35.45,
+      "build_talents": [
+        "Prog Rock",
+        "Loud Speakers",
+        "Pinball Wizard",
+        "Mosh Pit",
+        "Mic Check",
+        "Show Stopper",
+        "Bolt of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 184,
+      "calculated_losses": 337,
+      "calculated_games_played": 521,
+      "win_rate": 35.32,
+      "build_talents": [
+        "Prog Rock",
+        "Loud Speakers",
+        "Pinball Wizard",
+        "Mosh Pit",
+        "Encore",
+        "Show Stopper",
+        "Death Metal"
+      ]
+    },
+    {
+      "calculated_wins": 95,
+      "calculated_losses": 227,
+      "calculated_games_played": 322,
+      "win_rate": 29.5,
+      "build_talents": [
+        "Prog Rock",
+        "Loud Speakers",
+        "Pinball Wizard",
+        "Mosh Pit",
+        "Mic Check",
+        "Show Stopper",
+        "Death Metal"
+      ]
+    }
+  ],
+  "Falstad": [
+    {
+      "calculated_wins": 661,
+      "calculated_losses": 587,
+      "calculated_games_played": 1248,
+      "win_rate": 52.96,
+      "build_talents": [
+        "Gathering Storm",
+        "Hammer Gains",
+        "BOOMerang",
+        "Mighty Gust",
+        "Flow Rider",
+        "Aerie Gusts",
+        "Wind Tunnel"
+      ]
+    },
+    {
+      "calculated_wins": 352,
+      "calculated_losses": 316,
+      "calculated_games_played": 668,
+      "win_rate": 52.69,
+      "build_talents": [
+        "Gathering Storm",
+        "Updraft",
+        "BOOMerang",
+        "Hinterland Blast",
+        "Flow Rider",
+        "Aerie Gusts",
+        "Call of the Wildhammer"
+      ]
+    },
+    {
+      "calculated_wins": 567,
+      "calculated_losses": 630,
+      "calculated_games_played": 1197,
+      "win_rate": 47.37,
+      "build_talents": [
+        "Gathering Storm",
+        "Updraft",
+        "BOOMerang",
+        "Mighty Gust",
+        "Flow Rider",
+        "Aerie Gusts",
+        "Wind Tunnel"
+      ]
+    },
+    {
+      "calculated_wins": 366,
+      "calculated_losses": 415,
+      "calculated_games_played": 781,
+      "win_rate": 46.86,
+      "build_talents": [
+        "Dishonorable Discharge",
+        "Static Shield",
+        "Charged Up",
+        "Mighty Gust",
+        "Thunderstrikes",
+        "Afterburner",
+        "Wind Tunnel"
+      ]
+    },
+    {
+      "calculated_wins": 273,
+      "calculated_losses": 358,
+      "calculated_games_played": 631,
+      "win_rate": 43.26,
+      "build_talents": [
+        "Gathering Storm",
+        "Updraft",
+        "BOOMerang",
+        "Mighty Gust",
+        "Flow Rider",
+        "Crippling Hammer",
+        "Wind Tunnel"
+      ]
+    }
+  ],
+  "Fenix": [
+    {
+      "calculated_wins": 79,
+      "calculated_losses": 53,
+      "calculated_games_played": 132,
+      "win_rate": 59.85,
+      "build_talents": [
+        "Advanced Targeting",
+        "Target Acquired",
+        "Warp Warfare",
+        "Purification Salvo",
+        "Adanium Shell",
+        "Offensive Cadence",
+        "Singularity Charge"
+      ]
+    },
+    {
+      "calculated_wins": 47,
+      "calculated_losses": 34,
+      "calculated_games_played": 81,
+      "win_rate": 58.02,
+      "build_talents": [
+        "Mobile Offense",
+        "Emergency Protocol",
+        "Divert Power: Weapons",
+        "Purification Salvo",
+        "Rapid Recharge",
+        "Offensive Cadence",
+        "Singularity Charge"
+      ]
+    },
+    {
+      "calculated_wins": 84,
+      "calculated_losses": 66,
+      "calculated_games_played": 150,
+      "win_rate": 56,
+      "build_talents": [
+        "Advanced Targeting",
+        "Target Acquired",
+        "Warp Warfare",
+        "Planet Cracker",
+        "Adanium Shell",
+        "Offensive Cadence",
+        "Singularity Charge"
+      ]
+    },
+    {
+      "calculated_wins": 76,
+      "calculated_losses": 62,
+      "calculated_games_played": 138,
+      "win_rate": 55.07,
+      "build_talents": [
+        "Mobile Offense",
+        "Target Acquired",
+        "Warp Warfare",
+        "Purification Salvo",
+        "Adanium Shell",
+        "Offensive Cadence",
+        "Singularity Charge"
+      ]
+    },
+    {
+      "calculated_wins": 38,
+      "calculated_losses": 53,
+      "calculated_games_played": 91,
+      "win_rate": 41.76,
+      "build_talents": [
+        "Mobile Offense",
+        "Target Acquired",
+        "Warp Warfare",
+        "Planet Cracker",
+        "Adanium Shell",
+        "Offensive Cadence",
+        "Singularity Charge"
+      ]
+    }
+  ],
+  "Gall": [
+    {
+      "calculated_wins": 60,
+      "calculated_losses": 40,
+      "calculated_games_played": 100,
+      "win_rate": 60,
+      "build_talents": [
+        "Keep Moving!",
+        "Rising Dread",
+        "Ogre Rampage",
+        "Twisting Nether",
+        "Twilight Nova",
+        "Leaden Orb",
+        "Twilight Frenzy"
+      ]
+    },
+    {
+      "calculated_wins": 26,
+      "calculated_losses": 19,
+      "calculated_games_played": 45,
+      "win_rate": 57.78,
+      "build_talents": [
+        "Keep Moving!",
+        "Rising Dread",
+        "Edge of Madness",
+        "Twisting Nether",
+        "Twilight Nova",
+        "Leaden Orb",
+        "Twilight Frenzy"
+      ]
+    },
+    {
+      "calculated_wins": 74,
+      "calculated_losses": 67,
+      "calculated_games_played": 141,
+      "win_rate": 52.48,
+      "build_talents": [
+        "Taskmaster",
+        "Rising Dread",
+        "Edge of Madness",
+        "Twisting Nether",
+        "Twilight Nova",
+        "Leaden Orb",
+        "Twilight Frenzy"
+      ]
+    },
+    {
+      "calculated_wins": 28,
+      "calculated_losses": 27,
+      "calculated_games_played": 55,
+      "win_rate": 50.91,
+      "build_talents": [
+        "Taskmaster",
+        "Rising Dread",
+        "Double Trouble",
+        "Twisting Nether",
+        "Twilight Nova",
+        "Leaden Orb",
+        "Twilight Frenzy"
+      ]
+    },
+    {
+      "calculated_wins": 74,
+      "calculated_losses": 91,
+      "calculated_games_played": 165,
+      "win_rate": 44.85,
+      "build_talents": [
+        "Taskmaster",
+        "Rising Dread",
+        "Ogre Rampage",
+        "Twisting Nether",
+        "Twilight Nova",
+        "Leaden Orb",
+        "Twilight Frenzy"
+      ]
+    }
+  ],
+  "Garrosh": [
+    {
+      "calculated_wins": 256,
+      "calculated_losses": 192,
+      "calculated_games_played": 448,
+      "win_rate": 57.14,
+      "build_talents": [
+        "Unrivaled Strength",
+        "Indomitable",
+        "Oppressor",
+        "Decimate",
+        "Bloodcraze",
+        "Seasoned Soldier",
+        "Deadly Calm"
+      ]
+    },
+    {
+      "calculated_wins": 193,
+      "calculated_losses": 169,
+      "calculated_games_played": 362,
+      "win_rate": 53.31,
+      "build_talents": [
+        "Warbreaker",
+        "Indomitable",
+        "Intimidation",
+        "Warlord's Challenge",
+        "Defensive Measures",
+        "Mortal Combo",
+        "Titanic Might"
+      ]
+    },
+    {
+      "calculated_wins": 200,
+      "calculated_losses": 179,
+      "calculated_games_played": 379,
+      "win_rate": 52.77,
+      "build_talents": [
+        "Unrivaled Strength",
+        "Indomitable",
+        "Oppressor",
+        "Warlord's Challenge",
+        "Bloodcraze",
+        "Seasoned Soldier",
+        "Titanic Might"
+      ]
+    },
+    {
+      "calculated_wins": 217,
+      "calculated_losses": 203,
+      "calculated_games_played": 420,
+      "win_rate": 51.67,
+      "build_talents": [
+        "Unrivaled Strength",
+        "Thirst for Battle",
+        "Oppressor",
+        "Decimate",
+        "Bloodcraze",
+        "Seasoned Soldier",
+        "Deadly Calm"
+      ]
+    },
+    {
+      "calculated_wins": 301,
+      "calculated_losses": 292,
+      "calculated_games_played": 593,
+      "win_rate": 50.76,
+      "build_talents": [
+        "Warbreaker",
+        "Indomitable",
+        "Oppressor",
+        "Warlord's Challenge",
+        "Defensive Measures",
+        "Mortal Combo",
+        "Titanic Might"
+      ]
+    }
+  ],
+  "Gazlowe": [
+    {
+      "calculated_wins": 317,
+      "calculated_losses": 256,
+      "calculated_games_played": 573,
+      "win_rate": 55.32,
+      "build_talents": [
+        "Rocket Boots",
+        "Hyperfocus Coils",
+        "Master Blaster",
+        "Grav-O-Bomb 3000",
+        "Superior Schematics",
+        "Ark Reaktor",
+        "Bomb Toss"
+      ]
+    },
+    {
+      "calculated_wins": 533,
+      "calculated_losses": 452,
+      "calculated_games_played": 985,
+      "win_rate": 54.11,
+      "build_talents": [
+        "Rocket Boots",
+        "Hyperfocus Coils",
+        "Overload",
+        "Grav-O-Bomb 3000",
+        "Superior Schematics",
+        "Ark Reaktor",
+        "Bomb Toss"
+      ]
+    },
+    {
+      "calculated_wins": 633,
+      "calculated_losses": 537,
+      "calculated_games_played": 1170,
+      "win_rate": 54.1,
+      "build_talents": [
+        "Rocket Boots",
+        "Hyperfocus Coils",
+        "Overload",
+        "Grav-O-Bomb 3000",
+        "Overcharged Capacitors",
+        "Ark Reaktor",
+        "Bomb Toss"
+      ]
+    },
+    {
+      "calculated_wins": 338,
+      "calculated_losses": 291,
+      "calculated_games_played": 629,
+      "win_rate": 53.74,
+      "build_talents": [
+        "Rocket Boots",
+        "Hyperfocus Coils",
+        "Master Blaster",
+        "Grav-O-Bomb 3000",
+        "Overcharged Capacitors",
+        "Ark Reaktor",
+        "Bomb Toss"
+      ]
+    },
+    {
+      "calculated_wins": 150,
+      "calculated_losses": 152,
+      "calculated_games_played": 302,
+      "win_rate": 49.67,
+      "build_talents": [
+        "Big Game Hunter",
+        "Rock It Sock It",
+        "Goblin Fusion",
+        "Grav-O-Bomb 3000",
+        "Superior Schematics",
+        "Ark Reaktor",
+        "Bomb Toss"
+      ]
+    }
+  ],
+  "Genji": [
+    {
+      "calculated_wins": 1029,
+      "calculated_losses": 884,
+      "calculated_games_played": 1913,
+      "win_rate": 53.79,
+      "build_talents": [
+        "Agile Dismount",
+        "Shuriken Mastery",
+        "Cyber Shield",
+        "X-Strike",
+        "Shingan",
+        "Final Cut",
+        "Living Weapon"
+      ]
+    },
+    {
+      "calculated_wins": 60,
+      "calculated_losses": 54,
+      "calculated_games_played": 114,
+      "win_rate": 52.63,
+      "build_talents": [
+        "Swift as the Wind",
+        "Strike At The Heart",
+        "Augmented Guard",
+        "Dragonblade",
+        "Way Of The Shimada",
+        "Final Cut",
+        "The Dragon Becomes Me"
+      ]
+    },
+    {
+      "calculated_wins": 176,
+      "calculated_losses": 166,
+      "calculated_games_played": 342,
+      "win_rate": 51.46,
+      "build_talents": [
+        "Agile Dismount",
+        "Shuriken Mastery",
+        "Cyber Shield",
+        "Dragonblade",
+        "Shingan",
+        "Final Cut",
+        "The Dragon Becomes Me"
+      ]
+    },
+    {
+      "calculated_wins": 349,
+      "calculated_losses": 473,
+      "calculated_games_played": 822,
+      "win_rate": 42.46,
+      "build_talents": [
+        "Agile Dismount",
+        "Shuriken Mastery",
+        "Cyber Shield",
+        "X-Strike",
+        "Shingan",
+        "Final Cut",
+        "Sharpened Stars"
+      ]
+    },
+    {
+      "calculated_wins": 122,
+      "calculated_losses": 191,
+      "calculated_games_played": 313,
+      "win_rate": 38.98,
+      "build_talents": [
+        "Agile Dismount",
+        "Shuriken Mastery",
+        "Augmented Guard",
+        "X-Strike",
+        "Shingan",
+        "Final Cut",
+        "Living Weapon"
+      ]
+    }
+  ],
+  "Greymane": [
+    {
+      "calculated_wins": 379,
+      "calculated_losses": 158,
+      "calculated_games_played": 537,
+      "win_rate": 70.58,
+      "build_talents": [
+        "Viciousness",
+        "Eyes in the Dark",
+        "Wizened Duelist",
+        "Go for the Throat",
+        "Unfettered Assault",
+        "Alpha Killer",
+        "Tooth and Claw"
+      ]
+    },
+    {
+      "calculated_wins": 203,
+      "calculated_losses": 194,
+      "calculated_games_played": 397,
+      "win_rate": 51.13,
+      "build_talents": [
+        "Viciousness",
+        "Thick Skin",
+        "Wizened Duelist",
+        "Go for the Throat",
+        "Unfettered Assault",
+        "Alpha Killer",
+        "Tooth and Claw"
+      ]
+    },
+    {
+      "calculated_wins": 146,
+      "calculated_losses": 140,
+      "calculated_games_played": 286,
+      "win_rate": 51.05,
+      "build_talents": [
+        "Viciousness",
+        "Thick Skin",
+        "Quicksilver Bullets",
+        "Cursed Bullet",
+        "On the Prowl",
+        "Executioner",
+        "Hunter's Blunderbuss"
+      ]
+    },
+    {
+      "calculated_wins": 154,
+      "calculated_losses": 157,
+      "calculated_games_played": 311,
+      "win_rate": 49.52,
+      "build_talents": [
+        "Viciousness",
+        "Eyes in the Dark",
+        "Quicksilver Bullets",
+        "Cursed Bullet",
+        "On the Prowl",
+        "Eager Wolf",
+        "Hunter's Blunderbuss"
+      ]
+    },
+    {
+      "calculated_wins": 146,
+      "calculated_losses": 159,
+      "calculated_games_played": 305,
+      "win_rate": 47.87,
+      "build_talents": [
+        "Viciousness",
+        "Eyes in the Dark",
+        "Quicksilver Bullets",
+        "Cursed Bullet",
+        "On the Prowl",
+        "Executioner",
+        "Hunter's Blunderbuss"
+      ]
+    }
+  ],
+  "Gul'dan": [
+    {
+      "calculated_wins": 846,
+      "calculated_losses": 857,
+      "calculated_games_played": 1703,
+      "win_rate": 49.68,
+      "build_talents": [
+        "Chaotic Energy",
+        "Health Funnel",
+        "Curse of Exhaustion",
+        "Horrify",
+        "Harvest Life",
+        "Darkness Within",
+        "Haunt"
+      ]
+    },
+    {
+      "calculated_wins": 183,
+      "calculated_losses": 189,
+      "calculated_games_played": 372,
+      "win_rate": 49.19,
+      "build_talents": [
+        "Echoed Corruption",
+        "Consume Soul",
+        "Hunger for Power",
+        "Horrify",
+        "Healthstone",
+        "Ruinous Affliction",
+        "Haunt"
+      ]
+    },
+    {
+      "calculated_wins": 781,
+      "calculated_losses": 841,
+      "calculated_games_played": 1622,
+      "win_rate": 48.15,
+      "build_talents": [
+        "Chaotic Energy",
+        "Health Funnel",
+        "Curse of Exhaustion",
+        "Horrify",
+        "Harvest Life",
+        "Darkness Within",
+        "Demonic Circle"
+      ]
+    },
+    {
+      "calculated_wins": 219,
+      "calculated_losses": 300,
+      "calculated_games_played": 519,
+      "win_rate": 42.2,
+      "build_talents": [
+        "Chaotic Energy",
+        "Health Funnel",
+        "Curse of Exhaustion",
+        "Horrify",
+        "Harvest Life",
+        "Rampant Hellfire",
+        "Haunt"
+      ]
+    },
+    {
+      "calculated_wins": 189,
+      "calculated_losses": 330,
+      "calculated_games_played": 519,
+      "win_rate": 36.42,
+      "build_talents": [
+        "Chaotic Energy",
+        "Health Funnel",
+        "Curse of Exhaustion",
+        "Horrify",
+        "Harvest Life",
+        "Rampant Hellfire",
+        "Demonic Circle"
+      ]
+    }
+  ],
+  "Hanzo": [
+    {
+      "calculated_wins": 617,
+      "calculated_losses": 653,
+      "calculated_games_played": 1270,
+      "win_rate": 48.58,
+      "build_talents": [
+        "Target Practice",
+        "Explosive Arrows",
+        "The Dragon Hungers",
+        "Dragon's Arrow",
+        "Fleet of Foot",
+        "Piercing Arrows",
+        "Bullseye"
+      ]
+    },
+    {
+      "calculated_wins": 200,
+      "calculated_losses": 242,
+      "calculated_games_played": 442,
+      "win_rate": 45.25,
+      "build_talents": [
+        "Simple Geometry",
+        "Explosive Arrows",
+        "Never Outmatched",
+        "Dragon's Arrow",
+        "Ninja Assassin",
+        "Piercing Arrows",
+        "Bullseye"
+      ]
+    },
+    {
+      "calculated_wins": 212,
+      "calculated_losses": 282,
+      "calculated_games_played": 494,
+      "win_rate": 42.91,
+      "build_talents": [
+        "Simple Geometry",
+        "Serrated Arrows",
+        "Never Outmatched",
+        "Dragon's Arrow",
+        "Ninja Assassin",
+        "Piercing Arrows",
+        "Bullseye"
+      ]
+    },
+    {
+      "calculated_wins": 179,
+      "calculated_losses": 260,
+      "calculated_games_played": 439,
+      "win_rate": 40.77,
+      "build_talents": [
+        "Simple Geometry",
+        "Explosive Arrows",
+        "Never Outmatched",
+        "Dragon's Arrow",
+        "Fleet of Foot",
+        "Piercing Arrows",
+        "Bullseye"
+      ]
+    },
+    {
+      "calculated_wins": 291,
+      "calculated_losses": 467,
+      "calculated_games_played": 758,
+      "win_rate": 38.39,
+      "build_talents": [
+        "Target Practice",
+        "Explosive Arrows",
+        "The Dragon Hungers",
+        "Dragon's Arrow",
+        "Fleet of Foot",
+        "Piercing Arrows",
+        "Play of the Game"
+      ]
+    }
+  ],
+  "Hogger": [
+    {
+      "calculated_wins": 256,
+      "calculated_losses": 192,
+      "calculated_games_played": 448,
+      "win_rate": 57.14,
+      "build_talents": [
+        "On The Prowl",
+        "Hogger's Joggers",
+        "Garbage Fire",
+        "Hoardapult",
+        "Pummel",
+        "Headbanger",
+        "No Control"
+      ]
+    },
+    {
+      "calculated_wins": 188,
+      "calculated_losses": 143,
+      "calculated_games_played": 331,
+      "win_rate": 56.8,
+      "build_talents": [
+        "On The Prowl",
+        "Hogger's Joggers",
+        "Seeing Red",
+        "Hoardapult",
+        "Pummel",
+        "Headbanger",
+        "No Control"
+      ]
+    },
+    {
+      "calculated_wins": 536,
+      "calculated_losses": 416,
+      "calculated_games_played": 952,
+      "win_rate": 56.3,
+      "build_talents": [
+        "On The Prowl",
+        "Hogger's Joggers",
+        "Dense Blasting Powder",
+        "Shockwave",
+        "Pummel",
+        "Kablooie!",
+        "No Control"
+      ]
+    },
+    {
+      "calculated_wins": 356,
+      "calculated_losses": 311,
+      "calculated_games_played": 667,
+      "win_rate": 53.37,
+      "build_talents": [
+        "On The Prowl",
+        "Hogger's Joggers",
+        "Seeing Red",
+        "Shockwave",
+        "Pummel",
+        "Headbanger",
+        "No Control"
+      ]
+    },
+    {
+      "calculated_wins": 210,
+      "calculated_losses": 203,
+      "calculated_games_played": 413,
+      "win_rate": 50.85,
+      "build_talents": [
+        "On The Prowl",
+        "Hogger's Joggers",
+        "Dense Blasting Powder",
+        "Shockwave",
+        "Pummel",
+        "Headbanger",
+        "No Control"
+      ]
+    }
+  ],
+  "Illidan": [
+    {
+      "calculated_wins": 111,
+      "calculated_losses": 90,
+      "calculated_games_played": 201,
+      "win_rate": 55.22,
+      "build_talents": [
+        "Battered Assault",
+        "Hunter's Onslaught",
+        "Unbound",
+        "Metamorphosis",
+        "Elusive Strike",
+        "Blades of Azzinoth",
+        "Demonic Form"
+      ]
+    },
+    {
+      "calculated_wins": 134,
+      "calculated_losses": 117,
+      "calculated_games_played": 251,
+      "win_rate": 53.39,
+      "build_talents": [
+        "Unending Hatred",
+        "Hunter's Onslaught",
+        "Unbound",
+        "The Hunt",
+        "Sixth Sense",
+        "Blades of Azzinoth",
+        "Nexus Blades"
+      ]
+    },
+    {
+      "calculated_wins": 62,
+      "calculated_losses": 70,
+      "calculated_games_played": 132,
+      "win_rate": 46.97,
+      "build_talents": [
+        "Unending Hatred",
+        "Hunter's Onslaught",
+        "Unbound",
+        "The Hunt",
+        "Nimble Defender",
+        "Blades of Azzinoth",
+        "Nexus Blades"
+      ]
+    },
+    {
+      "calculated_wins": 82,
+      "calculated_losses": 101,
+      "calculated_games_played": 183,
+      "win_rate": 44.81,
+      "build_talents": [
+        "Unending Hatred",
+        "Hunter's Onslaught",
+        "Unbound",
+        "The Hunt",
+        "Elusive Strike",
+        "Blades of Azzinoth",
+        "Nexus Blades"
+      ]
+    },
+    {
+      "calculated_wins": 45,
+      "calculated_losses": 57,
+      "calculated_games_played": 102,
+      "win_rate": 44.12,
+      "build_talents": [
+        "Unending Hatred",
+        "Hunter's Onslaught",
+        "Unbound",
+        "The Hunt",
+        "Nimble Defender",
+        "Fiery Brand",
+        "Nexus Blades"
+      ]
+    }
+  ],
+  "Imperius": [
+    {
+      "calculated_wins": 234,
+      "calculated_losses": 225,
+      "calculated_games_played": 459,
+      "win_rate": 50.98,
+      "build_talents": [
+        "Consuming Flame",
+        "Sovereign Armor",
+        "Holy Fervor",
+        "Wrath of the Angiris",
+        "Divine Rage",
+        "Melting Touch",
+        "Unrelenting Descent"
+      ]
+    },
+    {
+      "calculated_wins": 125,
+      "calculated_losses": 127,
+      "calculated_games_played": 252,
+      "win_rate": 49.6,
+      "build_talents": [
+        "Burn The Impure",
+        "Sovereign Armor",
+        "Holy Fervor",
+        "Angelic Armaments",
+        "Divine Rage",
+        "Melting Touch",
+        "Brand of Solarion"
+      ]
+    },
+    {
+      "calculated_wins": 80,
+      "calculated_losses": 96,
+      "calculated_games_played": 176,
+      "win_rate": 45.45,
+      "build_talents": [
+        "Burn The Impure",
+        "Battle Hunger",
+        "Holy Fervor",
+        "Angelic Armaments",
+        "Divine Rage",
+        "Melting Touch",
+        "Brand of Solarion"
+      ]
+    },
+    {
+      "calculated_wins": 74,
+      "calculated_losses": 95,
+      "calculated_games_played": 169,
+      "win_rate": 43.79,
+      "build_talents": [
+        "Burn The Impure",
+        "Battle Hunger",
+        "Flash of Anger",
+        "Angelic Armaments",
+        "Pathetic Mortals",
+        "Celestial Swiftness",
+        "Brand of Solarion"
+      ]
+    },
+    {
+      "calculated_wins": 95,
+      "calculated_losses": 136,
+      "calculated_games_played": 231,
+      "win_rate": 41.13,
+      "build_talents": [
+        "Impaling Light",
+        "Sovereign Armor",
+        "Flash of Anger",
+        "Angelic Armaments",
+        "Pathetic Mortals",
+        "Celestial Swiftness",
+        "Brand of Solarion"
+      ]
+    }
+  ],
+  "Jaina": [
+    {
+      "calculated_wins": 512,
+      "calculated_losses": 381,
+      "calculated_games_played": 893,
+      "win_rate": 57.33,
+      "build_talents": [
+        "Lingering Chill",
+        "Arcane Intellect",
+        "Ice Floes",
+        "Summon Water Elemental",
+        "Ice Barrier",
+        "Numbing Blast",
+        "Wintermute"
+      ]
+    },
+    {
+      "calculated_wins": 469,
+      "calculated_losses": 369,
+      "calculated_games_played": 838,
+      "win_rate": 55.97,
+      "build_talents": [
+        "Fingers of Frost",
+        "Arcane Intellect",
+        "Ice Floes",
+        "Summon Water Elemental",
+        "Icy Veins",
+        "Numbing Blast",
+        "Wintermute"
+      ]
+    },
+    {
+      "calculated_wins": 255,
+      "calculated_losses": 213,
+      "calculated_games_played": 468,
+      "win_rate": 54.49,
+      "build_talents": [
+        "Lingering Chill",
+        "Arcane Intellect",
+        "Ice Floes",
+        "Summon Water Elemental",
+        "Icy Veins",
+        "Numbing Blast",
+        "Wintermute"
+      ]
+    },
+    {
+      "calculated_wins": 249,
+      "calculated_losses": 231,
+      "calculated_games_played": 480,
+      "win_rate": 51.88,
+      "build_talents": [
+        "Fingers of Frost",
+        "Arcane Intellect",
+        "Ice Floes",
+        "Summon Water Elemental",
+        "Ice Barrier",
+        "Numbing Blast",
+        "Wintermute"
+      ]
+    },
+    {
+      "calculated_wins": 147,
+      "calculated_losses": 182,
+      "calculated_games_played": 329,
+      "win_rate": 44.68,
+      "build_talents": [
+        "Fingers of Frost",
+        "Frost Armor",
+        "Ice Floes",
+        "Summon Water Elemental",
+        "Ice Barrier",
+        "Numbing Blast",
+        "Wintermute"
+      ]
+    }
+  ],
+  "Johanna": [
+    {
+      "calculated_wins": 293,
+      "calculated_losses": 247,
+      "calculated_games_played": 540,
+      "win_rate": 54.26,
+      "build_talents": [
+        "Zealous Glare",
+        "Subdue",
+        "Conviction",
+        "Falling Sword",
+        "Blessed Hammer",
+        "Holy Renewal",
+        "Heaven's Fury"
+      ]
+    },
+    {
+      "calculated_wins": 1011,
+      "calculated_losses": 891,
+      "calculated_games_played": 1902,
+      "win_rate": 53.15,
+      "build_talents": [
+        "Zealous Glare",
+        "Subdue",
+        "Conviction",
+        "Blessed Shield",
+        "Blessed Hammer",
+        "Holy Renewal",
+        "Blinded By The Light"
+      ]
+    },
+    {
+      "calculated_wins": 363,
+      "calculated_losses": 329,
+      "calculated_games_played": 692,
+      "win_rate": 52.46,
+      "build_talents": [
+        "Zealous Glare",
+        "Subdue",
+        "Sins Exposed",
+        "Blessed Shield",
+        "Roar",
+        "Holy Renewal",
+        "Radiating Faith"
+      ]
+    },
+    {
+      "calculated_wins": 765,
+      "calculated_losses": 757,
+      "calculated_games_played": 1522,
+      "win_rate": 50.26,
+      "build_talents": [
+        "Zealous Glare",
+        "Subdue",
+        "Conviction",
+        "Blessed Shield",
+        "Blessed Hammer",
+        "Holy Renewal",
+        "Radiating Faith"
+      ]
+    },
+    {
+      "calculated_wins": 353,
+      "calculated_losses": 374,
+      "calculated_games_played": 727,
+      "win_rate": 48.56,
+      "build_talents": [
+        "Zealous Glare",
+        "Hold Your Ground",
+        "Conviction",
+        "Blessed Shield",
+        "Blessed Hammer",
+        "Holy Renewal",
+        "Blinded By The Light"
+      ]
+    }
+  ],
+  "Junkrat": [
+    {
+      "calculated_wins": 406,
+      "calculated_losses": 313,
+      "calculated_games_played": 719,
+      "win_rate": 56.47,
+      "build_talents": [
+        "Extra-Wound Timers",
+        "Chattering Teeth",
+        "Sticky Wicket",
+        "RIP-Tire",
+        "Gotta Trap 'Em All!",
+        "Endless Nades",
+        "Cannonball!"
+      ]
+    },
+    {
+      "calculated_wins": 145,
+      "calculated_losses": 143,
+      "calculated_games_played": 288,
+      "win_rate": 50.35,
+      "build_talents": [
+        "Extra-Wound Timers",
+        "Taste For Explosions",
+        "Dirty Trickster",
+        "RIP-Tire",
+        "Ripper Air",
+        "Endless Nades",
+        "Cannonball!"
+      ]
+    },
+    {
+      "calculated_wins": 263,
+      "calculated_losses": 277,
+      "calculated_games_played": 540,
+      "win_rate": 48.7,
+      "build_talents": [
+        "Extra-Wound Timers",
+        "Taste For Explosions",
+        "Dirty Trickster",
+        "Rocket Ride",
+        "Bombs Away",
+        "Spread Volley",
+        "Cannonball!"
+      ]
+    },
+    {
+      "calculated_wins": 170,
+      "calculated_losses": 184,
+      "calculated_games_played": 354,
+      "win_rate": 48.02,
+      "build_talents": [
+        "Extra-Wound Timers",
+        "Taste For Explosions",
+        "Dirty Trickster",
+        "RIP-Tire",
+        "Bombs Away",
+        "Endless Nades",
+        "Cannonball!"
+      ]
+    },
+    {
+      "calculated_wins": 221,
+      "calculated_losses": 280,
+      "calculated_games_played": 501,
+      "win_rate": 44.11,
+      "build_talents": [
+        "Extra-Wound Timers",
+        "Chattering Teeth",
+        "Sticky Wicket",
+        "RIP-Tire",
+        "Gotta Trap 'Em All!",
+        "Endless Nades",
+        "Extra Oomph"
+      ]
+    }
+  ],
+  "Kael'thas": [
+    {
+      "calculated_wins": 213,
+      "calculated_losses": 212,
+      "calculated_games_played": 425,
+      "win_rate": 50.12,
+      "build_talents": [
+        "Mana Addict",
+        "Nether Wind",
+        "Burned Flesh",
+        "Pyroblast",
+        "Pyromaniac",
+        "Ignite",
+        "Flamethrower"
+      ]
+    },
+    {
+      "calculated_wins": 195,
+      "calculated_losses": 198,
+      "calculated_games_played": 393,
+      "win_rate": 49.62,
+      "build_talents": [
+        "Mana Addict",
+        "Nether Wind",
+        "Sun King's Fury",
+        "Phoenix",
+        "Pyromaniac",
+        "Ignite",
+        "Flamethrower"
+      ]
+    },
+    {
+      "calculated_wins": 412,
+      "calculated_losses": 419,
+      "calculated_games_played": 831,
+      "win_rate": 49.58,
+      "build_talents": [
+        "Mana Addict",
+        "Nether Wind",
+        "Burned Flesh",
+        "Phoenix",
+        "Pyromaniac",
+        "Ignite",
+        "Flamethrower"
+      ]
+    },
+    {
+      "calculated_wins": 229,
+      "calculated_losses": 248,
+      "calculated_games_played": 477,
+      "win_rate": 48.01,
+      "build_talents": [
+        "Mana Addict",
+        "Nether Wind",
+        "Sun King's Fury",
+        "Pyroblast",
+        "Pyromaniac",
+        "Ignite",
+        "Flamethrower"
+      ]
+    },
+    {
+      "calculated_wins": 241,
+      "calculated_losses": 291,
+      "calculated_games_played": 532,
+      "win_rate": 45.3,
+      "build_talents": [
+        "Mana Addict",
+        "Nether Wind",
+        "Sun King's Fury",
+        "Pyroblast",
+        "Fission Bomb",
+        "Ignite",
+        "Flamethrower"
+      ]
+    }
+  ],
+  "Kel'Thuzad": [
+    {
+      "calculated_wins": 109,
+      "calculated_losses": 107,
+      "calculated_games_played": 216,
+      "win_rate": 50.46,
+      "build_talents": [
+        "Barbed Chains",
+        "Phylactery of Kel'Thuzad",
+        "Chilling Touch",
+        "Shadow Fissure",
+        "Chain-Link",
+        "Power of Icecrown",
+        "Might of the Scourge"
+      ]
+    },
+    {
+      "calculated_wins": 100,
+      "calculated_losses": 101,
+      "calculated_games_played": 201,
+      "win_rate": 49.75,
+      "build_talents": [
+        "Barbed Chains",
+        "Phylactery of Kel'Thuzad",
+        "Chilling Touch",
+        "Shadow Fissure",
+        "Chain-Link",
+        "Power of Icecrown",
+        "The Damned Return"
+      ]
+    },
+    {
+      "calculated_wins": 96,
+      "calculated_losses": 100,
+      "calculated_games_played": 196,
+      "win_rate": 48.98,
+      "build_talents": [
+        "Barbed Chains",
+        "Armor of the Archlich",
+        "Chilling Touch",
+        "Shadow Fissure",
+        "Chain-Link",
+        "Power of Icecrown",
+        "The Damned Return"
+      ]
+    },
+    {
+      "calculated_wins": 202,
+      "calculated_losses": 217,
+      "calculated_games_played": 419,
+      "win_rate": 48.21,
+      "build_talents": [
+        "Barbed Chains",
+        "Phylactery of Kel'Thuzad",
+        "Chilling Touch",
+        "Shadow Fissure",
+        "Chains of Ice",
+        "Power of Icecrown",
+        "Might of the Scourge"
+      ]
+    },
+    {
+      "calculated_wins": 143,
+      "calculated_losses": 176,
+      "calculated_games_played": 319,
+      "win_rate": 44.83,
+      "build_talents": [
+        "Barbed Chains",
+        "Phylactery of Kel'Thuzad",
+        "Chilling Touch",
+        "Shadow Fissure",
+        "Chains of Ice",
+        "Power of Icecrown",
+        "The Damned Return"
+      ]
+    }
+  ],
+  "Kerrigan": [
+    {
+      "calculated_wins": 394,
+      "calculated_losses": 304,
+      "calculated_games_played": 698,
+      "win_rate": 56.45,
+      "build_talents": [
+        "Fury of the Swarm",
+        "Sharpened Blades",
+        "Boundless Fury",
+        "Summon Ultralisk",
+        "Chrysalis",
+        "Painful Spikes",
+        "Psionic Shift"
+      ]
+    },
+    {
+      "calculated_wins": 36,
+      "calculated_losses": 31,
+      "calculated_games_played": 67,
+      "win_rate": 53.73,
+      "build_talents": [
+        "Fury of the Swarm",
+        "Kinetic Fulmination",
+        "Bladed Momentum",
+        "Maelstrom",
+        "Volatile Power",
+        "Painful Spikes",
+        "Assimilation Blades"
+      ]
+    },
+    {
+      "calculated_wins": 139,
+      "calculated_losses": 139,
+      "calculated_games_played": 278,
+      "win_rate": 50,
+      "build_talents": [
+        "Fury of the Swarm",
+        "Sharpened Blades",
+        "Boundless Fury",
+        "Summon Ultralisk",
+        "Chrysalis",
+        "Unbridled Energy",
+        "Psionic Shift"
+      ]
+    },
+    {
+      "calculated_wins": 83,
+      "calculated_losses": 97,
+      "calculated_games_played": 180,
+      "win_rate": 46.11,
+      "build_talents": [
+        "Fury of the Swarm",
+        "Sharpened Blades",
+        "Boundless Fury",
+        "Summon Ultralisk",
+        "Chrysalis",
+        "Mounting Potency",
+        "Psionic Shift"
+      ]
+    },
+    {
+      "calculated_wins": 46,
+      "calculated_losses": 63,
+      "calculated_games_played": 109,
+      "win_rate": 42.2,
+      "build_talents": [
+        "Fury of the Swarm",
+        "Kinetic Fulmination",
+        "Boundless Fury",
+        "Summon Ultralisk",
+        "Chrysalis",
+        "Painful Spikes",
+        "Psionic Shift"
+      ]
+    }
+  ],
+  "Kharazim": [
+    {
+      "calculated_wins": 97,
+      "calculated_losses": 81,
+      "calculated_games_played": 178,
+      "win_rate": 54.49,
+      "build_talents": [
+        "Insight",
+        "Spirit Ally",
+        "Blazing Fists",
+        "Seven-Sided Strike",
+        "Sixth Sense",
+        "Echo of Heaven",
+        "Fists of Legend"
+      ]
+    },
+    {
+      "calculated_wins": 68,
+      "calculated_losses": 82,
+      "calculated_games_played": 150,
+      "win_rate": 45.33,
+      "build_talents": [
+        "Iron Fists",
+        "Earth Ally",
+        "Blinding Speed",
+        "Seven-Sided Strike",
+        "Sixth Sense",
+        "Way of the Hundred Fists",
+        "Fists of Legend"
+      ]
+    },
+    {
+      "calculated_wins": 80,
+      "calculated_losses": 101,
+      "calculated_games_played": 181,
+      "win_rate": 44.2,
+      "build_talents": [
+        "Iron Fists",
+        "Earth Ally",
+        "Blinding Speed",
+        "Seven-Sided Strike",
+        "Quicksilver",
+        "Way of the Hundred Fists",
+        "Fists of Legend"
+      ]
+    },
+    {
+      "calculated_wins": 59,
+      "calculated_losses": 76,
+      "calculated_games_played": 135,
+      "win_rate": 43.7,
+      "build_talents": [
+        "Iron Fists",
+        "Earth Ally",
+        "Blinding Speed",
+        "Seven-Sided Strike",
+        "Sixth Sense",
+        "Way of the Hundred Fists",
+        "Transgression"
+      ]
+    },
+    {
+      "calculated_wins": 65,
+      "calculated_losses": 89,
+      "calculated_games_played": 154,
+      "win_rate": 42.21,
+      "build_talents": [
+        "Iron Fists",
+        "Earth Ally",
+        "Blinding Speed",
+        "Seven-Sided Strike",
+        "Quicksilver",
+        "Way of the Hundred Fists",
+        "Transgression"
+      ]
+    }
+  ],
+  "Leoric": [
+    {
+      "calculated_wins": 262,
+      "calculated_losses": 160,
+      "calculated_games_played": 422,
+      "win_rate": 62.09,
+      "build_talents": [
+        "Ossein Renewal",
+        "Paralyzing Rage",
+        "Willing Vessel",
+        "Entomb",
+        "Spectral Leech",
+        "Mithril Mace",
+        "Buried Alive"
+      ]
+    },
+    {
+      "calculated_wins": 513,
+      "calculated_losses": 434,
+      "calculated_games_played": 947,
+      "win_rate": 54.17,
+      "build_talents": [
+        "Ossein Renewal",
+        "Paralyzing Rage",
+        "Drain Momentum",
+        "Entomb",
+        "Spectral Leech",
+        "Mithril Mace",
+        "Buried Alive"
+      ]
+    },
+    {
+      "calculated_wins": 175,
+      "calculated_losses": 159,
+      "calculated_games_played": 334,
+      "win_rate": 52.4,
+      "build_talents": [
+        "Consume Vitality",
+        "Ghastly Reach",
+        "Drain Momentum",
+        "Entomb",
+        "Spectral Leech",
+        "Mithril Mace",
+        "Buried Alive"
+      ]
+    },
+    {
+      "calculated_wins": 293,
+      "calculated_losses": 289,
+      "calculated_games_played": 582,
+      "win_rate": 50.34,
+      "build_talents": [
+        "Ossein Renewal",
+        "Kneel, Peasants!",
+        "Drain Momentum",
+        "Entomb",
+        "Spectral Leech",
+        "Mithril Mace",
+        "Buried Alive"
+      ]
+    },
+    {
+      "calculated_wins": 153,
+      "calculated_losses": 167,
+      "calculated_games_played": 320,
+      "win_rate": 47.81,
+      "build_talents": [
+        "Ossein Renewal",
+        "Kneel, Peasants!",
+        "Willing Vessel",
+        "Entomb",
+        "Spectral Leech",
+        "Mithril Mace",
+        "Buried Alive"
+      ]
+    }
+  ],
+  "Li Li": [
+    {
+      "calculated_wins": 256,
+      "calculated_losses": 284,
+      "calculated_games_played": 540,
+      "win_rate": 47.41,
+      "build_talents": [
+        "Serpent Sidekick",
+        "Wind Serpent",
+        "Let's Go!",
+        "Jug of 1,000 Cups",
+        "Lightning Serpent",
+        "Blessings Of Yu'lon",
+        "Jug of 1,000,000 Cups"
+      ]
+    },
+    {
+      "calculated_wins": 181,
+      "calculated_losses": 216,
+      "calculated_games_played": 397,
+      "win_rate": 45.59,
+      "build_talents": [
+        "Serpent Sidekick",
+        "Wind Serpent",
+        "The Good Stuff",
+        "Jug of 1,000 Cups",
+        "Lightning Serpent",
+        "Blessings Of Yu'lon",
+        "Jug of 1,000,000 Cups"
+      ]
+    },
+    {
+      "calculated_wins": 191,
+      "calculated_losses": 248,
+      "calculated_games_played": 439,
+      "win_rate": 43.51,
+      "build_talents": [
+        "Serpent Sidekick",
+        "Wind Serpent",
+        "Let's Go!",
+        "Jug of 1,000 Cups",
+        "Lightning Serpent",
+        "Blessings Of Yu'lon",
+        "Mistweaver"
+      ]
+    },
+    {
+      "calculated_wins": 208,
+      "calculated_losses": 275,
+      "calculated_games_played": 483,
+      "win_rate": 43.06,
+      "build_talents": [
+        "Free Drinks",
+        "Wind Serpent",
+        "The Good Stuff",
+        "Jug of 1,000 Cups",
+        "Lightning Serpent",
+        "Two For One",
+        "Jug of 1,000,000 Cups"
+      ]
+    },
+    {
+      "calculated_wins": 126,
+      "calculated_losses": 184,
+      "calculated_games_played": 310,
+      "win_rate": 40.65,
+      "build_talents": [
+        "Free Drinks",
+        "Surging Winds",
+        "The Good Stuff",
+        "Jug of 1,000 Cups",
+        "Gale Force",
+        "Two For One",
+        "Jug of 1,000,000 Cups"
+      ]
+    }
+  ],
+  "Li-Ming": [
+    {
+      "calculated_wins": 706,
+      "calculated_losses": 774,
+      "calculated_games_played": 1480,
+      "win_rate": 47.7,
+      "build_talents": [
+        "Aether Walker",
+        "Triumvirate",
+        "Calamity",
+        "Wave Of Force",
+        "Illusionist",
+        "Mirrorball",
+        "Repulsion"
+      ]
+    },
+    {
+      "calculated_wins": 598,
+      "calculated_losses": 739,
+      "calculated_games_played": 1337,
+      "win_rate": 44.73,
+      "build_talents": [
+        "Aether Walker",
+        "Triumvirate",
+        "Calamity",
+        "Wave Of Force",
+        "Illusionist",
+        "Mirrorball",
+        "Tal Rasha's Elements"
+      ]
+    },
+    {
+      "calculated_wins": 580,
+      "calculated_losses": 776,
+      "calculated_games_played": 1356,
+      "win_rate": 42.77,
+      "build_talents": [
+        "Force Armor",
+        "Triumvirate",
+        "Zei's Vengeance",
+        "Disintegrate",
+        "Glass Cannon",
+        "Arcane Orbit",
+        "Tal Rasha's Elements"
+      ]
+    },
+    {
+      "calculated_wins": 512,
+      "calculated_losses": 688,
+      "calculated_games_played": 1200,
+      "win_rate": 42.67,
+      "build_talents": [
+        "Force Armor",
+        "Triumvirate",
+        "Zei's Vengeance",
+        "Disintegrate",
+        "Glass Cannon",
+        "Arcane Orbit",
+        "Temporal Flux"
+      ]
+    },
+    {
+      "calculated_wins": 495,
+      "calculated_losses": 728,
+      "calculated_games_played": 1223,
+      "win_rate": 40.47,
+      "build_talents": [
+        "Power Hungry",
+        "Triumvirate",
+        "Zei's Vengeance",
+        "Disintegrate",
+        "Glass Cannon",
+        "Arcane Orbit",
+        "Tal Rasha's Elements"
+      ]
+    }
+  ],
+  "Lt. Morales": [
+    {
+      "calculated_wins": 196,
+      "calculated_losses": 172,
+      "calculated_games_played": 368,
+      "win_rate": 53.26,
+      "build_talents": [
+        "Life Support",
+        "Cellular Reactor",
+        "Vanadium Plating",
+        "Stim Drone",
+        "System Shock",
+        "Extended Care",
+        "Hyperactivity"
+      ]
+    },
+    {
+      "calculated_wins": 108,
+      "calculated_losses": 110,
+      "calculated_games_played": 218,
+      "win_rate": 49.54,
+      "build_talents": [
+        "Life Support",
+        "Trauma Trigger",
+        "Medi-Drone",
+        "Stim Drone",
+        "System Shock",
+        "Extended Care",
+        "Hyperactivity"
+      ]
+    },
+    {
+      "calculated_wins": 100,
+      "calculated_losses": 111,
+      "calculated_games_played": 211,
+      "win_rate": 47.39,
+      "build_talents": [
+        "Life Support",
+        "Trauma Trigger",
+        "Vanadium Plating",
+        "Stim Drone",
+        "System Shock",
+        "Extended Care",
+        "Hyperactivity"
+      ]
+    },
+    {
+      "calculated_wins": 147,
+      "calculated_losses": 175,
+      "calculated_games_played": 322,
+      "win_rate": 45.65,
+      "build_talents": [
+        "Life Support",
+        "Cellular Reactor",
+        "Vanadium Plating",
+        "Stim Drone",
+        "System Shock",
+        "Extended Care",
+        "Hospice Care"
+      ]
+    },
+    {
+      "calculated_wins": 76,
+      "calculated_losses": 101,
+      "calculated_games_played": 177,
+      "win_rate": 42.94,
+      "build_talents": [
+        "Life Support",
+        "Cellular Reactor",
+        "Medi-Drone",
+        "Stim Drone",
+        "System Shock",
+        "Extended Care",
+        "Hyperactivity"
+      ]
+    }
+  ],
+  "Lúcio": [
+    {
+      "calculated_wins": 251,
+      "calculated_losses": 242,
+      "calculated_games_played": 493,
+      "win_rate": 50.91,
+      "build_talents": [
+        "Accelerando",
+        "Off the Wall",
+        "Reverse Amp",
+        "High Five",
+        "Heavy Casters",
+        "Up the Frequency",
+        "Mixing Fire"
+      ]
+    },
+    {
+      "calculated_wins": 226,
+      "calculated_losses": 238,
+      "calculated_games_played": 464,
+      "win_rate": 48.71,
+      "build_talents": [
+        "Party Mix",
+        "Supersonic",
+        "Reverse Amp",
+        "Sound Barrier",
+        "All Together",
+        "Rejuvenescência",
+        "House Party"
+      ]
+    },
+    {
+      "calculated_wins": 564,
+      "calculated_losses": 717,
+      "calculated_games_played": 1281,
+      "win_rate": 44.03,
+      "build_talents": [
+        "Party Mix",
+        "Subwoofer",
+        "Reverse Amp",
+        "Sound Barrier",
+        "All Together",
+        "Rejuvenescência",
+        "House Party"
+      ]
+    },
+    {
+      "calculated_wins": 194,
+      "calculated_losses": 255,
+      "calculated_games_played": 449,
+      "win_rate": 43.21,
+      "build_talents": [
+        "Party Mix",
+        "Subwoofer",
+        "Boombox",
+        "Sound Barrier",
+        "All Together",
+        "Rejuvenescência",
+        "House Party"
+      ]
+    },
+    {
+      "calculated_wins": 302,
+      "calculated_losses": 520,
+      "calculated_games_played": 822,
+      "win_rate": 36.74,
+      "build_talents": [
+        "Party Mix",
+        "Subwoofer",
+        "Reverse Amp",
+        "Sound Barrier",
+        "All Together",
+        "Rejuvenescência",
+        "Bossa Nova"
+      ]
+    }
+  ],
+  "Lunara": [
+    {
+      "calculated_wins": 78,
+      "calculated_losses": 52,
+      "calculated_games_played": 130,
+      "win_rate": 60,
+      "build_talents": [
+        "Sentinel Wisp",
+        "Nature's Culling",
+        "Splintered Spear",
+        "Leaping Strike",
+        "Greater Spell Shield",
+        "Unfair Advantage",
+        "Intensifying Toxin"
+      ]
+    },
+    {
+      "calculated_wins": 51,
+      "calculated_losses": 54,
+      "calculated_games_played": 105,
+      "win_rate": 48.57,
+      "build_talents": [
+        "Sentinel Wisp",
+        "Nature's Culling",
+        "Choking Pollen",
+        "Leaping Strike",
+        "Greater Spell Shield",
+        "Unfair Advantage",
+        "Intensifying Toxin"
+      ]
+    },
+    {
+      "calculated_wins": 86,
+      "calculated_losses": 92,
+      "calculated_games_played": 178,
+      "win_rate": 48.31,
+      "build_talents": [
+        "Sentinel Wisp",
+        "Nature's Culling",
+        "Splintered Spear",
+        "Leaping Strike",
+        "Let Them Wither",
+        "Unfair Advantage",
+        "Intensifying Toxin"
+      ]
+    },
+    {
+      "calculated_wins": 61,
+      "calculated_losses": 79,
+      "calculated_games_played": 140,
+      "win_rate": 43.57,
+      "build_talents": [
+        "Sentinel Wisp",
+        "Blossom Swell",
+        "Choking Pollen",
+        "Leaping Strike",
+        "Greater Spell Shield",
+        "Unfair Advantage",
+        "Intensifying Toxin"
+      ]
+    },
+    {
+      "calculated_wins": 38,
+      "calculated_losses": 60,
+      "calculated_games_played": 98,
+      "win_rate": 38.78,
+      "build_talents": [
+        "Sentinel Wisp",
+        "Blossom Swell",
+        "Choking Pollen",
+        "Thornwood Vine",
+        "Let Them Wither",
+        "Accelerated Contamination",
+        "Forest's Wrath"
+      ]
+    }
+  ],
+  "Maiev": [
+    {
+      "calculated_wins": 195,
+      "calculated_losses": 139,
+      "calculated_games_played": 334,
+      "win_rate": 58.38,
+      "build_talents": [
+        "Naisha's Memento",
+        "Pin Down",
+        "Elune's Wrath",
+        "Warden's Cage",
+        "Bladed Armor",
+        "Vengeful Knives",
+        "Shadow Orb: Vengeance"
+      ]
+    },
+    {
+      "calculated_wins": 171,
+      "calculated_losses": 168,
+      "calculated_games_played": 339,
+      "win_rate": 50.44,
+      "build_talents": [
+        "Naisha's Memento",
+        "Pin Down",
+        "Elune's Wrath",
+        "Warden's Cage",
+        "Bladed Armor",
+        "Vengeful Knives",
+        "Shadow Orb: Huntress"
+      ]
+    },
+    {
+      "calculated_wins": 141,
+      "calculated_losses": 148,
+      "calculated_games_played": 289,
+      "win_rate": 48.79,
+      "build_talents": [
+        "Naisha's Memento",
+        "Pin Down",
+        "Elune's Wrath",
+        "Warden's Cage",
+        "Bladed Armor",
+        "Vengeful Knives",
+        "Shadow Orb: Shadow Strike"
+      ]
+    },
+    {
+      "calculated_wins": 98,
+      "calculated_losses": 111,
+      "calculated_games_played": 209,
+      "win_rate": 46.89,
+      "build_talents": [
+        "Naisha's Memento",
+        "Pin Down",
+        "Elune's Wrath",
+        "Containment Disc",
+        "Bladed Armor",
+        "Vengeful Knives",
+        "Shadow Orb: Huntress"
+      ]
+    },
+    {
+      "calculated_wins": 101,
+      "calculated_losses": 123,
+      "calculated_games_played": 224,
+      "win_rate": 45.09,
+      "build_talents": [
+        "Naisha's Memento",
+        "Pin Down",
+        "Elune's Wrath",
+        "Containment Disc",
+        "Bladed Armor",
+        "Vengeful Knives",
+        "Shadow Orb: Shadow Strike"
+      ]
+    }
+  ],
+  "Mal'Ganis": [
+    {
+      "calculated_wins": 28,
+      "calculated_losses": 22,
+      "calculated_games_played": 50,
+      "win_rate": 56,
+      "build_talents": [
+        "Time to Feed",
+        "Fueled by Torment",
+        "Spreading Plague",
+        "Carrion Swarm",
+        "Deep Sleep",
+        "Plague Bats",
+        "Seeker Swarm"
+      ]
+    },
+    {
+      "calculated_wins": 174,
+      "calculated_losses": 159,
+      "calculated_games_played": 333,
+      "win_rate": 52.25,
+      "build_talents": [
+        "Time to Feed",
+        "Might of Sargeras",
+        "Spreading Plague",
+        "Carrion Swarm",
+        "Blood Rush",
+        "Plague Bats",
+        "Seeker Swarm"
+      ]
+    },
+    {
+      "calculated_wins": 25,
+      "calculated_losses": 35,
+      "calculated_games_played": 60,
+      "win_rate": 41.67,
+      "build_talents": [
+        "Time to Feed",
+        "Fueled by Torment",
+        "Spreading Plague",
+        "Carrion Swarm",
+        "Blood Rush",
+        "Plague Bats",
+        "Seeker Swarm"
+      ]
+    },
+    {
+      "calculated_wins": 24,
+      "calculated_losses": 35,
+      "calculated_games_played": 59,
+      "win_rate": 40.68,
+      "build_talents": [
+        "Time to Feed",
+        "Might of Sargeras",
+        "Spreading Plague",
+        "Dark Conversion",
+        "Blood Rush",
+        "Plague Bats",
+        "Wrath of Nathreza"
+      ]
+    },
+    {
+      "calculated_wins": 18,
+      "calculated_losses": 31,
+      "calculated_games_played": 49,
+      "win_rate": 36.73,
+      "build_talents": [
+        "Time to Feed",
+        "Might of Sargeras",
+        "Spreading Plague",
+        "Dark Conversion",
+        "Blood Rush",
+        "Plague Bats",
+        "Alone in the Dark"
+      ]
+    }
+  ],
+  "Malfurion": [
+    {
+      "calculated_wins": 92,
+      "calculated_losses": 54,
+      "calculated_games_played": 146,
+      "win_rate": 63.01,
+      "build_talents": [
+        "Vengeful Roots",
+        "Celestial Alignment",
+        "Wild Growth",
+        "Twilight Dream",
+        "Hindering Moonfire",
+        "Nature's Balance",
+        "Lunar Shower"
+      ]
+    },
+    {
+      "calculated_wins": 104,
+      "calculated_losses": 105,
+      "calculated_games_played": 209,
+      "win_rate": 49.76,
+      "build_talents": [
+        "Vengeful Roots",
+        "Celestial Alignment",
+        "Tenacious Roots",
+        "Twilight Dream",
+        "Hindering Moonfire",
+        "Nature's Balance",
+        "Lunar Shower"
+      ]
+    },
+    {
+      "calculated_wins": 181,
+      "calculated_losses": 218,
+      "calculated_games_played": 399,
+      "win_rate": 45.36,
+      "build_talents": [
+        "Emerald Dreams",
+        "Rejuvenation",
+        "Nature's Cure",
+        "Tranquility",
+        "Nature's Swiftness",
+        "Moonlit Harmony",
+        "Serenity"
+      ]
+    },
+    {
+      "calculated_wins": 168,
+      "calculated_losses": 208,
+      "calculated_games_played": 376,
+      "win_rate": 44.68,
+      "build_talents": [
+        "Emerald Dreams",
+        "Rejuvenation",
+        "Nature's Cure",
+        "Tranquility",
+        "Nature's Swiftness",
+        "Ysera's Gift",
+        "Serenity"
+      ]
+    },
+    {
+      "calculated_wins": 141,
+      "calculated_losses": 195,
+      "calculated_games_played": 336,
+      "win_rate": 41.96,
+      "build_talents": [
+        "Emerald Dreams",
+        "Rejuvenation",
+        "Nature's Cure",
+        "Tranquility",
+        "Nature's Swiftness",
+        "Nature's Balance",
+        "Serenity"
+      ]
+    }
+  ],
+  "Malthael": [
+    {
+      "calculated_wins": 130,
+      "calculated_losses": 95,
+      "calculated_games_played": 225,
+      "win_rate": 57.78,
+      "build_talents": [
+        "On a Pale Horse",
+        "Die Alone",
+        "Cold Hand",
+        "Last Rites",
+        "Soul Siphon",
+        "Soul Collector",
+        "No One Can Stop Death"
+      ]
+    },
+    {
+      "calculated_wins": 63,
+      "calculated_losses": 47,
+      "calculated_games_played": 110,
+      "win_rate": 57.27,
+      "build_talents": [
+        "On a Pale Horse",
+        "Die Alone",
+        "Cold Hand",
+        "Last Rites",
+        "Inevitable End",
+        "Soul Collector",
+        "No One Can Stop Death"
+      ]
+    },
+    {
+      "calculated_wins": 90,
+      "calculated_losses": 75,
+      "calculated_games_played": 165,
+      "win_rate": 54.55,
+      "build_talents": [
+        "On a Pale Horse",
+        "Die Alone",
+        "Massacre",
+        "Last Rites",
+        "Shroud of Wisdom",
+        "Soul Collector",
+        "No One Can Stop Death"
+      ]
+    },
+    {
+      "calculated_wins": 98,
+      "calculated_losses": 121,
+      "calculated_games_played": 219,
+      "win_rate": 44.75,
+      "build_talents": [
+        "Fear the Reaper",
+        "Die Alone",
+        "Cold Hand",
+        "Last Rites",
+        "Soul Siphon",
+        "Soul Collector",
+        "No One Can Stop Death"
+      ]
+    },
+    {
+      "calculated_wins": 99,
+      "calculated_losses": 123,
+      "calculated_games_played": 222,
+      "win_rate": 44.59,
+      "build_talents": [
+        "Fear the Reaper",
+        "Die Alone",
+        "Cold Hand",
+        "Last Rites",
+        "Soul Siphon",
+        "Soul Collector",
+        "Angel of Death"
+      ]
+    }
+  ],
+  "Medivh": [
+    {
+      "calculated_wins": 292,
+      "calculated_losses": 308,
+      "calculated_games_played": 600,
+      "win_rate": 48.67,
+      "build_talents": [
+        "Portal Mastery",
+        "Raven Familiar",
+        "Arcane Explosion",
+        "Ley Line Seal",
+        "Enduring Will",
+        "Temporal Flux",
+        "Medivh Cheats!"
+      ]
+    },
+    {
+      "calculated_wins": 23,
+      "calculated_losses": 32,
+      "calculated_games_played": 55,
+      "win_rate": 41.82,
+      "build_talents": [
+        "Portal Mastery",
+        "Raven Familiar",
+        "Force of Magic",
+        "Ley Line Seal",
+        "Enduring Will",
+        "Temporal Flux",
+        "Medivh Cheats!"
+      ]
+    },
+    {
+      "calculated_wins": 41,
+      "calculated_losses": 69,
+      "calculated_games_played": 110,
+      "win_rate": 37.27,
+      "build_talents": [
+        "Portal Mastery",
+        "Raven Familiar",
+        "Arcane Explosion",
+        "Ley Line Seal",
+        "Enduring Will",
+        "Arcane Charge",
+        "Medivh Cheats!"
+      ]
+    },
+    {
+      "calculated_wins": 98,
+      "calculated_losses": 185,
+      "calculated_games_played": 283,
+      "win_rate": 34.63,
+      "build_talents": [
+        "Portal Mastery",
+        "Raven Familiar",
+        "Arcane Explosion",
+        "Ley Line Seal",
+        "Enduring Will",
+        "Temporal Flux",
+        "Guardian of Tirisfal"
+      ]
+    },
+    {
+      "calculated_wins": 21,
+      "calculated_losses": 47,
+      "calculated_games_played": 68,
+      "win_rate": 30.88,
+      "build_talents": [
+        "Portal Mastery",
+        "Raven Familiar",
+        "Arcane Explosion",
+        "Poly Bomb",
+        "Enduring Will",
+        "Temporal Flux",
+        "Glyph Of Poly Bomb"
+      ]
+    }
+  ],
+  "Mei": [
+    {
+      "calculated_wins": 130,
+      "calculated_losses": 94,
+      "calculated_games_played": 224,
+      "win_rate": 58.04,
+      "build_talents": [
+        "Ice Storm",
+        "Cold Front",
+        "Skating Away",
+        "Avalanche",
+        "Flurry",
+        "Black Ice",
+        "Cascade"
+      ]
+    },
+    {
+      "calculated_wins": 101,
+      "calculated_losses": 111,
+      "calculated_games_played": 212,
+      "win_rate": 47.64,
+      "build_talents": [
+        "Heat Transfer",
+        "Cold Front",
+        "Skating Away",
+        "Ice Wall",
+        "Polar Vortex",
+        "Black Ice",
+        "Shatter"
+      ]
+    },
+    {
+      "calculated_wins": 105,
+      "calculated_losses": 124,
+      "calculated_games_played": 229,
+      "win_rate": 45.85,
+      "build_talents": [
+        "Heat Transfer",
+        "Cold Front",
+        "Skating Away",
+        "Avalanche",
+        "Polar Vortex",
+        "Black Ice",
+        "Flash Freeze"
+      ]
+    },
+    {
+      "calculated_wins": 125,
+      "calculated_losses": 148,
+      "calculated_games_played": 273,
+      "win_rate": 45.79,
+      "build_talents": [
+        "Heat Transfer",
+        "Cold Front",
+        "Skating Away",
+        "Avalanche",
+        "Polar Vortex",
+        "Black Ice",
+        "Cascade"
+      ]
+    },
+    {
+      "calculated_wins": 59,
+      "calculated_losses": 93,
+      "calculated_games_played": 152,
+      "win_rate": 38.82,
+      "build_talents": [
+        "Heat Transfer",
+        "Crystallize",
+        "Backup Battery",
+        "Avalanche",
+        "Cooling Servos",
+        "Acclimation",
+        "Flash Freeze"
+      ]
+    }
+  ],
+  "Mephisto": [
+    {
+      "calculated_wins": 322,
+      "calculated_losses": 216,
+      "calculated_games_played": 538,
+      "win_rate": 59.85,
+      "build_talents": [
+        "Unyielding Power",
+        "Spite",
+        "Frost Storm",
+        "Durance of Hate",
+        "Abhorred Skull",
+        "Lightning Reaction",
+        "Unspeakable Horror"
+      ]
+    },
+    {
+      "calculated_wins": 318,
+      "calculated_losses": 249,
+      "calculated_games_played": 567,
+      "win_rate": 56.08,
+      "build_talents": [
+        "Unyielding Power",
+        "Spite",
+        "Frost Storm",
+        "Durance of Hate",
+        "Abhorred Skull",
+        "Lightning Reaction",
+        "Mimic"
+      ]
+    },
+    {
+      "calculated_wins": 111,
+      "calculated_losses": 91,
+      "calculated_games_played": 202,
+      "win_rate": 54.95,
+      "build_talents": [
+        "Unyielding Power",
+        "Spite",
+        "Frost Storm",
+        "Consume Souls",
+        "Abhorred Skull",
+        "Lightning Reaction",
+        "Consumed by Hatred"
+      ]
+    },
+    {
+      "calculated_wins": 95,
+      "calculated_losses": 85,
+      "calculated_games_played": 180,
+      "win_rate": 52.78,
+      "build_talents": [
+        "Furious Spark",
+        "Spite",
+        "Frost Storm",
+        "Durance of Hate",
+        "Shard of Hate",
+        "Static Field",
+        "Mimic"
+      ]
+    },
+    {
+      "calculated_wins": 174,
+      "calculated_losses": 160,
+      "calculated_games_played": 334,
+      "win_rate": 52.1,
+      "build_talents": [
+        "Furious Spark",
+        "Static Barrier",
+        "Trickery",
+        "Durance of Hate",
+        "Shard of Hate",
+        "Static Field",
+        "Mimic"
+      ]
+    }
+  ],
+  "Muradin": [
+    {
+      "calculated_wins": 196,
+      "calculated_losses": 154,
+      "calculated_games_played": 350,
+      "win_rate": 56,
+      "build_talents": [
+        "Dwarf Block",
+        "Thunder Burn",
+        "Heavy Impact",
+        "Avatar",
+        "Bronzebeard Rage",
+        "Dwarf Launch",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 669,
+      "calculated_losses": 571,
+      "calculated_games_played": 1240,
+      "win_rate": 53.95,
+      "build_talents": [
+        "Dwarf Block",
+        "Reverberation",
+        "Skullcracker",
+        "Avatar",
+        "Bronzebeard Rage",
+        "Dwarf Launch",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 247,
+      "calculated_losses": 217,
+      "calculated_games_played": 464,
+      "win_rate": 53.23,
+      "build_talents": [
+        "Dwarf Block",
+        "Thunder Burn",
+        "Give 'em the Axe!",
+        "Avatar",
+        "Bronzebeard Rage",
+        "Dwarf Launch",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 567,
+      "calculated_losses": 501,
+      "calculated_games_played": 1068,
+      "win_rate": 53.09,
+      "build_talents": [
+        "Dwarf Block",
+        "Reverberation",
+        "Heavy Impact",
+        "Avatar",
+        "Bronzebeard Rage",
+        "Dwarf Launch",
+        "Rewind"
+      ]
+    },
+    {
+      "calculated_wins": 231,
+      "calculated_losses": 254,
+      "calculated_games_played": 485,
+      "win_rate": 47.63,
+      "build_talents": [
+        "Perfect Storm",
+        "Sledgehammer",
+        "Skullcracker",
+        "Avatar",
+        "Bronzebeard Rage",
+        "Dwarf Launch",
+        "Rewind"
+      ]
+    }
+  ],
+  "Murky": [
+    {
+      "calculated_wins": 185,
+      "calculated_losses": 155,
+      "calculated_games_played": 340,
+      "win_rate": 54.41,
+      "build_talents": [
+        "A Fishy Deal",
+        "Slime Time",
+        "Black Lagoon",
+        "Octo-Grab",
+        "Fish Tank",
+        "Toxic Buildup",
+        "Making Inky"
+      ]
+    },
+    {
+      "calculated_wins": 72,
+      "calculated_losses": 63,
+      "calculated_games_played": 135,
+      "win_rate": 53.33,
+      "build_talents": [
+        "A Fishy Deal",
+        "Slime Time",
+        "Black Lagoon",
+        "March of the Murlocs",
+        "Fish Tank",
+        "Toxic Buildup",
+        "Making Inky"
+      ]
+    },
+    {
+      "calculated_wins": 107,
+      "calculated_losses": 133,
+      "calculated_games_played": 240,
+      "win_rate": 44.58,
+      "build_talents": [
+        "A Fishy Deal",
+        "Tufferfish",
+        "Slippery When Wet",
+        "Octo-Grab",
+        "Rejuvenating Bubble",
+        "Fish Oil",
+        "Big Tuna Kahuna"
+      ]
+    },
+    {
+      "calculated_wins": 44,
+      "calculated_losses": 59,
+      "calculated_games_played": 103,
+      "win_rate": 42.72,
+      "build_talents": [
+        "A Fishy Deal",
+        "Slime Time",
+        "Black Lagoon",
+        "Octo-Grab",
+        "Fish Tank",
+        "Fish Oil",
+        "Making Inky"
+      ]
+    },
+    {
+      "calculated_wins": 63,
+      "calculated_losses": 109,
+      "calculated_games_played": 172,
+      "win_rate": 36.63,
+      "build_talents": [
+        "A Fishy Deal",
+        "Tufferfish",
+        "Slippery When Wet",
+        "Octo-Grab",
+        "Rejuvenating Bubble",
+        "Fish Oil",
+        "... And a Shark Too!"
+      ]
+    }
+  ],
+  "Nazeebo": [
+    {
+      "calculated_wins": 315,
+      "calculated_losses": 249,
+      "calculated_games_played": 564,
+      "win_rate": 55.85,
+      "build_talents": [
+        "Thing of the Deep",
+        "Blood Ritual",
+        "Dead Rush",
+        "Gargantuan",
+        "Ice Block",
+        "Ring of Poison",
+        "Vile Infection"
+      ]
+    },
+    {
+      "calculated_wins": 838,
+      "calculated_losses": 867,
+      "calculated_games_played": 1705,
+      "win_rate": 49.15,
+      "build_talents": [
+        "Widowmakers",
+        "Hexed Crawlers",
+        "Spirit of Arachyr",
+        "Ravenous Spirit",
+        "Ice Block",
+        "Spider Colony",
+        "Annihilating Spirit"
+      ]
+    },
+    {
+      "calculated_wins": 679,
+      "calculated_losses": 732,
+      "calculated_games_played": 1411,
+      "win_rate": 48.12,
+      "build_talents": [
+        "Widowmakers",
+        "Hexed Crawlers",
+        "Spirit of Arachyr",
+        "Gargantuan",
+        "Ice Block",
+        "Spider Colony",
+        "Vile Infection"
+      ]
+    },
+    {
+      "calculated_wins": 570,
+      "calculated_losses": 653,
+      "calculated_games_played": 1223,
+      "win_rate": 46.61,
+      "build_talents": [
+        "Widowmakers",
+        "Hexed Crawlers",
+        "Spirit of Arachyr",
+        "Gargantuan",
+        "Ice Block",
+        "Spider Colony",
+        "Humongoid"
+      ]
+    },
+    {
+      "calculated_wins": 633,
+      "calculated_losses": 784,
+      "calculated_games_played": 1417,
+      "win_rate": 44.67,
+      "build_talents": [
+        "Widowmakers",
+        "Hexed Crawlers",
+        "Spirit of Arachyr",
+        "Ravenous Spirit",
+        "Ice Block",
+        "Spider Colony",
+        "Vile Infection"
+      ]
+    }
+  ],
+  "Nova": [
+    {
+      "calculated_wins": 35,
+      "calculated_losses": 30,
+      "calculated_games_played": 65,
+      "win_rate": 53.85,
+      "build_talents": [
+        "Longshot",
+        "Covert Mission",
+        "Anti-Armor Shells",
+        "Triple Tap",
+        "Psionic Efficiency",
+        "Explosive Round",
+        "Fast Reload"
+      ]
+    },
+    {
+      "calculated_wins": 72,
+      "calculated_losses": 67,
+      "calculated_games_played": 139,
+      "win_rate": 51.8,
+      "build_talents": [
+        "Longshot",
+        "Covert Mission",
+        "Anti-Armor Shells",
+        "Triple Tap",
+        "Double Tap",
+        "Crippling Shot",
+        "Fast Reload"
+      ]
+    },
+    {
+      "calculated_wins": 87,
+      "calculated_losses": 81,
+      "calculated_games_played": 168,
+      "win_rate": 51.79,
+      "build_talents": [
+        "Longshot",
+        "Covert Mission",
+        "Anti-Armor Shells",
+        "Precision Strike",
+        "Double Tap",
+        "Crippling Shot",
+        "Precision Barrage"
+      ]
+    },
+    {
+      "calculated_wins": 70,
+      "calculated_losses": 94,
+      "calculated_games_played": 164,
+      "win_rate": 42.68,
+      "build_talents": [
+        "Longshot",
+        "Rapid Projection",
+        "Anti-Armor Shells",
+        "Precision Strike",
+        "Double Tap",
+        "Crippling Shot",
+        "Precision Barrage"
+      ]
+    },
+    {
+      "calculated_wins": 42,
+      "calculated_losses": 67,
+      "calculated_games_played": 109,
+      "win_rate": 38.53,
+      "build_talents": [
+        "Advanced Cloaking",
+        "Covert Mission",
+        "Perfect Shot",
+        "Triple Tap",
+        "Psionic Efficiency",
+        "Explosive Round",
+        "Fast Reload"
+      ]
+    }
+  ],
+  "Orphea": [
+    {
+      "calculated_wins": 452,
+      "calculated_losses": 351,
+      "calculated_games_played": 803,
+      "win_rate": 56.29,
+      "build_talents": [
+        "Ancestral Strength",
+        "Chaotic Assault",
+        "Insatiable",
+        "Eternal Feast",
+        "Abyssal Symbiosis",
+        "Dead Magic",
+        "Eldritch Conduit"
+      ]
+    },
+    {
+      "calculated_wins": 375,
+      "calculated_losses": 373,
+      "calculated_games_played": 748,
+      "win_rate": 50.13,
+      "build_talents": [
+        "Ancestral Strength",
+        "Chaotic Assault",
+        "Insatiable",
+        "Crushing Jaws",
+        "Abyssal Symbiosis",
+        "Dead Magic",
+        "Eldritch Conduit"
+      ]
+    },
+    {
+      "calculated_wins": 81,
+      "calculated_losses": 82,
+      "calculated_games_played": 163,
+      "win_rate": 49.69,
+      "build_talents": [
+        "En Pointe",
+        "Allegrissimo",
+        "Insatiable",
+        "Crushing Jaws",
+        "Determination",
+        "Bond of Anguish",
+        "Eldritch Conduit"
+      ]
+    },
+    {
+      "calculated_wins": 134,
+      "calculated_losses": 162,
+      "calculated_games_played": 296,
+      "win_rate": 45.27,
+      "build_talents": [
+        "En Pointe",
+        "Allegrissimo",
+        "Mind Devourer",
+        "Eternal Feast",
+        "Determination",
+        "Bond of Anguish",
+        "Eldritch Conduit"
+      ]
+    },
+    {
+      "calculated_wins": 86,
+      "calculated_losses": 141,
+      "calculated_games_played": 227,
+      "win_rate": 37.89,
+      "build_talents": [
+        "En Pointe",
+        "Allegrissimo",
+        "Mind Devourer",
+        "Eternal Feast",
+        "Determination",
+        "Bond of Anguish",
+        "Monster Within"
+      ]
+    }
+  ],
+  "Probius": [
+    {
+      "calculated_wins": 38,
+      "calculated_losses": 20,
+      "calculated_games_played": 58,
+      "win_rate": 65.52,
+      "build_talents": [
+        "Echo Pulse",
+        "Photon Barrier",
+        "Rift Shock",
+        "Pylon Overcharge",
+        "Power Overflowing",
+        "Gravity Well",
+        "Probius Loop"
+      ]
+    },
+    {
+      "calculated_wins": 70,
+      "calculated_losses": 46,
+      "calculated_games_played": 116,
+      "win_rate": 60.34,
+      "build_talents": [
+        "Echo Pulse",
+        "Photon Barrier",
+        "Tower Defense",
+        "Pylon Overcharge",
+        "Shield Battery",
+        "Quantum Entanglement",
+        "Construct Additional Pylons"
+      ]
+    },
+    {
+      "calculated_wins": 47,
+      "calculated_losses": 42,
+      "calculated_games_played": 89,
+      "win_rate": 52.81,
+      "build_talents": [
+        "Gather Minerals",
+        "Photon Barrier",
+        "Tower Defense",
+        "Pylon Overcharge",
+        "Shield Battery",
+        "Quantum Entanglement",
+        "Construct Additional Pylons"
+      ]
+    },
+    {
+      "calculated_wins": 58,
+      "calculated_losses": 56,
+      "calculated_games_played": 114,
+      "win_rate": 50.88,
+      "build_talents": [
+        "Warp Resonance",
+        "Turbo Charged",
+        "Rift Shock",
+        "Pylon Overcharge",
+        "Shield Battery",
+        "Gravity Well",
+        "Probius Loop"
+      ]
+    },
+    {
+      "calculated_wins": 42,
+      "calculated_losses": 48,
+      "calculated_games_played": 90,
+      "win_rate": 46.67,
+      "build_talents": [
+        "Warp Resonance",
+        "Turbo Charged",
+        "Rift Shock",
+        "Pylon Overcharge",
+        "Power Overflowing",
+        "Gravity Well",
+        "Probius Loop"
+      ]
+    }
+  ],
+  "Qhira": [
+    {
+      "calculated_wins": 78,
+      "calculated_losses": 61,
+      "calculated_games_played": 139,
+      "win_rate": 56.12,
+      "build_talents": [
+        "Maximum Effort",
+        "Your Pain, My Gain",
+        "The Thirst",
+        "Unrelenting Strikes",
+        "Chainsaw",
+        "Booming Kick",
+        "Silent Killer"
+      ]
+    },
+    {
+      "calculated_wins": 168,
+      "calculated_losses": 144,
+      "calculated_games_played": 312,
+      "win_rate": 53.85,
+      "build_talents": [
+        "Finishing Touch",
+        "Your Pain, My Gain",
+        "Siphoning Link",
+        "Unrelenting Strikes",
+        "The Hunted",
+        "Booming Kick",
+        "Silent Killer"
+      ]
+    },
+    {
+      "calculated_wins": 70,
+      "calculated_losses": 76,
+      "calculated_games_played": 146,
+      "win_rate": 47.95,
+      "build_talents": [
+        "Fatal Wounds",
+        "Upstage",
+        "Healmonger",
+        "Unrelenting Strikes",
+        "Pulsing Pain",
+        "Booming Kick",
+        "Silent Killer"
+      ]
+    },
+    {
+      "calculated_wins": 67,
+      "calculated_losses": 78,
+      "calculated_games_played": 145,
+      "win_rate": 46.21,
+      "build_talents": [
+        "Fatal Wounds",
+        "Upstage",
+        "Healmonger",
+        "Final Strike",
+        "Chainsaw",
+        "Booming Kick",
+        "Unleashed Potential"
+      ]
+    },
+    {
+      "calculated_wins": 63,
+      "calculated_losses": 80,
+      "calculated_games_played": 143,
+      "win_rate": 44.06,
+      "build_talents": [
+        "Fatal Wounds",
+        "Upstage",
+        "Healmonger",
+        "Unrelenting Strikes",
+        "Chainsaw",
+        "Booming Kick",
+        "Silent Killer"
+      ]
+    }
+  ],
+  "Ragnaros": [
+    {
+      "calculated_wins": 2375,
+      "calculated_losses": 1880,
+      "calculated_games_played": 4255,
+      "win_rate": 55.82,
+      "build_talents": [
+        "Engulfing Flame",
+        "Slow Burn",
+        "Blistering Attacks",
+        "Lava Wave",
+        "Tempered Flame",
+        "Blast Echo",
+        "Lava Surge"
+      ]
+    },
+    {
+      "calculated_wins": 440,
+      "calculated_losses": 436,
+      "calculated_games_played": 876,
+      "win_rate": 50.23,
+      "build_talents": [
+        "Sulfuras Hungers",
+        "Catching Fire",
+        "Hand of Ragnaros",
+        "Lava Wave",
+        "Cauterize Wounds",
+        "Giant Scorcher",
+        "Lava Surge"
+      ]
+    },
+    {
+      "calculated_wins": 357,
+      "calculated_losses": 361,
+      "calculated_games_played": 718,
+      "win_rate": 49.72,
+      "build_talents": [
+        "Shifting Meteor",
+        "Fire Ward",
+        "Molten Power",
+        "Lava Wave",
+        "Resilient Flame",
+        "Meteor Bomb",
+        "Lava Surge"
+      ]
+    },
+    {
+      "calculated_wins": 605,
+      "calculated_losses": 730,
+      "calculated_games_played": 1335,
+      "win_rate": 45.32,
+      "build_talents": [
+        "Engulfing Flame",
+        "Slow Burn",
+        "Blistering Attacks",
+        "Lava Wave",
+        "Tempered Flame",
+        "Blast Echo",
+        "Submerge"
+      ]
+    },
+    {
+      "calculated_wins": 584,
+      "calculated_losses": 733,
+      "calculated_games_played": 1317,
+      "win_rate": 44.34,
+      "build_talents": [
+        "Engulfing Flame",
+        "Slow Burn",
+        "Blistering Attacks",
+        "Lava Wave",
+        "Tempered Flame",
+        "Blast Echo",
+        "Heroic Difficulty"
+      ]
+    }
+  ],
+  "Raynor": [
+    {
+      "calculated_wins": 155,
+      "calculated_losses": 124,
+      "calculated_games_played": 279,
+      "win_rate": 55.56,
+      "build_talents": [
+        "Exterminator",
+        "Fight or Flight",
+        "Unstable Compound",
+        "Raynor's Raider",
+        "Line 'Em Up",
+        "Paint Them Red",
+        "Dusk Wing"
+      ]
+    },
+    {
+      "calculated_wins": 143,
+      "calculated_losses": 127,
+      "calculated_games_played": 270,
+      "win_rate": 52.96,
+      "build_talents": [
+        "Veteran Marksman",
+        "Behemoth Armor",
+        "Unstable Compound",
+        "Hyperion",
+        "Giddy-Up",
+        "Bounty Hunter",
+        "Sergeant Pepper"
+      ]
+    },
+    {
+      "calculated_wins": 249,
+      "calculated_losses": 229,
+      "calculated_games_played": 478,
+      "win_rate": 52.09,
+      "build_talents": [
+        "Exterminator",
+        "Fight or Flight",
+        "Fuel the Rush",
+        "Hyperion",
+        "Giddy-Up",
+        "Rallying Cry",
+        "Execute Orders"
+      ]
+    },
+    {
+      "calculated_wins": 181,
+      "calculated_losses": 182,
+      "calculated_games_played": 363,
+      "win_rate": 49.86,
+      "build_talents": [
+        "Exterminator",
+        "Fight or Flight",
+        "Fuel the Rush",
+        "Raynor's Raider",
+        "Give Me More!",
+        "Rallying Cry",
+        "Raiders Roll"
+      ]
+    },
+    {
+      "calculated_wins": 321,
+      "calculated_losses": 352,
+      "calculated_games_played": 673,
+      "win_rate": 47.7,
+      "build_talents": [
+        "Exterminator",
+        "Fight or Flight",
+        "Fuel the Rush",
+        "Hyperion",
+        "Give Me More!",
+        "Rallying Cry",
+        "Raiders Roll"
+      ]
+    }
+  ],
+  "Rehgar": [
+    {
+      "calculated_wins": 3100,
+      "calculated_losses": 2346,
+      "calculated_games_played": 5446,
+      "win_rate": 56.92,
+      "build_talents": [
+        "Colossal Totem",
+        "Earthliving Enchant",
+        "Grounded Totem",
+        "Ancestral Healing",
+        "Tidal Waves",
+        "Earthgrasp Totem",
+        "Farseer's Blessing"
+      ]
+    },
+    {
+      "calculated_wins": 1963,
+      "calculated_losses": 1567,
+      "calculated_games_played": 3530,
+      "win_rate": 55.61,
+      "build_talents": [
+        "Colossal Totem",
+        "Earthliving Enchant",
+        "Grounded Totem",
+        "Ancestral Healing",
+        "Wellspring",
+        "Earthgrasp Totem",
+        "Farseer's Blessing"
+      ]
+    },
+    {
+      "calculated_wins": 627,
+      "calculated_losses": 524,
+      "calculated_games_played": 1151,
+      "win_rate": 54.47,
+      "build_talents": [
+        "Colossal Totem",
+        "Healing Totem",
+        "Grounded Totem",
+        "Ancestral Healing",
+        "Wellspring",
+        "Earthgrasp Totem",
+        "Farseer's Blessing"
+      ]
+    },
+    {
+      "calculated_wins": 724,
+      "calculated_losses": 614,
+      "calculated_games_played": 1338,
+      "win_rate": 54.11,
+      "build_talents": [
+        "Stormcaller",
+        "Electric Charge",
+        "Blood and Thunder",
+        "Ancestral Healing",
+        "Earth Shield",
+        "Rising Storm",
+        "Elemental Conduit"
+      ]
+    },
+    {
+      "calculated_wins": 776,
+      "calculated_losses": 663,
+      "calculated_games_played": 1439,
+      "win_rate": 53.93,
+      "build_talents": [
+        "Stormcaller",
+        "Electric Charge",
+        "Blood and Thunder",
+        "Ancestral Healing",
+        "Earth Shield",
+        "Rising Storm",
+        "Farseer's Blessing"
+      ]
+    }
+  ],
+  "Rexxar": [
+    {
+      "calculated_wins": 119,
+      "calculated_losses": 69,
+      "calculated_games_played": 188,
+      "win_rate": 63.3,
+      "build_talents": [
+        "Bird of Prey",
+        "Hunter-Gatherer",
+        "Crippling Talons",
+        "Unleash the Boars",
+        "Aspect of the Hawk",
+        "Feign Death",
+        "Kill Command"
+      ]
+    },
+    {
+      "calculated_wins": 158,
+      "calculated_losses": 115,
+      "calculated_games_played": 273,
+      "win_rate": 57.88,
+      "build_talents": [
+        "Bird of Prey",
+        "Hunter-Gatherer",
+        "Aspect of the Beast",
+        "Unleash the Boars",
+        "Dire Beast",
+        "Feign Death",
+        "Kill Command"
+      ]
+    },
+    {
+      "calculated_wins": 84,
+      "calculated_losses": 70,
+      "calculated_games_played": 154,
+      "win_rate": 54.55,
+      "build_talents": [
+        "Bird of Prey",
+        "Hunter-Gatherer",
+        "Aspect of the Beast",
+        "Unleash the Boars",
+        "Aspect of the Hawk",
+        "Feign Death",
+        "Kill Command"
+      ]
+    },
+    {
+      "calculated_wins": 71,
+      "calculated_losses": 63,
+      "calculated_games_played": 134,
+      "win_rate": 52.99,
+      "build_talents": [
+        "Bird of Prey",
+        "Hunter-Gatherer",
+        "Taking Flight",
+        "Unleash the Boars",
+        "Aspect of the Hawk",
+        "Feign Death",
+        "Kill Command"
+      ]
+    },
+    {
+      "calculated_wins": 72,
+      "calculated_losses": 77,
+      "calculated_games_played": 149,
+      "win_rate": 48.32,
+      "build_talents": [
+        "Bird of Prey",
+        "Hunter-Gatherer",
+        "Taking Flight",
+        "Unleash the Boars",
+        "Aspect of the Hawk",
+        "Thrill of the Hunt",
+        "Kill Command"
+      ]
+    }
+  ],
+  "Samuro": [
+    {
+      "calculated_wins": 99,
+      "calculated_losses": 41,
+      "calculated_games_played": 140,
+      "win_rate": 70.71,
+      "build_talents": [
+        "Way of Illusion",
+        "Mirage",
+        "Burning Blade",
+        "Illusion Master",
+        "Mirrored Steel",
+        "Press the Attack",
+        "Blademaster's Pursuit"
+      ]
+    },
+    {
+      "calculated_wins": 457,
+      "calculated_losses": 367,
+      "calculated_games_played": 824,
+      "win_rate": 55.46,
+      "build_talents": [
+        "Way of the Wind",
+        "One with the Wind",
+        "Burning Blade",
+        "Bladestorm",
+        "Shukuchi",
+        "Harsh Winds",
+        "Wind Strider"
+      ]
+    },
+    {
+      "calculated_wins": 95,
+      "calculated_losses": 97,
+      "calculated_games_played": 192,
+      "win_rate": 49.48,
+      "build_talents": [
+        "Way of the Wind",
+        "One with the Wind",
+        "Burning Blade",
+        "Bladestorm",
+        "Shukuchi",
+        "Merciless Strikes",
+        "Wind Strider"
+      ]
+    },
+    {
+      "calculated_wins": 42,
+      "calculated_losses": 44,
+      "calculated_games_played": 86,
+      "win_rate": 48.84,
+      "build_talents": [
+        "Way of the Wind",
+        "Mirage",
+        "Burning Blade",
+        "Bladestorm",
+        "Shukuchi",
+        "Harsh Winds",
+        "Wind Strider"
+      ]
+    },
+    {
+      "calculated_wins": 126,
+      "calculated_losses": 145,
+      "calculated_games_played": 271,
+      "win_rate": 46.49,
+      "build_talents": [
+        "Way of the Wind",
+        "One with the Wind",
+        "Burning Blade",
+        "Bladestorm",
+        "Shukuchi",
+        "Press the Attack",
+        "Wind Strider"
+      ]
+    }
+  ],
+  "Sgt. Hammer": [
+    {
+      "calculated_wins": 92,
+      "calculated_losses": 67,
+      "calculated_games_played": 159,
+      "win_rate": 57.86,
+      "build_talents": [
+        "Advanced Artillery",
+        "Regenerative Bio-Steel",
+        "Hover Siege Mode",
+        "Blunt Force Gun",
+        "Hyper-Cooling Engines",
+        "Giant Killer",
+        "Ultra Capacitors"
+      ]
+    },
+    {
+      "calculated_wins": 96,
+      "calculated_losses": 77,
+      "calculated_games_played": 173,
+      "win_rate": 55.49,
+      "build_talents": [
+        "Advanced Artillery",
+        "Siege Tactics",
+        "Hover Siege Mode",
+        "Napalm Strike",
+        "Hyper-Cooling Engines",
+        "Giant Killer",
+        "Ultra Capacitors"
+      ]
+    },
+    {
+      "calculated_wins": 75,
+      "calculated_losses": 67,
+      "calculated_games_played": 142,
+      "win_rate": 52.82,
+      "build_talents": [
+        "Advanced Artillery",
+        "Regenerative Bio-Steel",
+        "Graduating Range",
+        "Napalm Strike",
+        "Entrenched",
+        "Giant Killer",
+        "Ultra Capacitors"
+      ]
+    },
+    {
+      "calculated_wins": 265,
+      "calculated_losses": 244,
+      "calculated_games_played": 509,
+      "win_rate": 52.06,
+      "build_talents": [
+        "Advanced Artillery",
+        "Regenerative Bio-Steel",
+        "Hover Siege Mode",
+        "Napalm Strike",
+        "Hyper-Cooling Engines",
+        "Giant Killer",
+        "Ultra Capacitors"
+      ]
+    },
+    {
+      "calculated_wins": 247,
+      "calculated_losses": 245,
+      "calculated_games_played": 492,
+      "win_rate": 50.2,
+      "build_talents": [
+        "Advanced Artillery",
+        "Regenerative Bio-Steel",
+        "Hover Siege Mode",
+        "Napalm Strike",
+        "Hyper-Cooling Engines",
+        "Mechanical Know-how",
+        "Ultra Capacitors"
+      ]
+    }
+  ],
+  "Sonya": [
+    {
+      "calculated_wins": 239,
+      "calculated_losses": 185,
+      "calculated_games_played": 424,
+      "win_rate": 56.37,
+      "build_talents": [
+        "Furious Blow",
+        "Shattered Ground",
+        "Battle Rage",
+        "Wrath of the Berserker",
+        "No Escape",
+        "Giant Slammer",
+        "Ignore Pain"
+      ]
+    },
+    {
+      "calculated_wins": 613,
+      "calculated_losses": 546,
+      "calculated_games_played": 1159,
+      "win_rate": 52.89,
+      "build_talents": [
+        "Furious Blow",
+        "Shattered Ground",
+        "Battle Rage",
+        "Leap",
+        "No Escape",
+        "Giant Slammer",
+        "Ignore Pain"
+      ]
+    },
+    {
+      "calculated_wins": 195,
+      "calculated_losses": 196,
+      "calculated_games_played": 391,
+      "win_rate": 49.87,
+      "build_talents": [
+        "Furious Blow",
+        "Shattered Ground",
+        "Poisoned Spear",
+        "Leap",
+        "No Escape",
+        "Giant Slammer",
+        "Ignore Pain"
+      ]
+    },
+    {
+      "calculated_wins": 167,
+      "calculated_losses": 173,
+      "calculated_games_played": 340,
+      "win_rate": 49.12,
+      "build_talents": [
+        "Tough As Nails",
+        "Hurricane",
+        "Life Funnel",
+        "Wrath of the Berserker",
+        "Ruthless",
+        "Nerves of Steel",
+        "Ignore Pain"
+      ]
+    },
+    {
+      "calculated_wins": 357,
+      "calculated_losses": 424,
+      "calculated_games_played": 781,
+      "win_rate": 45.71,
+      "build_talents": [
+        "Furious Blow",
+        "Shattered Ground",
+        "Battle Rage",
+        "Leap",
+        "No Escape",
+        "Giant Slammer",
+        "Arreat Crater"
+      ]
+    }
+  ],
+  "Stitches": [
+    {
+      "calculated_wins": 789,
+      "calculated_losses": 765,
+      "calculated_games_played": 1554,
+      "win_rate": 50.77,
+      "build_talents": [
+        "Hungry for More",
+        "Tenderizer",
+        "Serrated Edge",
+        "Gorge",
+        "Meat Hook",
+        "Pulverize",
+        "Master Hooker"
+      ]
+    },
+    {
+      "calculated_wins": 604,
+      "calculated_losses": 615,
+      "calculated_games_played": 1219,
+      "win_rate": 49.55,
+      "build_talents": [
+        "Patchwork Creation",
+        "Tenderizer",
+        "Serrated Edge",
+        "Gorge",
+        "Meat Hook",
+        "Pulverize",
+        "Master Hooker"
+      ]
+    },
+    {
+      "calculated_wins": 254,
+      "calculated_losses": 272,
+      "calculated_games_played": 526,
+      "win_rate": 48.29,
+      "build_talents": [
+        "Hungry for More",
+        "Playtime!",
+        "Serrated Edge",
+        "Gorge",
+        "Meat Hook",
+        "Pulverize",
+        "Master Hooker"
+      ]
+    },
+    {
+      "calculated_wins": 212,
+      "calculated_losses": 274,
+      "calculated_games_played": 486,
+      "win_rate": 43.62,
+      "build_talents": [
+        "Hungry for More",
+        "Tenderizer",
+        "Serrated Edge",
+        "Gorge",
+        "Meat Hook",
+        "Flare Up",
+        "Master Hooker"
+      ]
+    },
+    {
+      "calculated_wins": 351,
+      "calculated_losses": 504,
+      "calculated_games_played": 855,
+      "win_rate": 41.05,
+      "build_talents": [
+        "Hungry for More",
+        "Tenderizer",
+        "Serrated Edge",
+        "Gorge",
+        "Meat Hook",
+        "Pulverize",
+        "Hungry Hungry Stitches"
+      ]
+    }
+  ],
+  "Stukov": [
+    {
+      "calculated_wins": 334,
+      "calculated_losses": 390,
+      "calculated_games_played": 724,
+      "win_rate": 46.13,
+      "build_talents": [
+        "Low Blow",
+        "Vigorous Reuptake",
+        "Growing Infestation",
+        "Massive Shove",
+        "It Hungers",
+        "Superstrain",
+        "Top Off"
+      ]
+    },
+    {
+      "calculated_wins": 241,
+      "calculated_losses": 282,
+      "calculated_games_played": 523,
+      "win_rate": 46.08,
+      "build_talents": [
+        "Low Blow",
+        "Vigorous Reuptake",
+        "Growing Infestation",
+        "Massive Shove",
+        "It Hungers",
+        "Universal Carrier",
+        "Top Off"
+      ]
+    },
+    {
+      "calculated_wins": 297,
+      "calculated_losses": 377,
+      "calculated_games_played": 674,
+      "win_rate": 44.07,
+      "build_talents": [
+        "Low Blow",
+        "Biotic Armor",
+        "Growing Infestation",
+        "Massive Shove",
+        "It Hungers",
+        "Superstrain",
+        "Top Off"
+      ]
+    },
+    {
+      "calculated_wins": 269,
+      "calculated_losses": 348,
+      "calculated_games_played": 617,
+      "win_rate": 43.6,
+      "build_talents": [
+        "Low Blow",
+        "Vigorous Reuptake",
+        "Growing Infestation",
+        "Massive Shove",
+        "It Hungers",
+        "Superstrain",
+        "Push Comes To Shove"
+      ]
+    },
+    {
+      "calculated_wins": 246,
+      "calculated_losses": 320,
+      "calculated_games_played": 566,
+      "win_rate": 43.46,
+      "build_talents": [
+        "Low Blow",
+        "One Good Spread...",
+        "Growing Infestation",
+        "Massive Shove",
+        "It Hungers",
+        "Superstrain",
+        "Top Off"
+      ]
+    }
+  ],
+  "Sylvanas": [
+    {
+      "calculated_wins": 268,
+      "calculated_losses": 161,
+      "calculated_games_played": 429,
+      "win_rate": 62.47,
+      "build_talents": [
+        "Might of the Banshee Queen",
+        "Possession",
+        "Festering Wounds",
+        "Wailing Arrow",
+        "Windrunner",
+        "Life Drain",
+        "Bolt of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 255,
+      "calculated_losses": 157,
+      "calculated_games_played": 412,
+      "win_rate": 61.89,
+      "build_talents": [
+        "Might of the Banshee Queen",
+        "Possession",
+        "Festering Wounds",
+        "Wailing Arrow",
+        "Windrunner",
+        "Life Drain",
+        "Withering Barrage"
+      ]
+    },
+    {
+      "calculated_wins": 271,
+      "calculated_losses": 281,
+      "calculated_games_played": 552,
+      "win_rate": 49.09,
+      "build_talents": [
+        "Might of the Banshee Queen",
+        "Unstable Poison",
+        "Festering Wounds",
+        "Wailing Arrow",
+        "Windrunner",
+        "Life Drain",
+        "Bolt of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 274,
+      "calculated_losses": 317,
+      "calculated_games_played": 591,
+      "win_rate": 46.36,
+      "build_talents": [
+        "Might of the Banshee Queen",
+        "Unstable Poison",
+        "Festering Wounds",
+        "Wailing Arrow",
+        "Windrunner",
+        "Will of the Forsaken",
+        "Bolt of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 199,
+      "calculated_losses": 253,
+      "calculated_games_played": 452,
+      "win_rate": 44.03,
+      "build_talents": [
+        "Might of the Banshee Queen",
+        "Unstable Poison",
+        "Festering Wounds",
+        "Wailing Arrow",
+        "Windrunner",
+        "Life Drain",
+        "Withering Barrage"
+      ]
+    }
+  ],
+  "Tassadar": [
+    {
+      "calculated_wins": 280,
+      "calculated_losses": 288,
+      "calculated_games_played": 568,
+      "win_rate": 49.3,
+      "build_talents": [
+        "Khaydarin Amulet",
+        "Plasma Shield",
+        "Arc Discharge",
+        "Archon",
+        "Feedback",
+        "Psychic Shock",
+        "Twilight Archon"
+      ]
+    },
+    {
+      "calculated_wins": 200,
+      "calculated_losses": 222,
+      "calculated_games_played": 422,
+      "win_rate": 47.39,
+      "build_talents": [
+        "Static Charge",
+        "Electric Fence",
+        "Beam Alignment",
+        "Black Hole",
+        "Shadow Walk",
+        "Thermal Lance",
+        "Force Barrier"
+      ]
+    },
+    {
+      "calculated_wins": 293,
+      "calculated_losses": 327,
+      "calculated_games_played": 620,
+      "win_rate": 47.26,
+      "build_talents": [
+        "Psi-Infusion",
+        "Electric Fence",
+        "Psionic Echo",
+        "Black Hole",
+        "Shadow Walk",
+        "Psychic Shock",
+        "Force Barrier"
+      ]
+    },
+    {
+      "calculated_wins": 331,
+      "calculated_losses": 411,
+      "calculated_games_played": 742,
+      "win_rate": 44.61,
+      "build_talents": [
+        "Static Charge",
+        "Electric Fence",
+        "Psionic Echo",
+        "Black Hole",
+        "Shadow Walk",
+        "Thermal Lance",
+        "Force Barrier"
+      ]
+    },
+    {
+      "calculated_wins": 220,
+      "calculated_losses": 349,
+      "calculated_games_played": 569,
+      "win_rate": 38.66,
+      "build_talents": [
+        "Static Charge",
+        "Electric Fence",
+        "Psionic Echo",
+        "Black Hole",
+        "Shadow Walk",
+        "Thermal Lance",
+        "Kugelblitz"
+      ]
+    }
+  ],
+  "The Butcher": [
+    {
+      "calculated_wins": 259,
+      "calculated_losses": 237,
+      "calculated_games_played": 496,
+      "win_rate": 52.22,
+      "build_talents": [
+        "Block",
+        "Unrelenting Pursuit",
+        "Meat Shield",
+        "Lamb to the Slaughter",
+        "Savage Charge",
+        "Enraged",
+        "Slaughterhouse"
+      ]
+    },
+    {
+      "calculated_wins": 137,
+      "calculated_losses": 134,
+      "calculated_games_played": 271,
+      "win_rate": 50.55,
+      "build_talents": [
+        "Chop Meat",
+        "Unrelenting Pursuit",
+        "Meat Shield",
+        "Lamb to the Slaughter",
+        "Savage Charge",
+        "Enraged",
+        "Slaughterhouse"
+      ]
+    },
+    {
+      "calculated_wins": 107,
+      "calculated_losses": 130,
+      "calculated_games_played": 237,
+      "win_rate": 45.15,
+      "build_talents": [
+        "Invigoration",
+        "Unrelenting Pursuit",
+        "Meat Shield",
+        "Lamb to the Slaughter",
+        "Savage Charge",
+        "Enraged",
+        "Slaughterhouse"
+      ]
+    },
+    {
+      "calculated_wins": 124,
+      "calculated_losses": 179,
+      "calculated_games_played": 303,
+      "win_rate": 40.92,
+      "build_talents": [
+        "Block",
+        "Unrelenting Pursuit",
+        "Meat Shield",
+        "Lamb to the Slaughter",
+        "Savage Charge",
+        "Enraged",
+        "Nexus Blades"
+      ]
+    },
+    {
+      "calculated_wins": 60,
+      "calculated_losses": 87,
+      "calculated_games_played": 147,
+      "win_rate": 40.82,
+      "build_talents": [
+        "Chop Meat",
+        "Unrelenting Pursuit",
+        "Victuals",
+        "Lamb to the Slaughter",
+        "Savage Charge",
+        "Enraged",
+        "Slaughterhouse"
+      ]
+    }
+  ],
+  "The Lost Vikings": [
+    {
+      "calculated_wins": 136,
+      "calculated_losses": 74,
+      "calculated_games_played": 210,
+      "win_rate": 64.76,
+      "build_talents": [
+        "Olaf the Stout",
+        "Erik the Swift",
+        "Spin To Win!",
+        "Play Again!",
+        "Jump!",
+        "Large and In Charge",
+        "Fury of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 66,
+      "calculated_losses": 51,
+      "calculated_games_played": 117,
+      "win_rate": 56.41,
+      "build_talents": [
+        "Viking Bribery",
+        "Erik the Swift",
+        "Spin To Win!",
+        "Play Again!",
+        "Jump!",
+        "Large and In Charge",
+        "Fury of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 38,
+      "calculated_losses": 31,
+      "calculated_games_played": 69,
+      "win_rate": 55.07,
+      "build_talents": [
+        "Olaf the Stout",
+        "Erik the Swift",
+        "Spin To Win!",
+        "Play Again!",
+        "Nordic Attack Squad",
+        "Large and In Charge",
+        "Fury of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 27,
+      "calculated_losses": 25,
+      "calculated_games_played": 52,
+      "win_rate": 51.92,
+      "build_talents": [
+        "Spy Games",
+        "Erik the Swift",
+        "Spin To Win!",
+        "Play Again!",
+        "Jump!",
+        "Large and In Charge",
+        "Fury of the Storm"
+      ]
+    },
+    {
+      "calculated_wins": 47,
+      "calculated_losses": 52,
+      "calculated_games_played": 99,
+      "win_rate": 47.47,
+      "build_talents": [
+        "Viking Bribery",
+        "Mercenary Lord",
+        "Spin To Win!",
+        "Play Again!",
+        "Jump!",
+        "Large and In Charge",
+        "Fury of the Storm"
+      ]
+    }
+  ],
+  "Thrall": [
+    {
+      "calculated_wins": 361,
+      "calculated_losses": 298,
+      "calculated_games_played": 659,
+      "win_rate": 54.78,
+      "build_talents": [
+        "Rolling Thunder",
+        "Mana Tide",
+        "Ancestral Wrath",
+        "Earthquake",
+        "Frostwolf's Grace",
+        "Alpha Wolf",
+        "Earthen Shields"
+      ]
+    },
+    {
+      "calculated_wins": 138,
+      "calculated_losses": 134,
+      "calculated_games_played": 272,
+      "win_rate": 50.74,
+      "build_talents": [
+        "Rolling Thunder",
+        "Frostwolf Pack",
+        "Ancestral Wrath",
+        "Earthquake",
+        "Frostwolf's Grace",
+        "Alpha Wolf",
+        "Earthen Shields"
+      ]
+    },
+    {
+      "calculated_wins": 204,
+      "calculated_losses": 199,
+      "calculated_games_played": 403,
+      "win_rate": 50.62,
+      "build_talents": [
+        "Rolling Thunder",
+        "Mana Tide",
+        "Ancestral Wrath",
+        "Sundering",
+        "Frostwolf's Grace",
+        "Alpha Wolf",
+        "Wind Rush"
+      ]
+    },
+    {
+      "calculated_wins": 182,
+      "calculated_losses": 189,
+      "calculated_games_played": 371,
+      "win_rate": 49.06,
+      "build_talents": [
+        "Rolling Thunder",
+        "Frostwolf Pack",
+        "Ancestral Wrath",
+        "Sundering",
+        "Frostwolf's Grace",
+        "Alpha Wolf",
+        "Wind Rush"
+      ]
+    },
+    {
+      "calculated_wins": 102,
+      "calculated_losses": 134,
+      "calculated_games_played": 236,
+      "win_rate": 43.22,
+      "build_talents": [
+        "Echo of the Elements",
+        "Mana Tide",
+        "Ancestral Wrath",
+        "Earthquake",
+        "Frostwolf's Grace",
+        "Thunderstorm",
+        "Earthen Shields"
+      ]
+    }
+  ],
+  "Tracer": [
+    {
+      "calculated_wins": 100,
+      "calculated_losses": 61,
+      "calculated_games_played": 161,
+      "win_rate": 62.11,
+      "build_talents": [
+        "One-Two Punch",
+        "Pulse Generator",
+        "Sleight of Hand",
+        "Pulse Rounds",
+        "Jumper",
+        "Heavy Handed",
+        "Get Stuffed!"
+      ]
+    },
+    {
+      "calculated_wins": 79,
+      "calculated_losses": 54,
+      "calculated_games_played": 133,
+      "win_rate": 59.4,
+      "build_talents": [
+        "Parting Gift",
+        "Pulse Generator",
+        "Sleight of Hand",
+        "Quantum Spike",
+        "Jumper",
+        "Heavy Handed",
+        "Total Recall"
+      ]
+    },
+    {
+      "calculated_wins": 56,
+      "calculated_losses": 41,
+      "calculated_games_played": 97,
+      "win_rate": 57.73,
+      "build_talents": [
+        "One-Two Punch",
+        "Pulse Generator",
+        "Locked and Loaded",
+        "Sticky Bomb",
+        "Jumper",
+        "Bullet Spray",
+        "Get Stuffed!"
+      ]
+    },
+    {
+      "calculated_wins": 77,
+      "calculated_losses": 61,
+      "calculated_games_played": 138,
+      "win_rate": 55.8,
+      "build_talents": [
+        "Tracer Rounds",
+        "Pulse Generator",
+        "Sleight of Hand",
+        "Pulse Rounds",
+        "Jumper",
+        "Ricochet",
+        "Get Stuffed!"
+      ]
+    },
+    {
+      "calculated_wins": 60,
+      "calculated_losses": 55,
+      "calculated_games_played": 115,
+      "win_rate": 52.17,
+      "build_talents": [
+        "One-Two Punch",
+        "Pulse Generator",
+        "Locked and Loaded",
+        "Sticky Bomb",
+        "Jumper",
+        "Heavy Handed",
+        "Get Stuffed!"
+      ]
+    }
+  ],
+  "Tychus": [
+    {
+      "calculated_wins": 477,
+      "calculated_losses": 403,
+      "calculated_games_played": 880,
+      "win_rate": 54.2,
+      "build_talents": [
+        "Press the Advantage",
+        "In the Rhythm",
+        "Combat Tactician",
+        "Drakken Laser Drill",
+        "That's the Stuff!",
+        "Sizzlin' Attacks",
+        "Bob and Weave"
+      ]
+    },
+    {
+      "calculated_wins": 221,
+      "calculated_losses": 195,
+      "calculated_games_played": 416,
+      "win_rate": 53.13,
+      "build_talents": [
+        "Quarterback",
+        "Master Assassin",
+        "Melting Point",
+        "Commandeer Odin",
+        "Neosteel Coating",
+        "Titan Grenade",
+        "Big Red Button"
+      ]
+    },
+    {
+      "calculated_wins": 423,
+      "calculated_losses": 426,
+      "calculated_games_played": 849,
+      "win_rate": 49.82,
+      "build_talents": [
+        "Quarterback",
+        "Master Assassin",
+        "Melting Point",
+        "Commandeer Odin",
+        "Spray 'n' Pray",
+        "Armor Piercing Rounds",
+        "Big Red Button"
+      ]
+    },
+    {
+      "calculated_wins": 226,
+      "calculated_losses": 232,
+      "calculated_games_played": 458,
+      "win_rate": 49.34,
+      "build_talents": [
+        "Dash",
+        "In the Rhythm",
+        "Combat Tactician",
+        "Drakken Laser Drill",
+        "That's the Stuff!",
+        "Sizzlin' Attacks",
+        "Bob and Weave"
+      ]
+    },
+    {
+      "calculated_wins": 175,
+      "calculated_losses": 200,
+      "calculated_games_played": 375,
+      "win_rate": 46.67,
+      "build_talents": [
+        "Quarterback",
+        "The Bigger They Are...",
+        "Melting Point",
+        "Commandeer Odin",
+        "Neosteel Coating",
+        "Titan Grenade",
+        "Big Red Button"
+      ]
+    }
+  ],
+  "Tyrael": [
+    {
+      "calculated_wins": 215,
+      "calculated_losses": 190,
+      "calculated_games_played": 405,
+      "win_rate": 53.09,
+      "build_talents": [
+        "Ardent Restoration",
+        "Divine Vigor",
+        "Purge Evil",
+        "Judgment",
+        "Sword of Justice",
+        "Burning Halo",
+        "Seal of El'Druin"
+      ]
+    },
+    {
+      "calculated_wins": 207,
+      "calculated_losses": 184,
+      "calculated_games_played": 391,
+      "win_rate": 52.94,
+      "build_talents": [
+        "Ardent Restoration",
+        "Divine Vigor",
+        "Purge Evil",
+        "Judgment",
+        "Sword of Justice",
+        "Burning Halo",
+        "Angel of Justice"
+      ]
+    },
+    {
+      "calculated_wins": 91,
+      "calculated_losses": 86,
+      "calculated_games_played": 177,
+      "win_rate": 51.41,
+      "build_talents": [
+        "Justice for All",
+        "Stalwart Angel",
+        "Swift Retribution",
+        "Sanctification",
+        "Holy Ground",
+        "Horadric Reforging",
+        "Holy Arena"
+      ]
+    },
+    {
+      "calculated_wins": 109,
+      "calculated_losses": 107,
+      "calculated_games_played": 216,
+      "win_rate": 50.46,
+      "build_talents": [
+        "Ardent Restoration",
+        "Divine Vigor",
+        "Purge Evil",
+        "Judgment",
+        "Holy Ground",
+        "Burning Halo",
+        "Angel of Justice"
+      ]
+    },
+    {
+      "calculated_wins": 89,
+      "calculated_losses": 116,
+      "calculated_games_played": 205,
+      "win_rate": 43.41,
+      "build_talents": [
+        "Ardent Restoration",
+        "Divine Vigor",
+        "Purge Evil",
+        "Judgment",
+        "Law and Order",
+        "Smite the Wicked",
+        "Seal of El'Druin"
+      ]
+    }
+  ],
+  "Tyrande": [
+    {
+      "calculated_wins": 235,
+      "calculated_losses": 233,
+      "calculated_games_played": 468,
+      "win_rate": 50.21,
+      "build_talents": [
+        "Ranger",
+        "Everlasting Light",
+        "Moonlit Arrows",
+        "Starfall",
+        "Harsh Moonlight",
+        "Empower",
+        "Celestial Wrath"
+      ]
+    },
+    {
+      "calculated_wins": 242,
+      "calculated_losses": 244,
+      "calculated_games_played": 486,
+      "win_rate": 49.79,
+      "build_talents": [
+        "Ranger",
+        "Elune's Chosen",
+        "Moonlit Arrows",
+        "Starfall",
+        "Harsh Moonlight",
+        "Empower",
+        "Celestial Wrath"
+      ]
+    },
+    {
+      "calculated_wins": 210,
+      "calculated_losses": 226,
+      "calculated_games_played": 436,
+      "win_rate": 48.17,
+      "build_talents": [
+        "Ranger",
+        "Elune's Chosen",
+        "Moonlit Arrows",
+        "Shadowstalk",
+        "Harsh Moonlight",
+        "Empower",
+        "Eyes of the Huntress"
+      ]
+    },
+    {
+      "calculated_wins": 225,
+      "calculated_losses": 256,
+      "calculated_games_played": 481,
+      "win_rate": 46.78,
+      "build_talents": [
+        "Ranger",
+        "Elune's Chosen",
+        "Moonlit Arrows",
+        "Shadowstalk",
+        "Harsh Moonlight",
+        "Empower",
+        "Shooting Star"
+      ]
+    },
+    {
+      "calculated_wins": 248,
+      "calculated_losses": 296,
+      "calculated_games_played": 544,
+      "win_rate": 45.59,
+      "build_talents": [
+        "Ranger",
+        "Everlasting Light",
+        "Moonlit Arrows",
+        "Shadowstalk",
+        "Harsh Moonlight",
+        "Empower",
+        "Eyes of the Huntress"
+      ]
+    }
+  ],
+  "Uther": [
+    {
+      "calculated_wins": 86,
+      "calculated_losses": 67,
+      "calculated_games_played": 153,
+      "win_rate": 56.21,
+      "build_talents": [
+        "Wave of Light",
+        "Pursuit of Justice",
+        "Hand of Protection",
+        "Divine Shield",
+        "Well Met",
+        "Benediction",
+        "Redemption"
+      ]
+    },
+    {
+      "calculated_wins": 116,
+      "calculated_losses": 109,
+      "calculated_games_played": 225,
+      "win_rate": 51.56,
+      "build_talents": [
+        "Hammer of the Lightbringer",
+        "Pursuit of Justice",
+        "Hand of Protection",
+        "Divine Storm",
+        "Well Met",
+        "Benediction",
+        "Divine Hurricane"
+      ]
+    },
+    {
+      "calculated_wins": 110,
+      "calculated_losses": 109,
+      "calculated_games_played": 219,
+      "win_rate": 50.23,
+      "build_talents": [
+        "Hammer of the Lightbringer",
+        "Pursuit of Justice",
+        "Hand of Protection",
+        "Divine Storm",
+        "Well Met",
+        "Benediction",
+        "Redemption"
+      ]
+    },
+    {
+      "calculated_wins": 99,
+      "calculated_losses": 111,
+      "calculated_games_played": 210,
+      "win_rate": 47.14,
+      "build_talents": [
+        "Hammer of the Lightbringer",
+        "Pursuit of Justice",
+        "Hand of Protection",
+        "Divine Shield",
+        "Well Met",
+        "Benediction",
+        "Redemption"
+      ]
+    },
+    {
+      "calculated_wins": 78,
+      "calculated_losses": 105,
+      "calculated_games_played": 183,
+      "win_rate": 42.62,
+      "build_talents": [
+        "Hammer of the Lightbringer",
+        "Pursuit of Justice",
+        "Hand of Protection",
+        "Divine Shield",
+        "Well Met",
+        "Benediction",
+        "Bulwark of Light"
+      ]
+    }
+  ],
+  "Valeera": [
+    {
+      "calculated_wins": 104,
+      "calculated_losses": 66,
+      "calculated_games_played": 170,
+      "win_rate": 61.18,
+      "build_talents": [
+        "Subtlety",
+        "Relentless Strikes",
+        "Mutilate",
+        "Smoke Bomb",
+        "Blind",
+        "Seal Fate",
+        "Elusiveness"
+      ]
+    },
+    {
+      "calculated_wins": 79,
+      "calculated_losses": 61,
+      "calculated_games_played": 140,
+      "win_rate": 56.43,
+      "build_talents": [
+        "Crippling Poison",
+        "Relentless Strikes",
+        "Mutilate",
+        "Smoke Bomb",
+        "Blind",
+        "Seal Fate",
+        "Elusiveness"
+      ]
+    },
+    {
+      "calculated_wins": 150,
+      "calculated_losses": 132,
+      "calculated_games_played": 282,
+      "win_rate": 53.19,
+      "build_talents": [
+        "Crippling Poison",
+        "Relentless Strikes",
+        "Mutilate",
+        "Smoke Bomb",
+        "Strangle",
+        "Seal Fate",
+        "Elusiveness"
+      ]
+    },
+    {
+      "calculated_wins": 56,
+      "calculated_losses": 57,
+      "calculated_games_played": 113,
+      "win_rate": 49.56,
+      "build_talents": [
+        "Crippling Poison",
+        "Relentless Strikes",
+        "Mutilate",
+        "Smoke Bomb",
+        "Death From Above",
+        "Assassinate",
+        "Elusiveness"
+      ]
+    },
+    {
+      "calculated_wins": 106,
+      "calculated_losses": 115,
+      "calculated_games_played": 221,
+      "win_rate": 47.96,
+      "build_talents": [
+        "Crippling Poison",
+        "Relentless Strikes",
+        "Mutilate",
+        "Cloak of Shadows",
+        "Strangle",
+        "Seal Fate",
+        "Elusiveness"
+      ]
+    }
+  ],
+  "Valla": [
+    {
+      "calculated_wins": 3303,
+      "calculated_losses": 3157,
+      "calculated_games_played": 6460,
+      "win_rate": 51.13,
+      "build_talents": [
+        "Creed of the Hunter",
+        "Death Dealer",
+        "Hot Pursuit",
+        "Rain of Vengeance",
+        "Tempered by Discipline",
+        "Manticore",
+        "Farflight Quiver"
+      ]
+    },
+    {
+      "calculated_wins": 2353,
+      "calculated_losses": 2488,
+      "calculated_games_played": 4841,
+      "win_rate": 48.61,
+      "build_talents": [
+        "Creed of the Hunter",
+        "Death Dealer",
+        "Hot Pursuit",
+        "Rain of Vengeance",
+        "Tempered by Discipline",
+        "Manticore",
+        "Storm of Vengeance"
+      ]
+    },
+    {
+      "calculated_wins": 1123,
+      "calculated_losses": 1196,
+      "calculated_games_played": 2319,
+      "win_rate": 48.43,
+      "build_talents": [
+        "Puncturing Arrow",
+        "Repeating Arrow",
+        "Frost Shot",
+        "Rain of Vengeance",
+        "Siphoning Arrows",
+        "Manticore",
+        "Acrobat"
+      ]
+    },
+    {
+      "calculated_wins": 586,
+      "calculated_losses": 664,
+      "calculated_games_played": 1250,
+      "win_rate": 46.88,
+      "build_talents": [
+        "Puncturing Arrow",
+        "Repeating Arrow",
+        "Monster Hunter",
+        "Rain of Vengeance",
+        "Siphoning Arrows",
+        "Manticore",
+        "Acrobat"
+      ]
+    },
+    {
+      "calculated_wins": 407,
+      "calculated_losses": 540,
+      "calculated_games_played": 947,
+      "win_rate": 42.98,
+      "build_talents": [
+        "Creed of the Hunter",
+        "Death Dealer",
+        "Hot Pursuit",
+        "Rain of Vengeance",
+        "Gloom",
+        "Manticore",
+        "Farflight Quiver"
+      ]
+    }
+  ],
+  "Varian": [
+    {
+      "calculated_wins": 227,
+      "calculated_losses": 196,
+      "calculated_games_played": 423,
+      "win_rate": 53.66,
+      "build_talents": [
+        "Lion's Maw",
+        "Taunt",
+        "Lionheart",
+        "Shield Wall",
+        "Mortal Strike",
+        "Banner of Dalaran",
+        "Glory to the Alliance"
+      ]
+    },
+    {
+      "calculated_wins": 214,
+      "calculated_losses": 195,
+      "calculated_games_played": 409,
+      "win_rate": 52.32,
+      "build_talents": [
+        "Overpower",
+        "Taunt",
+        "Victory Rush",
+        "Warbringer",
+        "Mortal Strike",
+        "Banner of Dalaran",
+        "Glory to the Alliance"
+      ]
+    },
+    {
+      "calculated_wins": 156,
+      "calculated_losses": 159,
+      "calculated_games_played": 315,
+      "win_rate": 49.52,
+      "build_talents": [
+        "Lion's Maw",
+        "Taunt",
+        "Lionheart",
+        "Warbringer",
+        "Juggernaut",
+        "Banner of Dalaran",
+        "Glory to the Alliance"
+      ]
+    },
+    {
+      "calculated_wins": 145,
+      "calculated_losses": 166,
+      "calculated_games_played": 311,
+      "win_rate": 46.62,
+      "build_talents": [
+        "Overpower",
+        "Taunt",
+        "Victory Rush",
+        "Shield Wall",
+        "Mortal Strike",
+        "Banner of Dalaran",
+        "Glory to the Alliance"
+      ]
+    },
+    {
+      "calculated_wins": 165,
+      "calculated_losses": 272,
+      "calculated_games_played": 437,
+      "win_rate": 37.76,
+      "build_talents": [
+        "High King's Quest",
+        "Twin Blades of Fury",
+        "Second Wind",
+        "Shield Wall",
+        "Mortal Strike",
+        "Banner of Ironforge",
+        "Frenzy"
+      ]
+    }
+  ],
+  "Whitemane": [
+    {
+      "calculated_wins": 123,
+      "calculated_losses": 103,
+      "calculated_games_played": 226,
+      "win_rate": 54.42,
+      "build_talents": [
+        "Pity the Frail",
+        "Martyrdom",
+        "Intercession",
+        "Scarlet Aegis",
+        "Lashing Out",
+        "Harsh Discipline",
+        "Scarlet Crusade"
+      ]
+    },
+    {
+      "calculated_wins": 270,
+      "calculated_losses": 250,
+      "calculated_games_played": 520,
+      "win_rate": 51.92,
+      "build_talents": [
+        "Pity the Frail",
+        "Martyrdom",
+        "Intercession",
+        "Scarlet Aegis",
+        "Subjugation",
+        "Shared Punishment",
+        "Scarlet Crusade"
+      ]
+    },
+    {
+      "calculated_wins": 200,
+      "calculated_losses": 192,
+      "calculated_games_played": 392,
+      "win_rate": 51.02,
+      "build_talents": [
+        "Pity the Frail",
+        "Martyrdom",
+        "Intercession",
+        "Divine Reckoning",
+        "Subjugation",
+        "Shared Punishment",
+        "Judgment Day"
+      ]
+    },
+    {
+      "calculated_wins": 167,
+      "calculated_losses": 171,
+      "calculated_games_played": 338,
+      "win_rate": 49.41,
+      "build_talents": [
+        "Pity the Frail",
+        "Martyrdom",
+        "Zealous Spirit",
+        "Divine Reckoning",
+        "Subjugation",
+        "Shared Punishment",
+        "Judgment Day"
+      ]
+    },
+    {
+      "calculated_wins": 83,
+      "calculated_losses": 120,
+      "calculated_games_played": 203,
+      "win_rate": 40.89,
+      "build_talents": [
+        "Pity the Frail",
+        "Martyrdom",
+        "Zealous Spirit",
+        "Scarlet Aegis",
+        "Subjugation",
+        "Shared Punishment",
+        "Scarlet Crusade"
+      ]
+    }
+  ],
+  "Xul": [
+    {
+      "calculated_wins": 147,
+      "calculated_losses": 104,
+      "calculated_games_played": 251,
+      "win_rate": 58.57,
+      "build_talents": [
+        "Shade",
+        "Jailors",
+        "Trag'Oul's Essence",
+        "Poison Nova",
+        "Echoes of Death",
+        "Decrepify",
+        "Mortal Wound"
+      ]
+    },
+    {
+      "calculated_wins": 105,
+      "calculated_losses": 87,
+      "calculated_games_played": 192,
+      "win_rate": 54.69,
+      "build_talents": [
+        "Backlash",
+        "Jailors",
+        "Trag'Oul's Essence",
+        "Poison Nova",
+        "Echoes of Death",
+        "Decrepify",
+        "Mortal Wound"
+      ]
+    },
+    {
+      "calculated_wins": 432,
+      "calculated_losses": 376,
+      "calculated_games_played": 808,
+      "win_rate": 53.47,
+      "build_talents": [
+        "Backlash",
+        "Grim Scythe",
+        "Harvest Vitality",
+        "Poison Nova",
+        "Rapid Harvest",
+        "Weaken",
+        "Andariel's Visage"
+      ]
+    },
+    {
+      "calculated_wins": 374,
+      "calculated_losses": 366,
+      "calculated_games_played": 740,
+      "win_rate": 50.54,
+      "build_talents": [
+        "Shade",
+        "Grim Scythe",
+        "Harvest Vitality",
+        "Poison Nova",
+        "Rapid Harvest",
+        "Weaken",
+        "Andariel's Visage"
+      ]
+    },
+    {
+      "calculated_wins": 267,
+      "calculated_losses": 293,
+      "calculated_games_played": 560,
+      "win_rate": 47.68,
+      "build_talents": [
+        "Shackler",
+        "Grim Scythe",
+        "Harvest Vitality",
+        "Poison Nova",
+        "Rapid Harvest",
+        "Weaken",
+        "Andariel's Visage"
+      ]
+    }
+  ],
+  "Yrel": [
+    {
+      "calculated_wins": 42,
+      "calculated_losses": 30,
+      "calculated_games_played": 72,
+      "win_rate": 58.33,
+      "build_talents": [
+        "Light of Karabor",
+        "Gift of the Naaru",
+        "Righteous Momentum",
+        "Ardent Defender",
+        "Repentance",
+        "Divine Favor",
+        "Seraphim"
+      ]
+    },
+    {
+      "calculated_wins": 27,
+      "calculated_losses": 23,
+      "calculated_games_played": 50,
+      "win_rate": 54,
+      "build_talents": [
+        "Maraad's Insight",
+        "Hand of Freedom",
+        "Righteous Momentum",
+        "Ardent Defender",
+        "Velen's Chosen",
+        "Templar's Verdict",
+        "Seraphim"
+      ]
+    },
+    {
+      "calculated_wins": 116,
+      "calculated_losses": 101,
+      "calculated_games_played": 217,
+      "win_rate": 53.46,
+      "build_talents": [
+        "Dauntless",
+        "Hand of Freedom",
+        "Righteous Momentum",
+        "Ardent Defender",
+        "Velen's Chosen",
+        "Templar's Verdict",
+        "Seraphim"
+      ]
+    },
+    {
+      "calculated_wins": 240,
+      "calculated_losses": 226,
+      "calculated_games_played": 466,
+      "win_rate": 51.5,
+      "build_talents": [
+        "Dauntless",
+        "Hand of Freedom",
+        "Divine Steed",
+        "Ardent Defender",
+        "Velen's Chosen",
+        "Templar's Verdict",
+        "Seraphim"
+      ]
+    },
+    {
+      "calculated_wins": 74,
+      "calculated_losses": 97,
+      "calculated_games_played": 171,
+      "win_rate": 43.27,
+      "build_talents": [
+        "Dauntless",
+        "Hand of Freedom",
+        "Holy Avenger",
+        "Ardent Defender",
+        "Velen's Chosen",
+        "Templar's Verdict",
+        "Seraphim"
+      ]
+    }
+  ],
+  "Zagara": [
+    {
+      "calculated_wins": 115,
+      "calculated_losses": 97,
+      "calculated_games_played": 212,
+      "win_rate": 54.25,
+      "build_talents": [
+        "Corpse Feeders",
+        "Envenomed Spines",
+        "Bile Drop",
+        "Nydus Network",
+        "Hydralisk Transfusion",
+        "Corrosive Saliva",
+        "Pack Instinct"
+      ]
+    },
+    {
+      "calculated_wins": 167,
+      "calculated_losses": 154,
+      "calculated_games_played": 321,
+      "win_rate": 52.02,
+      "build_talents": [
+        "Corpse Feeders",
+        "Serrated Spines",
+        "Bile Drop",
+        "Nydus Network",
+        "Hydralisk Transfusion",
+        "Corrosive Saliva",
+        "Pack Instinct"
+      ]
+    },
+    {
+      "calculated_wins": 317,
+      "calculated_losses": 294,
+      "calculated_games_played": 611,
+      "win_rate": 51.88,
+      "build_talents": [
+        "Corpse Feeders",
+        "Serrated Spines",
+        "Bile Drop",
+        "Devouring Maw",
+        "Hydralisk Transfusion",
+        "Corrosive Saliva",
+        "Pack Instinct"
+      ]
+    },
+    {
+      "calculated_wins": 325,
+      "calculated_losses": 318,
+      "calculated_games_played": 643,
+      "win_rate": 50.54,
+      "build_talents": [
+        "Corpse Feeders",
+        "Envenomed Spines",
+        "Bile Drop",
+        "Devouring Maw",
+        "Hydralisk Transfusion",
+        "Corrosive Saliva",
+        "Pack Instinct"
+      ]
+    },
+    {
+      "calculated_wins": 116,
+      "calculated_losses": 119,
+      "calculated_games_played": 235,
+      "win_rate": 49.36,
+      "build_talents": [
+        "Corpse Feeders",
+        "Medusa Blades",
+        "Bile Drop",
+        "Nydus Network",
+        "Hydralisk Transfusion",
+        "Corrosive Saliva",
+        "Pack Instinct"
+      ]
+    }
+  ],
+  "Zarya": [
+    {
+      "calculated_wins": 32,
+      "calculated_losses": 22,
+      "calculated_games_played": 54,
+      "win_rate": 59.26,
+      "build_talents": [
+        "Demolitions Expert",
+        "I Am the Strongest",
+        "Pinpoint Accuracy",
+        "Expulsion Zone",
+        "Spell Barrier",
+        "Born in Battle",
+        "Clear Out"
+      ]
+    },
+    {
+      "calculated_wins": 21,
+      "calculated_losses": 21,
+      "calculated_games_played": 42,
+      "win_rate": 50,
+      "build_talents": [
+        "Feel the Heat",
+        "I Am the Strongest",
+        "Pinpoint Accuracy",
+        "Graviton Surge",
+        "Pain is Temporary",
+        "Gain Train",
+        "Gravity Kills"
+      ]
+    },
+    {
+      "calculated_wins": 25,
+      "calculated_losses": 27,
+      "calculated_games_played": 52,
+      "win_rate": 48.08,
+      "build_talents": [
+        "Feel the Heat",
+        "I Am the Strongest",
+        "Explosive Barrier",
+        "Graviton Surge",
+        "Pain is Temporary",
+        "Gain Train",
+        "Gravity Kills"
+      ]
+    },
+    {
+      "calculated_wins": 28,
+      "calculated_losses": 32,
+      "calculated_games_played": 60,
+      "win_rate": 46.67,
+      "build_talents": [
+        "Feel the Heat",
+        "I Am the Strongest",
+        "Pinpoint Accuracy",
+        "Graviton Surge",
+        "Unstoppable Competitor",
+        "Gain Train",
+        "Gravity Kills"
+      ]
+    },
+    {
+      "calculated_wins": 28,
+      "calculated_losses": 32,
+      "calculated_games_played": 60,
+      "win_rate": 46.67,
+      "build_talents": [
+        "Feel the Heat",
+        "I Am the Strongest",
+        "Explosive Barrier",
+        "Graviton Surge",
+        "Unstoppable Competitor",
+        "Gain Train",
+        "Gravity Kills"
+      ]
+    }
+  ],
+  "Zeratul": [
+    {
+      "calculated_wins": 206,
+      "calculated_losses": 144,
+      "calculated_games_played": 350,
+      "win_rate": 58.86,
+      "build_talents": [
+        "Shadow Hunter",
+        "Psionic Strength",
+        "Warp Skirmisher",
+        "Might of the Nerazim",
+        "Mending Strikes",
+        "Master Warp-Blade",
+        "Shadow Stride"
+      ]
+    },
+    {
+      "calculated_wins": 684,
+      "calculated_losses": 579,
+      "calculated_games_played": 1263,
+      "win_rate": 54.16,
+      "build_talents": [
+        "Shadow Hunter",
+        "Psionic Strength",
+        "Wormhole",
+        "Might of the Nerazim",
+        "Mending Strikes",
+        "Master Warp-Blade",
+        "Shadow Stride"
+      ]
+    },
+    {
+      "calculated_wins": 207,
+      "calculated_losses": 199,
+      "calculated_games_played": 406,
+      "win_rate": 50.99,
+      "build_talents": [
+        "Shadow Hunter",
+        "Psionic Strength",
+        "Seeker In the Dark",
+        "Might of the Nerazim",
+        "Mending Strikes",
+        "Sentenced to Death",
+        "Twilight Falls"
+      ]
+    },
+    {
+      "calculated_wins": 161,
+      "calculated_losses": 165,
+      "calculated_games_played": 326,
+      "win_rate": 49.39,
+      "build_talents": [
+        "Move Unseen",
+        "Psionic Strength",
+        "Seeker In the Dark",
+        "Might of the Nerazim",
+        "Shroud of Adun",
+        "Sentenced to Death",
+        "Twilight Falls"
+      ]
+    },
+    {
+      "calculated_wins": 209,
+      "calculated_losses": 240,
+      "calculated_games_played": 449,
+      "win_rate": 46.55,
+      "build_talents": [
+        "Move Unseen",
+        "Psionic Strength",
+        "Seeker In the Dark",
+        "Might of the Nerazim",
+        "Mending Strikes",
+        "Sentenced to Death",
+        "Twilight Falls"
+      ]
+    }
+  ],
+  "Zul'jin": [
+    {
+      "calculated_wins": 738,
+      "calculated_losses": 652,
+      "calculated_games_played": 1390,
+      "win_rate": 53.09,
+      "build_talents": [
+        "Recklessness",
+        "Amani Hide",
+        "Ferocity",
+        "Taz'dingo!",
+        "Eye of Zul'jin",
+        "Let the Killing Begin",
+        "Amani Resilience"
+      ]
+    },
+    {
+      "calculated_wins": 594,
+      "calculated_losses": 533,
+      "calculated_games_played": 1127,
+      "win_rate": 52.71,
+      "build_talents": [
+        "Recklessness",
+        "Amani Hide",
+        "Arcanite Axes",
+        "Taz'dingo!",
+        "Eye of Zul'jin",
+        "Wrong Place Wrong Time",
+        "Amani Resilience"
+      ]
+    },
+    {
+      "calculated_wins": 204,
+      "calculated_losses": 205,
+      "calculated_games_played": 409,
+      "win_rate": 49.88,
+      "build_talents": [
+        "Recklessness",
+        "Amani Hide",
+        "Arcanite Axes",
+        "Taz'dingo!",
+        "Lacerate",
+        "Wrong Place Wrong Time",
+        "Amani Resilience"
+      ]
+    },
+    {
+      "calculated_wins": 238,
+      "calculated_losses": 249,
+      "calculated_games_played": 487,
+      "win_rate": 48.87,
+      "build_talents": [
+        "Recklessness",
+        "Voodoo Shuffle",
+        "Arcanite Axes",
+        "Taz'dingo!",
+        "Eye of Zul'jin",
+        "Wrong Place Wrong Time",
+        "Amani Resilience"
+      ]
+    },
+    {
+      "calculated_wins": 221,
+      "calculated_losses": 252,
+      "calculated_games_played": 473,
+      "win_rate": 46.72,
+      "build_talents": [
+        "Recklessness",
+        "Amani Hide",
+        "Arcanite Axes",
+        "Taz'dingo!",
+        "Eye of Zul'jin",
+        "Let the Killing Begin",
+        "Amani Resilience"
+      ]
+    }
+  ]
+}

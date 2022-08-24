@@ -1,0 +1,10 @@
+pydantic
+fastapi
+python-dotenv
+sqlalchemy
+pyodbc
+jupyter
+pandas
+sqlacodegen
+streamlit
+sklearn

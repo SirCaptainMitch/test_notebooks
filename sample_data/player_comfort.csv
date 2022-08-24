@@ -1,0 +1,541 @@
+Player,HeroName,NewRole,ComfortScore
+Player 1,Abathur,Support,7
+Player 1,Alarak,Melee Assassin,1
+Player 1,Alexstrasza,Healer,10
+Player 1,Ana,Healer,5
+Player 1,Anduin,Healer,0
+Player 1,Anub'arak,Tank,1
+Player 1,Artanis,Bruiser,2
+Player 1,Arthas,Tank,2
+Player 1,Auriel,Healer,3
+Player 1,Azmodan,Ranged Assassin,9
+Player 1,Blaze,Tank,9
+Player 1,Brightwing,Healer,2
+Player 1,Cassia,Ranged Assassin,5
+Player 1,Chen,Bruiser,6
+Player 1,Cho,Tank,9
+Player 1,Chromie,Ranged Assassin,5
+Player 1,Deathwing,Bruiser,7
+Player 1,Deckard,Healer,3
+Player 1,Dehaka,Bruiser,2
+Player 1,Diablo,Tank,9
+Player 1,D.Va,Bruiser,0
+Player 1,E.T.C.,Tank,2
+Player 1,Falstad,Ranged Assassin,0
+Player 1,Fenix,Ranged Assassin,9
+Player 1,Gall,Ranged Assassin,8
+Player 1,Garrosh,Tank,3
+Player 1,Gazlowe,Bruiser,5
+Player 1,Genji,Ranged Assassin,0
+Player 1,Greymane,Ranged Assassin,0
+Player 1,Gul'dan,Ranged Assassin,7
+Player 1,Hanzo,Ranged Assassin,9
+Player 1,Hogger,Bruiser,10
+Player 1,Illidan,Melee Assassin,3
+Player 1,Imperius,Bruiser,9
+Player 1,Jaina,Ranged Assassin,6
+Player 1,Johanna,Tank,5
+Player 1,Junkrat,Ranged Assassin,7
+Player 1,Kael'thas,Ranged Assassin,0
+Player 1,Kel'Thuzad,Ranged Assassin,2
+Player 1,Kerrigan,Melee Assassin,7
+Player 1,Kharazim,Healer,8
+Player 1,Leoric,Bruiser,8
+Player 1,Li Li,Healer,5
+Player 1,Li-Ming,Ranged Assassin,10
+Player 1,The Lost Vikings,Support,9
+Player 1,Lt. Morales,Healer,6
+Player 1,Lúcio,Healer,3
+Player 1,Lunara,Ranged Assassin,9
+Player 1,Maiev,Melee Assassin,4
+Player 1,Malfurion,Healer,3
+Player 1,Mal'Ganis,Tank,8
+Player 1,Malthael,Bruiser,6
+Player 1,Medivh,Support,7
+Player 1,Mei,Tank,2
+Player 1,Mephisto,Ranged Assassin,8
+Player 1,Muradin,Tank,0
+Player 1,Murky,Melee Assassin,3
+Player 1,Nazeebo,Ranged Assassin,7
+Player 1,Nova,Ranged Assassin,1
+Player 1,Orphea,Ranged Assassin,1
+Player 1,Probius,Ranged Assassin,8
+Player 1,Qhira,Melee Assassin,3
+Player 1,Ragnaros,Bruiser,1
+Player 1,Raynor,Ranged Assassin,4
+Player 1,Rehgar,Healer,10
+Player 1,Rexxar,Bruiser,1
+Player 1,Samuro,Melee Assassin,5
+Player 1,Sgt. Hammer,Ranged Assassin,0
+Player 1,Sonya,Bruiser,4
+Player 1,Stitches,Tank,8
+Player 1,Stukov,Healer,6
+Player 1,Sylvanas,Ranged Assassin,10
+Player 1,Tassadar,Ranged Assassin,1
+Player 1,The Butcher,Melee Assassin,5
+Player 1,Thrall,Bruiser,10
+Player 1,Tracer,Ranged Assassin,1
+Player 1,Tychus,Ranged Assassin,10
+Player 1,Tyrael,Tank,2
+Player 1,Tyrande,Healer,2
+Player 1,Uther,Healer,7
+Player 1,Valeera,Melee Assassin,3
+Player 1,Valla,Ranged Assassin,9
+Player 1,Varian,Bruiser,1
+Player 1,Whitemane,Healer,6
+Player 1,Xul,Bruiser,3
+Player 1,Yrel,Bruiser,3
+Player 1,Zagara,Ranged Assassin,8
+Player 1,Zarya,Support,4
+Player 1,Zeratul,Melee Assassin,5
+Player 1,Zul'jin,Ranged Assassin,2
+Player 2,Abathur,Support,7
+Player 2,Alarak,Melee Assassin,10
+Player 2,Alexstrasza,Healer,5
+Player 2,Ana,Healer,1
+Player 2,Anduin,Healer,3
+Player 2,Anub'arak,Tank,9
+Player 2,Artanis,Bruiser,0
+Player 2,Arthas,Tank,8
+Player 2,Auriel,Healer,10
+Player 2,Azmodan,Ranged Assassin,7
+Player 2,Blaze,Tank,9
+Player 2,Brightwing,Healer,4
+Player 2,Cassia,Ranged Assassin,9
+Player 2,Chen,Bruiser,9
+Player 2,Cho,Tank,9
+Player 2,Chromie,Ranged Assassin,8
+Player 2,Deathwing,Bruiser,6
+Player 2,Deckard,Healer,9
+Player 2,Dehaka,Bruiser,9
+Player 2,Diablo,Tank,3
+Player 2,D.Va,Bruiser,9
+Player 2,E.T.C.,Tank,10
+Player 2,Falstad,Ranged Assassin,2
+Player 2,Fenix,Ranged Assassin,2
+Player 2,Gall,Ranged Assassin,5
+Player 2,Garrosh,Tank,2
+Player 2,Gazlowe,Bruiser,10
+Player 2,Genji,Ranged Assassin,10
+Player 2,Greymane,Ranged Assassin,0
+Player 2,Gul'dan,Ranged Assassin,2
+Player 2,Hanzo,Ranged Assassin,0
+Player 2,Hogger,Bruiser,8
+Player 2,Illidan,Melee Assassin,8
+Player 2,Imperius,Bruiser,0
+Player 2,Jaina,Ranged Assassin,9
+Player 2,Johanna,Tank,0
+Player 2,Junkrat,Ranged Assassin,9
+Player 2,Kael'thas,Ranged Assassin,9
+Player 2,Kel'Thuzad,Ranged Assassin,9
+Player 2,Kerrigan,Melee Assassin,2
+Player 2,Kharazim,Healer,6
+Player 2,Leoric,Bruiser,0
+Player 2,Li Li,Healer,3
+Player 2,Li-Ming,Ranged Assassin,6
+Player 2,The Lost Vikings,Support,2
+Player 2,Lt. Morales,Healer,5
+Player 2,Lúcio,Healer,3
+Player 2,Lunara,Ranged Assassin,10
+Player 2,Maiev,Melee Assassin,8
+Player 2,Malfurion,Healer,2
+Player 2,Mal'Ganis,Tank,8
+Player 2,Malthael,Bruiser,3
+Player 2,Medivh,Support,1
+Player 2,Mei,Tank,6
+Player 2,Mephisto,Ranged Assassin,8
+Player 2,Muradin,Tank,10
+Player 2,Murky,Melee Assassin,6
+Player 2,Nazeebo,Ranged Assassin,2
+Player 2,Nova,Ranged Assassin,8
+Player 2,Orphea,Ranged Assassin,10
+Player 2,Probius,Ranged Assassin,7
+Player 2,Qhira,Melee Assassin,7
+Player 2,Ragnaros,Bruiser,10
+Player 2,Raynor,Ranged Assassin,0
+Player 2,Rehgar,Healer,2
+Player 2,Rexxar,Bruiser,5
+Player 2,Samuro,Melee Assassin,9
+Player 2,Sgt. Hammer,Ranged Assassin,2
+Player 2,Sonya,Bruiser,5
+Player 2,Stitches,Tank,6
+Player 2,Stukov,Healer,4
+Player 2,Sylvanas,Ranged Assassin,2
+Player 2,Tassadar,Ranged Assassin,4
+Player 2,The Butcher,Melee Assassin,9
+Player 2,Thrall,Bruiser,6
+Player 2,Tracer,Ranged Assassin,6
+Player 2,Tychus,Ranged Assassin,10
+Player 2,Tyrael,Tank,1
+Player 2,Tyrande,Healer,1
+Player 2,Uther,Healer,3
+Player 2,Valeera,Melee Assassin,9
+Player 2,Valla,Ranged Assassin,7
+Player 2,Varian,Bruiser,2
+Player 2,Whitemane,Healer,4
+Player 2,Xul,Bruiser,9
+Player 2,Yrel,Bruiser,4
+Player 2,Zagara,Ranged Assassin,7
+Player 2,Zarya,Support,4
+Player 2,Zeratul,Melee Assassin,9
+Player 2,Zul'jin,Ranged Assassin,7
+Player 3,Abathur,Support,3
+Player 3,Alarak,Melee Assassin,3
+Player 3,Alexstrasza,Healer,7
+Player 3,Ana,Healer,3
+Player 3,Anduin,Healer,1
+Player 3,Anub'arak,Tank,8
+Player 3,Artanis,Bruiser,8
+Player 3,Arthas,Tank,3
+Player 3,Auriel,Healer,0
+Player 3,Azmodan,Ranged Assassin,10
+Player 3,Blaze,Tank,10
+Player 3,Brightwing,Healer,7
+Player 3,Cassia,Ranged Assassin,10
+Player 3,Chen,Bruiser,2
+Player 3,Cho,Tank,7
+Player 3,Chromie,Ranged Assassin,1
+Player 3,Deathwing,Bruiser,10
+Player 3,Deckard,Healer,8
+Player 3,Dehaka,Bruiser,5
+Player 3,Diablo,Tank,7
+Player 3,D.Va,Bruiser,6
+Player 3,E.T.C.,Tank,8
+Player 3,Falstad,Ranged Assassin,8
+Player 3,Fenix,Ranged Assassin,9
+Player 3,Gall,Ranged Assassin,2
+Player 3,Garrosh,Tank,4
+Player 3,Gazlowe,Bruiser,9
+Player 3,Genji,Ranged Assassin,4
+Player 3,Greymane,Ranged Assassin,6
+Player 3,Gul'dan,Ranged Assassin,4
+Player 3,Hanzo,Ranged Assassin,3
+Player 3,Hogger,Bruiser,2
+Player 3,Illidan,Melee Assassin,7
+Player 3,Imperius,Bruiser,4
+Player 3,Jaina,Ranged Assassin,6
+Player 3,Johanna,Tank,6
+Player 3,Junkrat,Ranged Assassin,2
+Player 3,Kael'thas,Ranged Assassin,3
+Player 3,Kel'Thuzad,Ranged Assassin,1
+Player 3,Kerrigan,Melee Assassin,6
+Player 3,Kharazim,Healer,5
+Player 3,Leoric,Bruiser,3
+Player 3,Li Li,Healer,10
+Player 3,Li-Ming,Ranged Assassin,7
+Player 3,The Lost Vikings,Support,7
+Player 3,Lt. Morales,Healer,2
+Player 3,Lúcio,Healer,6
+Player 3,Lunara,Ranged Assassin,8
+Player 3,Maiev,Melee Assassin,1
+Player 3,Malfurion,Healer,7
+Player 3,Mal'Ganis,Tank,9
+Player 3,Malthael,Bruiser,9
+Player 3,Medivh,Support,10
+Player 3,Mei,Tank,6
+Player 3,Mephisto,Ranged Assassin,9
+Player 3,Muradin,Tank,9
+Player 3,Murky,Melee Assassin,9
+Player 3,Nazeebo,Ranged Assassin,5
+Player 3,Nova,Ranged Assassin,2
+Player 3,Orphea,Ranged Assassin,3
+Player 3,Probius,Ranged Assassin,1
+Player 3,Qhira,Melee Assassin,7
+Player 3,Ragnaros,Bruiser,2
+Player 3,Raynor,Ranged Assassin,7
+Player 3,Rehgar,Healer,8
+Player 3,Rexxar,Bruiser,0
+Player 3,Samuro,Melee Assassin,6
+Player 3,Sgt. Hammer,Ranged Assassin,1
+Player 3,Sonya,Bruiser,10
+Player 3,Stitches,Tank,0
+Player 3,Stukov,Healer,10
+Player 3,Sylvanas,Ranged Assassin,10
+Player 3,Tassadar,Ranged Assassin,9
+Player 3,The Butcher,Melee Assassin,5
+Player 3,Thrall,Bruiser,4
+Player 3,Tracer,Ranged Assassin,2
+Player 3,Tychus,Ranged Assassin,2
+Player 3,Tyrael,Tank,8
+Player 3,Tyrande,Healer,4
+Player 3,Uther,Healer,9
+Player 3,Valeera,Melee Assassin,9
+Player 3,Valla,Ranged Assassin,3
+Player 3,Varian,Bruiser,7
+Player 3,Whitemane,Healer,6
+Player 3,Xul,Bruiser,5
+Player 3,Yrel,Bruiser,4
+Player 3,Zagara,Ranged Assassin,2
+Player 3,Zarya,Support,1
+Player 3,Zeratul,Melee Assassin,8
+Player 3,Zul'jin,Ranged Assassin,10
+Player 4,Abathur,Support,3
+Player 4,Alarak,Melee Assassin,0
+Player 4,Alexstrasza,Healer,2
+Player 4,Ana,Healer,7
+Player 4,Anduin,Healer,3
+Player 4,Anub'arak,Tank,4
+Player 4,Artanis,Bruiser,3
+Player 4,Arthas,Tank,8
+Player 4,Auriel,Healer,3
+Player 4,Azmodan,Ranged Assassin,4
+Player 4,Blaze,Tank,10
+Player 4,Brightwing,Healer,7
+Player 4,Cassia,Ranged Assassin,8
+Player 4,Chen,Bruiser,7
+Player 4,Cho,Tank,2
+Player 4,Chromie,Ranged Assassin,5
+Player 4,Deathwing,Bruiser,2
+Player 4,Deckard,Healer,0
+Player 4,Dehaka,Bruiser,10
+Player 4,Diablo,Tank,4
+Player 4,D.Va,Bruiser,1
+Player 4,E.T.C.,Tank,4
+Player 4,Falstad,Ranged Assassin,9
+Player 4,Fenix,Ranged Assassin,2
+Player 4,Gall,Ranged Assassin,4
+Player 4,Garrosh,Tank,3
+Player 4,Gazlowe,Bruiser,5
+Player 4,Genji,Ranged Assassin,5
+Player 4,Greymane,Ranged Assassin,8
+Player 4,Gul'dan,Ranged Assassin,0
+Player 4,Hanzo,Ranged Assassin,2
+Player 4,Hogger,Bruiser,3
+Player 4,Illidan,Melee Assassin,6
+Player 4,Imperius,Bruiser,9
+Player 4,Jaina,Ranged Assassin,0
+Player 4,Johanna,Tank,2
+Player 4,Junkrat,Ranged Assassin,2
+Player 4,Kael'thas,Ranged Assassin,2
+Player 4,Kel'Thuzad,Ranged Assassin,5
+Player 4,Kerrigan,Melee Assassin,10
+Player 4,Kharazim,Healer,5
+Player 4,Leoric,Bruiser,9
+Player 4,Li Li,Healer,4
+Player 4,Li-Ming,Ranged Assassin,2
+Player 4,The Lost Vikings,Support,8
+Player 4,Lt. Morales,Healer,3
+Player 4,Lúcio,Healer,1
+Player 4,Lunara,Ranged Assassin,3
+Player 4,Maiev,Melee Assassin,8
+Player 4,Malfurion,Healer,4
+Player 4,Mal'Ganis,Tank,9
+Player 4,Malthael,Bruiser,6
+Player 4,Medivh,Support,2
+Player 4,Mei,Tank,10
+Player 4,Mephisto,Ranged Assassin,6
+Player 4,Muradin,Tank,8
+Player 4,Murky,Melee Assassin,3
+Player 4,Nazeebo,Ranged Assassin,0
+Player 4,Nova,Ranged Assassin,7
+Player 4,Orphea,Ranged Assassin,4
+Player 4,Probius,Ranged Assassin,9
+Player 4,Qhira,Melee Assassin,6
+Player 4,Ragnaros,Bruiser,3
+Player 4,Raynor,Ranged Assassin,10
+Player 4,Rehgar,Healer,7
+Player 4,Rexxar,Bruiser,4
+Player 4,Samuro,Melee Assassin,2
+Player 4,Sgt. Hammer,Ranged Assassin,2
+Player 4,Sonya,Bruiser,10
+Player 4,Stitches,Tank,5
+Player 4,Stukov,Healer,10
+Player 4,Sylvanas,Ranged Assassin,10
+Player 4,Tassadar,Ranged Assassin,9
+Player 4,The Butcher,Melee Assassin,5
+Player 4,Thrall,Bruiser,2
+Player 4,Tracer,Ranged Assassin,5
+Player 4,Tychus,Ranged Assassin,4
+Player 4,Tyrael,Tank,6
+Player 4,Tyrande,Healer,10
+Player 4,Uther,Healer,9
+Player 4,Valeera,Melee Assassin,8
+Player 4,Valla,Ranged Assassin,6
+Player 4,Varian,Bruiser,8
+Player 4,Whitemane,Healer,10
+Player 4,Xul,Bruiser,6
+Player 4,Yrel,Bruiser,1
+Player 4,Zagara,Ranged Assassin,4
+Player 4,Zarya,Support,0
+Player 4,Zeratul,Melee Assassin,6
+Player 4,Zul'jin,Ranged Assassin,7
+Player 5,Abathur,Support,1
+Player 5,Alarak,Melee Assassin,1
+Player 5,Alexstrasza,Healer,3
+Player 5,Ana,Healer,5
+Player 5,Anduin,Healer,6
+Player 5,Anub'arak,Tank,1
+Player 5,Artanis,Bruiser,8
+Player 5,Arthas,Tank,7
+Player 5,Auriel,Healer,4
+Player 5,Azmodan,Ranged Assassin,2
+Player 5,Blaze,Tank,5
+Player 5,Brightwing,Healer,7
+Player 5,Cassia,Ranged Assassin,10
+Player 5,Chen,Bruiser,1
+Player 5,Cho,Tank,1
+Player 5,Chromie,Ranged Assassin,2
+Player 5,Deathwing,Bruiser,4
+Player 5,Deckard,Healer,2
+Player 5,Dehaka,Bruiser,1
+Player 5,Diablo,Tank,9
+Player 5,D.Va,Bruiser,2
+Player 5,E.T.C.,Tank,5
+Player 5,Falstad,Ranged Assassin,1
+Player 5,Fenix,Ranged Assassin,5
+Player 5,Gall,Ranged Assassin,7
+Player 5,Garrosh,Tank,10
+Player 5,Gazlowe,Bruiser,4
+Player 5,Genji,Ranged Assassin,0
+Player 5,Greymane,Ranged Assassin,4
+Player 5,Gul'dan,Ranged Assassin,1
+Player 5,Hanzo,Ranged Assassin,4
+Player 5,Hogger,Bruiser,3
+Player 5,Illidan,Melee Assassin,3
+Player 5,Imperius,Bruiser,10
+Player 5,Jaina,Ranged Assassin,9
+Player 5,Johanna,Tank,8
+Player 5,Junkrat,Ranged Assassin,4
+Player 5,Kael'thas,Ranged Assassin,9
+Player 5,Kel'Thuzad,Ranged Assassin,1
+Player 5,Kerrigan,Melee Assassin,5
+Player 5,Kharazim,Healer,9
+Player 5,Leoric,Bruiser,5
+Player 5,Li Li,Healer,3
+Player 5,Li-Ming,Ranged Assassin,10
+Player 5,The Lost Vikings,Support,6
+Player 5,Lt. Morales,Healer,3
+Player 5,Lúcio,Healer,10
+Player 5,Lunara,Ranged Assassin,10
+Player 5,Maiev,Melee Assassin,0
+Player 5,Malfurion,Healer,0
+Player 5,Mal'Ganis,Tank,5
+Player 5,Malthael,Bruiser,1
+Player 5,Medivh,Support,8
+Player 5,Mei,Tank,1
+Player 5,Mephisto,Ranged Assassin,0
+Player 5,Muradin,Tank,1
+Player 5,Murky,Melee Assassin,7
+Player 5,Nazeebo,Ranged Assassin,3
+Player 5,Nova,Ranged Assassin,6
+Player 5,Orphea,Ranged Assassin,0
+Player 5,Probius,Ranged Assassin,4
+Player 5,Qhira,Melee Assassin,7
+Player 5,Ragnaros,Bruiser,4
+Player 5,Raynor,Ranged Assassin,2
+Player 5,Rehgar,Healer,6
+Player 5,Rexxar,Bruiser,3
+Player 5,Samuro,Melee Assassin,2
+Player 5,Sgt. Hammer,Ranged Assassin,9
+Player 5,Sonya,Bruiser,5
+Player 5,Stitches,Tank,6
+Player 5,Stukov,Healer,8
+Player 5,Sylvanas,Ranged Assassin,4
+Player 5,Tassadar,Ranged Assassin,3
+Player 5,The Butcher,Melee Assassin,9
+Player 5,Thrall,Bruiser,7
+Player 5,Tracer,Ranged Assassin,5
+Player 5,Tychus,Ranged Assassin,3
+Player 5,Tyrael,Tank,8
+Player 5,Tyrande,Healer,5
+Player 5,Uther,Healer,9
+Player 5,Valeera,Melee Assassin,2
+Player 5,Valla,Ranged Assassin,9
+Player 5,Varian,Bruiser,7
+Player 5,Whitemane,Healer,7
+Player 5,Xul,Bruiser,5
+Player 5,Yrel,Bruiser,6
+Player 5,Zagara,Ranged Assassin,5
+Player 5,Zarya,Support,1
+Player 5,Zeratul,Melee Assassin,10
+Player 5,Zul'jin,Ranged Assassin,5
+Player 6,Abathur,Support,8
+Player 6,Alarak,Melee Assassin,7
+Player 6,Alexstrasza,Healer,0
+Player 6,Ana,Healer,4
+Player 6,Anduin,Healer,4
+Player 6,Anub'arak,Tank,8
+Player 6,Artanis,Bruiser,6
+Player 6,Arthas,Tank,6
+Player 6,Auriel,Healer,5
+Player 6,Azmodan,Ranged Assassin,3
+Player 6,Blaze,Tank,6
+Player 6,Brightwing,Healer,3
+Player 6,Cassia,Ranged Assassin,7
+Player 6,Chen,Bruiser,7
+Player 6,Cho,Tank,6
+Player 6,Chromie,Ranged Assassin,10
+Player 6,Deathwing,Bruiser,1
+Player 6,Deckard,Healer,10
+Player 6,Dehaka,Bruiser,4
+Player 6,Diablo,Tank,8
+Player 6,D.Va,Bruiser,0
+Player 6,E.T.C.,Tank,10
+Player 6,Falstad,Ranged Assassin,7
+Player 6,Fenix,Ranged Assassin,4
+Player 6,Gall,Ranged Assassin,3
+Player 6,Garrosh,Tank,2
+Player 6,Gazlowe,Bruiser,7
+Player 6,Genji,Ranged Assassin,5
+Player 6,Greymane,Ranged Assassin,3
+Player 6,Gul'dan,Ranged Assassin,1
+Player 6,Hanzo,Ranged Assassin,5
+Player 6,Hogger,Bruiser,9
+Player 6,Illidan,Melee Assassin,2
+Player 6,Imperius,Bruiser,7
+Player 6,Jaina,Ranged Assassin,4
+Player 6,Johanna,Tank,4
+Player 6,Junkrat,Ranged Assassin,9
+Player 6,Kael'thas,Ranged Assassin,6
+Player 6,Kel'Thuzad,Ranged Assassin,1
+Player 6,Kerrigan,Melee Assassin,3
+Player 6,Kharazim,Healer,5
+Player 6,Leoric,Bruiser,7
+Player 6,Li Li,Healer,0
+Player 6,Li-Ming,Ranged Assassin,1
+Player 6,The Lost Vikings,Support,9
+Player 6,Lt. Morales,Healer,5
+Player 6,Lúcio,Healer,7
+Player 6,Lunara,Ranged Assassin,3
+Player 6,Maiev,Melee Assassin,5
+Player 6,Malfurion,Healer,2
+Player 6,Mal'Ganis,Tank,7
+Player 6,Malthael,Bruiser,9
+Player 6,Medivh,Support,6
+Player 6,Mei,Tank,3
+Player 6,Mephisto,Ranged Assassin,10
+Player 6,Muradin,Tank,7
+Player 6,Murky,Melee Assassin,3
+Player 6,Nazeebo,Ranged Assassin,10
+Player 6,Nova,Ranged Assassin,3
+Player 6,Orphea,Ranged Assassin,0
+Player 6,Probius,Ranged Assassin,4
+Player 6,Qhira,Melee Assassin,2
+Player 6,Ragnaros,Bruiser,5
+Player 6,Raynor,Ranged Assassin,0
+Player 6,Rehgar,Healer,7
+Player 6,Rexxar,Bruiser,5
+Player 6,Samuro,Melee Assassin,5
+Player 6,Sgt. Hammer,Ranged Assassin,2
+Player 6,Sonya,Bruiser,9
+Player 6,Stitches,Tank,6
+Player 6,Stukov,Healer,1
+Player 6,Sylvanas,Ranged Assassin,3
+Player 6,Tassadar,Ranged Assassin,4
+Player 6,The Butcher,Melee Assassin,1
+Player 6,Thrall,Bruiser,2
+Player 6,Tracer,Ranged Assassin,3
+Player 6,Tychus,Ranged Assassin,6
+Player 6,Tyrael,Tank,5
+Player 6,Tyrande,Healer,6
+Player 6,Uther,Healer,3
+Player 6,Valeera,Melee Assassin,0
+Player 6,Valla,Ranged Assassin,8
+Player 6,Varian,Bruiser,7
+Player 6,Whitemane,Healer,2
+Player 6,Xul,Bruiser,0
+Player 6,Yrel,Bruiser,8
+Player 6,Zagara,Ranged Assassin,10
+Player 6,Zarya,Support,4
+Player 6,Zeratul,Melee Assassin,4
+Player 6,Zul'jin,Ranged Assassin,0

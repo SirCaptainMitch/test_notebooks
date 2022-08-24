@@ -1,0 +1,902 @@
+{
+  "Abathur": {
+    "losses": 2751,
+    "wins": 2186,
+    "bans": 5607,
+    "games_played": 4937,
+    "win_rate": 44.28,
+    "popularity": 17.58,
+    "ban_rate": 9.35,
+    "pick_rate": 8.23
+  },
+  "Alarak": {
+    "losses": 2294,
+    "wins": 2247,
+    "bans": 1304,
+    "games_played": 4541,
+    "win_rate": 49.48,
+    "popularity": 9.74,
+    "ban_rate": 2.17,
+    "pick_rate": 7.57
+  },
+  "Alexstrasza": {
+    "losses": 1775,
+    "wins": 1662,
+    "bans": 361,
+    "games_played": 3437,
+    "win_rate": 48.36,
+    "popularity": 6.33,
+    "ban_rate": 0.6,
+    "pick_rate": 5.73
+  },
+  "Ana": {
+    "losses": 2125,
+    "wins": 1749,
+    "bans": 784,
+    "games_played": 3874,
+    "win_rate": 45.15,
+    "popularity": 7.77,
+    "ban_rate": 1.31,
+    "pick_rate": 6.46
+  },
+  "Anduin": {
+    "losses": 8975,
+    "wins": 8792,
+    "bans": 11793,
+    "games_played": 17767,
+    "win_rate": 49.49,
+    "popularity": 49.28,
+    "ban_rate": 19.66,
+    "pick_rate": 29.62
+  },
+  "Anub'arak": {
+    "losses": 5479,
+    "wins": 6212,
+    "bans": 8935,
+    "games_played": 11691,
+    "win_rate": 53.13,
+    "popularity": 34.39,
+    "ban_rate": 14.9,
+    "pick_rate": 19.49
+  },
+  "Artanis": {
+    "losses": 6234,
+    "wins": 6284,
+    "bans": 6317,
+    "games_played": 12518,
+    "win_rate": 50.2,
+    "popularity": 31.4,
+    "ban_rate": 10.53,
+    "pick_rate": 20.87
+  },
+  "Arthas": {
+    "losses": 2395,
+    "wins": 2115,
+    "bans": 673,
+    "games_played": 4510,
+    "win_rate": 46.9,
+    "popularity": 8.64,
+    "ban_rate": 1.12,
+    "pick_rate": 7.52
+  },
+  "Auriel": {
+    "losses": 2215,
+    "wins": 2131,
+    "bans": 464,
+    "games_played": 4346,
+    "win_rate": 49.03,
+    "popularity": 8.02,
+    "ban_rate": 0.77,
+    "pick_rate": 7.25
+  },
+  "Azmodan": {
+    "losses": 5158,
+    "wins": 5215,
+    "bans": 10660,
+    "games_played": 10373,
+    "win_rate": 50.27,
+    "popularity": 35.06,
+    "ban_rate": 17.77,
+    "pick_rate": 17.29
+  },
+  "Blaze": {
+    "losses": 4596,
+    "wins": 4581,
+    "bans": 3344,
+    "games_played": 9177,
+    "win_rate": 49.92,
+    "popularity": 20.87,
+    "ban_rate": 5.57,
+    "pick_rate": 15.3
+  },
+  "Brightwing": {
+    "losses": 7291,
+    "wins": 7075,
+    "bans": 35613,
+    "games_played": 14366,
+    "win_rate": 49.25,
+    "popularity": 83.32,
+    "ban_rate": 59.37,
+    "pick_rate": 23.95
+  },
+  "Cassia": {
+    "losses": 2196,
+    "wins": 2145,
+    "bans": 427,
+    "games_played": 4341,
+    "win_rate": 49.41,
+    "popularity": 7.95,
+    "ban_rate": 0.71,
+    "pick_rate": 7.24
+  },
+  "Chen": {
+    "losses": 966,
+    "wins": 861,
+    "bans": 252,
+    "games_played": 1827,
+    "win_rate": 47.13,
+    "popularity": 3.47,
+    "ban_rate": 0.42,
+    "pick_rate": 3.05
+  },
+  "Cho": {
+    "losses": 501,
+    "wins": 499,
+    "bans": 1115,
+    "games_played": 1000,
+    "win_rate": 49.9,
+    "popularity": 3.53,
+    "ban_rate": 1.86,
+    "pick_rate": 1.67
+  },
+  "Chromie": {
+    "losses": 2334,
+    "wins": 2180,
+    "bans": 1529,
+    "games_played": 4514,
+    "win_rate": 48.29,
+    "popularity": 10.07,
+    "ban_rate": 2.55,
+    "pick_rate": 7.53
+  },
+  "D.Va": {
+    "losses": 1776,
+    "wins": 1752,
+    "bans": 432,
+    "games_played": 3528,
+    "win_rate": 49.66,
+    "popularity": 6.6,
+    "ban_rate": 0.72,
+    "pick_rate": 5.88
+  },
+  "Deathwing": {
+    "losses": 1713,
+    "wins": 1824,
+    "bans": 1672,
+    "games_played": 3537,
+    "win_rate": 51.57,
+    "popularity": 8.68,
+    "ban_rate": 2.79,
+    "pick_rate": 5.9
+  },
+  "Deckard": {
+    "losses": 2596,
+    "wins": 2329,
+    "bans": 673,
+    "games_played": 4925,
+    "win_rate": 47.29,
+    "popularity": 9.33,
+    "ban_rate": 1.12,
+    "pick_rate": 8.21
+  },
+  "Dehaka": {
+    "losses": 3674,
+    "wins": 3619,
+    "bans": 13048,
+    "games_played": 7293,
+    "win_rate": 49.62,
+    "popularity": 33.91,
+    "ban_rate": 21.75,
+    "pick_rate": 12.16
+  },
+  "Diablo": {
+    "losses": 7447,
+    "wins": 6939,
+    "bans": 14861,
+    "games_played": 14386,
+    "win_rate": 48.23,
+    "popularity": 48.76,
+    "ban_rate": 24.78,
+    "pick_rate": 23.98
+  },
+  "E.T.C.": {
+    "losses": 4578,
+    "wins": 4335,
+    "bans": 3287,
+    "games_played": 8913,
+    "win_rate": 48.64,
+    "popularity": 20.34,
+    "ban_rate": 5.48,
+    "pick_rate": 14.86
+  },
+  "Falstad": {
+    "losses": 5009,
+    "wins": 5017,
+    "bans": 4980,
+    "games_played": 10026,
+    "win_rate": 50.04,
+    "popularity": 25.02,
+    "ban_rate": 8.3,
+    "pick_rate": 16.71
+  },
+  "Fenix": {
+    "losses": 1068,
+    "wins": 1118,
+    "bans": 206,
+    "games_played": 2186,
+    "win_rate": 51.14,
+    "popularity": 3.99,
+    "ban_rate": 0.34,
+    "pick_rate": 3.64
+  },
+  "Gall": {
+    "losses": 501,
+    "wins": 499,
+    "bans": 482,
+    "games_played": 1000,
+    "win_rate": 49.9,
+    "popularity": 2.47,
+    "ban_rate": 0.8,
+    "pick_rate": 1.67
+  },
+  "Garrosh": {
+    "losses": 3834,
+    "wins": 3796,
+    "bans": 18822,
+    "games_played": 7630,
+    "win_rate": 49.75,
+    "popularity": 44.1,
+    "ban_rate": 31.38,
+    "pick_rate": 12.72
+  },
+  "Gazlowe": {
+    "losses": 2584,
+    "wins": 2819,
+    "bans": 1422,
+    "games_played": 5403,
+    "win_rate": 52.17,
+    "popularity": 11.38,
+    "ban_rate": 2.37,
+    "pick_rate": 9.01
+  },
+  "Genji": {
+    "losses": 2923,
+    "wins": 2609,
+    "bans": 2696,
+    "games_played": 5532,
+    "win_rate": 47.16,
+    "popularity": 13.72,
+    "ban_rate": 4.49,
+    "pick_rate": 9.22
+  },
+  "Greymane": {
+    "losses": 3169,
+    "wins": 3335,
+    "bans": 988,
+    "games_played": 6504,
+    "win_rate": 51.28,
+    "popularity": 12.49,
+    "ban_rate": 1.65,
+    "pick_rate": 10.84
+  },
+  "Gul'dan": {
+    "losses": 3291,
+    "wins": 3019,
+    "bans": 1151,
+    "games_played": 6310,
+    "win_rate": 47.84,
+    "popularity": 12.44,
+    "ban_rate": 1.92,
+    "pick_rate": 10.52
+  },
+  "Hanzo": {
+    "losses": 4955,
+    "wins": 4393,
+    "bans": 1993,
+    "games_played": 9348,
+    "win_rate": 46.99,
+    "popularity": 18.91,
+    "ban_rate": 3.32,
+    "pick_rate": 15.58
+  },
+  "Hogger": {
+    "losses": 3373,
+    "wins": 3810,
+    "bans": 6519,
+    "games_played": 7183,
+    "win_rate": 53.04,
+    "popularity": 22.84,
+    "ban_rate": 10.87,
+    "pick_rate": 11.98
+  },
+  "Illidan": {
+    "losses": 1918,
+    "wins": 1922,
+    "bans": 1369,
+    "games_played": 3840,
+    "win_rate": 50.05,
+    "popularity": 8.68,
+    "ban_rate": 2.28,
+    "pick_rate": 6.4
+  },
+  "Imperius": {
+    "losses": 3013,
+    "wins": 2639,
+    "bans": 804,
+    "games_played": 5652,
+    "win_rate": 46.69,
+    "popularity": 10.76,
+    "ban_rate": 1.34,
+    "pick_rate": 9.42
+  },
+  "Jaina": {
+    "losses": 5020,
+    "wins": 5487,
+    "bans": 1167,
+    "games_played": 10507,
+    "win_rate": 52.22,
+    "popularity": 19.46,
+    "ban_rate": 1.95,
+    "pick_rate": 17.52
+  },
+  "Johanna": {
+    "losses": 6578,
+    "wins": 7010,
+    "bans": 36842,
+    "games_played": 13588,
+    "win_rate": 51.59,
+    "popularity": 84.07,
+    "ban_rate": 61.42,
+    "pick_rate": 22.65
+  },
+  "Junkrat": {
+    "losses": 3232,
+    "wins": 3220,
+    "bans": 4518,
+    "games_played": 6452,
+    "win_rate": 49.91,
+    "popularity": 18.29,
+    "ban_rate": 7.53,
+    "pick_rate": 10.76
+  },
+  "Kael'thas": {
+    "losses": 4691,
+    "wins": 4606,
+    "bans": 9041,
+    "games_played": 9297,
+    "win_rate": 49.54,
+    "popularity": 30.57,
+    "ban_rate": 15.07,
+    "pick_rate": 15.5
+  },
+  "Kel'Thuzad": {
+    "losses": 2181,
+    "wins": 2026,
+    "bans": 1678,
+    "games_played": 4207,
+    "win_rate": 48.16,
+    "popularity": 9.81,
+    "ban_rate": 2.8,
+    "pick_rate": 7.01
+  },
+  "Kerrigan": {
+    "losses": 986,
+    "wins": 1107,
+    "bans": 358,
+    "games_played": 2093,
+    "win_rate": 52.89,
+    "popularity": 4.09,
+    "ban_rate": 0.6,
+    "pick_rate": 3.49
+  },
+  "Kharazim": {
+    "losses": 2120,
+    "wins": 2187,
+    "bans": 197,
+    "games_played": 4307,
+    "win_rate": 50.78,
+    "popularity": 7.51,
+    "ban_rate": 0.33,
+    "pick_rate": 7.18
+  },
+  "Leoric": {
+    "losses": 4472,
+    "wins": 4990,
+    "bans": 2098,
+    "games_played": 9462,
+    "win_rate": 52.74,
+    "popularity": 19.27,
+    "ban_rate": 3.5,
+    "pick_rate": 15.77
+  },
+  "Li Li": {
+    "losses": 3664,
+    "wins": 3127,
+    "bans": 1700,
+    "games_played": 6791,
+    "win_rate": 46.05,
+    "popularity": 14.16,
+    "ban_rate": 2.83,
+    "pick_rate": 11.32
+  },
+  "Li-Ming": {
+    "losses": 7410,
+    "wins": 6608,
+    "bans": 6907,
+    "games_played": 14018,
+    "win_rate": 47.14,
+    "popularity": 34.88,
+    "ban_rate": 11.51,
+    "pick_rate": 23.37
+  },
+  "Lt. Morales": {
+    "losses": 2113,
+    "wins": 2047,
+    "bans": 1023,
+    "games_played": 4160,
+    "win_rate": 49.21,
+    "popularity": 8.64,
+    "ban_rate": 1.71,
+    "pick_rate": 6.94
+  },
+  "Lúcio": {
+    "losses": 4606,
+    "wins": 4184,
+    "bans": 4118,
+    "games_played": 8790,
+    "win_rate": 47.6,
+    "popularity": 21.52,
+    "ban_rate": 6.87,
+    "pick_rate": 14.65
+  },
+  "Lunara": {
+    "losses": 2729,
+    "wins": 2572,
+    "bans": 856,
+    "games_played": 5301,
+    "win_rate": 48.52,
+    "popularity": 10.26,
+    "ban_rate": 1.43,
+    "pick_rate": 8.84
+  },
+  "Maiev": {
+    "losses": 1489,
+    "wins": 1573,
+    "bans": 658,
+    "games_played": 3062,
+    "win_rate": 51.37,
+    "popularity": 6.2,
+    "ban_rate": 1.1,
+    "pick_rate": 5.1
+  },
+  "Mal'Ganis": {
+    "losses": 1738,
+    "wins": 1630,
+    "bans": 865,
+    "games_played": 3368,
+    "win_rate": 48.4,
+    "popularity": 7.06,
+    "ban_rate": 1.44,
+    "pick_rate": 5.61
+  },
+  "Malfurion": {
+    "losses": 3762,
+    "wins": 3597,
+    "bans": 1307,
+    "games_played": 7359,
+    "win_rate": 48.88,
+    "popularity": 14.45,
+    "ban_rate": 2.18,
+    "pick_rate": 12.27
+  },
+  "Malthael": {
+    "losses": 2009,
+    "wins": 2079,
+    "bans": 715,
+    "games_played": 4088,
+    "win_rate": 50.86,
+    "popularity": 8.01,
+    "ban_rate": 1.19,
+    "pick_rate": 6.82
+  },
+  "Medivh": {
+    "losses": 1035,
+    "wins": 800,
+    "bans": 538,
+    "games_played": 1835,
+    "win_rate": 43.6,
+    "popularity": 3.96,
+    "ban_rate": 0.9,
+    "pick_rate": 3.06
+  },
+  "Mei": {
+    "losses": 3274,
+    "wins": 3262,
+    "bans": 2084,
+    "games_played": 6536,
+    "win_rate": 49.91,
+    "popularity": 14.37,
+    "ban_rate": 3.47,
+    "pick_rate": 10.9
+  },
+  "Mephisto": {
+    "losses": 1770,
+    "wins": 1880,
+    "bans": 1145,
+    "games_played": 3650,
+    "win_rate": 51.51,
+    "popularity": 7.99,
+    "ban_rate": 1.91,
+    "pick_rate": 6.09
+  },
+  "Muradin": {
+    "losses": 9028,
+    "wins": 9065,
+    "bans": 4073,
+    "games_played": 18093,
+    "win_rate": 50.1,
+    "popularity": 36.95,
+    "ban_rate": 6.79,
+    "pick_rate": 30.16
+  },
+  "Murky": {
+    "losses": 1048,
+    "wins": 956,
+    "bans": 542,
+    "games_played": 2004,
+    "win_rate": 47.7,
+    "popularity": 4.24,
+    "ban_rate": 0.9,
+    "pick_rate": 3.34
+  },
+  "Nazeebo": {
+    "losses": 6855,
+    "wins": 7230,
+    "bans": 3786,
+    "games_played": 14085,
+    "win_rate": 51.33,
+    "popularity": 29.79,
+    "ban_rate": 6.31,
+    "pick_rate": 23.48
+  },
+  "Nova": {
+    "losses": 1800,
+    "wins": 1582,
+    "bans": 455,
+    "games_played": 3382,
+    "win_rate": 46.78,
+    "popularity": 6.4,
+    "ban_rate": 0.76,
+    "pick_rate": 5.64
+  },
+  "Orphea": {
+    "losses": 2615,
+    "wins": 2745,
+    "bans": 671,
+    "games_played": 5360,
+    "win_rate": 51.21,
+    "popularity": 10.05,
+    "ban_rate": 1.12,
+    "pick_rate": 8.94
+  },
+  "Probius": {
+    "losses": 561,
+    "wins": 618,
+    "bans": 180,
+    "games_played": 1179,
+    "win_rate": 52.42,
+    "popularity": 2.27,
+    "ban_rate": 0.3,
+    "pick_rate": 1.97
+  },
+  "Qhira": {
+    "losses": 1866,
+    "wins": 1770,
+    "bans": 351,
+    "games_played": 3636,
+    "win_rate": 48.68,
+    "popularity": 6.65,
+    "ban_rate": 0.59,
+    "pick_rate": 6.06
+  },
+  "Ragnaros": {
+    "losses": 3865,
+    "wins": 4339,
+    "bans": 5183,
+    "games_played": 8204,
+    "win_rate": 52.89,
+    "popularity": 22.32,
+    "ban_rate": 8.64,
+    "pick_rate": 13.68
+  },
+  "Raynor": {
+    "losses": 4011,
+    "wins": 4053,
+    "bans": 1220,
+    "games_played": 8064,
+    "win_rate": 50.26,
+    "popularity": 15.48,
+    "ban_rate": 2.03,
+    "pick_rate": 13.44
+  },
+  "Rehgar": {
+    "losses": 7368,
+    "wins": 9631,
+    "bans": 14078,
+    "games_played": 16999,
+    "win_rate": 56.66,
+    "popularity": 51.81,
+    "ban_rate": 23.47,
+    "pick_rate": 28.34
+  },
+  "Rexxar": {
+    "losses": 1091,
+    "wins": 1244,
+    "bans": 1657,
+    "games_played": 2335,
+    "win_rate": 53.28,
+    "popularity": 6.66,
+    "ban_rate": 2.76,
+    "pick_rate": 3.89
+  },
+  "Samuro": {
+    "losses": 1296,
+    "wins": 1580,
+    "bans": 1393,
+    "games_played": 2876,
+    "win_rate": 54.94,
+    "popularity": 7.12,
+    "ban_rate": 2.32,
+    "pick_rate": 4.79
+  },
+  "Sgt. Hammer": {
+    "losses": 1514,
+    "wins": 1602,
+    "bans": 1758,
+    "games_played": 3116,
+    "win_rate": 51.41,
+    "popularity": 8.13,
+    "ban_rate": 2.93,
+    "pick_rate": 5.19
+  },
+  "Sonya": {
+    "losses": 4171,
+    "wins": 4237,
+    "bans": 2477,
+    "games_played": 8408,
+    "win_rate": 50.39,
+    "popularity": 18.15,
+    "ban_rate": 4.13,
+    "pick_rate": 14.02
+  },
+  "Stitches": {
+    "losses": 5823,
+    "wins": 5413,
+    "bans": 6045,
+    "games_played": 11236,
+    "win_rate": 48.18,
+    "popularity": 28.81,
+    "ban_rate": 10.08,
+    "pick_rate": 18.73
+  },
+  "Stukov": {
+    "losses": 5051,
+    "wins": 4802,
+    "bans": 21665,
+    "games_played": 9853,
+    "win_rate": 48.74,
+    "popularity": 52.54,
+    "ban_rate": 36.12,
+    "pick_rate": 16.43
+  },
+  "Sylvanas": {
+    "losses": 4907,
+    "wins": 4868,
+    "bans": 2960,
+    "games_played": 9775,
+    "win_rate": 49.8,
+    "popularity": 21.23,
+    "ban_rate": 4.93,
+    "pick_rate": 16.3
+  },
+  "Tassadar": {
+    "losses": 4608,
+    "wins": 4711,
+    "bans": 918,
+    "games_played": 9319,
+    "win_rate": 50.55,
+    "popularity": 17.07,
+    "ban_rate": 1.53,
+    "pick_rate": 15.54
+  },
+  "The Butcher": {
+    "losses": 1930,
+    "wins": 1970,
+    "bans": 1647,
+    "games_played": 3900,
+    "win_rate": 50.51,
+    "popularity": 9.25,
+    "ban_rate": 2.75,
+    "pick_rate": 6.5
+  },
+  "The Lost Vikings": {
+    "losses": 569,
+    "wins": 606,
+    "bans": 1598,
+    "games_played": 1175,
+    "win_rate": 51.57,
+    "popularity": 4.62,
+    "ban_rate": 2.66,
+    "pick_rate": 1.96
+  },
+  "Thrall": {
+    "losses": 3779,
+    "wins": 3377,
+    "bans": 379,
+    "games_played": 7156,
+    "win_rate": 47.19,
+    "popularity": 12.56,
+    "ban_rate": 0.63,
+    "pick_rate": 11.93
+  },
+  "Tracer": {
+    "losses": 1705,
+    "wins": 1934,
+    "bans": 1175,
+    "games_played": 3639,
+    "win_rate": 53.15,
+    "popularity": 8.03,
+    "ban_rate": 1.96,
+    "pick_rate": 6.07
+  },
+  "Tychus": {
+    "losses": 5277,
+    "wins": 5406,
+    "bans": 4845,
+    "games_played": 10683,
+    "win_rate": 50.6,
+    "popularity": 25.89,
+    "ban_rate": 8.08,
+    "pick_rate": 17.81
+  },
+  "Tyrael": {
+    "losses": 1799,
+    "wins": 1864,
+    "bans": 216,
+    "games_played": 3663,
+    "win_rate": 50.89,
+    "popularity": 6.47,
+    "ban_rate": 0.36,
+    "pick_rate": 6.11
+  },
+  "Tyrande": {
+    "losses": 2930,
+    "wins": 3192,
+    "bans": 338,
+    "games_played": 6122,
+    "win_rate": 52.14,
+    "popularity": 10.77,
+    "ban_rate": 0.56,
+    "pick_rate": 10.21
+  },
+  "Uther": {
+    "losses": 2509,
+    "wins": 2597,
+    "bans": 936,
+    "games_played": 5106,
+    "win_rate": 50.86,
+    "popularity": 10.07,
+    "ban_rate": 1.56,
+    "pick_rate": 8.51
+  },
+  "Valeera": {
+    "losses": 1232,
+    "wins": 1064,
+    "bans": 765,
+    "games_played": 2296,
+    "win_rate": 46.34,
+    "popularity": 5.1,
+    "ban_rate": 1.28,
+    "pick_rate": 3.83
+  },
+  "Valla": {
+    "losses": 10177,
+    "wins": 10359,
+    "bans": 11294,
+    "games_played": 20536,
+    "win_rate": 50.44,
+    "popularity": 53.07,
+    "ban_rate": 18.83,
+    "pick_rate": 34.24
+  },
+  "Varian": {
+    "losses": 6322,
+    "wins": 6234,
+    "bans": 4797,
+    "games_played": 12556,
+    "win_rate": 49.65,
+    "popularity": 28.93,
+    "ban_rate": 8,
+    "pick_rate": 20.93
+  },
+  "Whitemane": {
+    "losses": 1543,
+    "wins": 1590,
+    "bans": 308,
+    "games_played": 3133,
+    "win_rate": 50.75,
+    "popularity": 5.74,
+    "ban_rate": 0.51,
+    "pick_rate": 5.22
+  },
+  "Xul": {
+    "losses": 2341,
+    "wins": 2574,
+    "bans": 1066,
+    "games_played": 4915,
+    "win_rate": 52.37,
+    "popularity": 9.97,
+    "ban_rate": 1.78,
+    "pick_rate": 8.19
+  },
+  "Yrel": {
+    "losses": 960,
+    "wins": 862,
+    "bans": 196,
+    "games_played": 1822,
+    "win_rate": 47.31,
+    "popularity": 3.36,
+    "ban_rate": 0.33,
+    "pick_rate": 3.04
+  },
+  "Zagara": {
+    "losses": 2435,
+    "wins": 2533,
+    "bans": 1303,
+    "games_played": 4968,
+    "win_rate": 50.99,
+    "popularity": 10.45,
+    "ban_rate": 2.17,
+    "pick_rate": 8.28
+  },
+  "Zarya": {
+    "losses": 962,
+    "wins": 913,
+    "bans": 269,
+    "games_played": 1875,
+    "win_rate": 48.69,
+    "popularity": 3.57,
+    "ban_rate": 0.45,
+    "pick_rate": 3.13
+  },
+  "Zeratul": {
+    "losses": 2128,
+    "wins": 2161,
+    "bans": 2695,
+    "games_played": 4289,
+    "win_rate": 50.38,
+    "popularity": 11.64,
+    "ban_rate": 4.49,
+    "pick_rate": 7.15
+  },
+  "Zul'jin": {
+    "losses": 4253,
+    "wins": 4533,
+    "bans": 2857,
+    "games_played": 8786,
+    "win_rate": 51.59,
+    "popularity": 19.41,
+    "ban_rate": 4.76,
+    "pick_rate": 14.65
+  }
+}
